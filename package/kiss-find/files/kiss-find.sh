@@ -1,54 +1,72 @@
 #!/bin/sh -e
 # Search for packages across every known repository
+# kiss-find version 2.1
 
-VERSION="2"
 DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
 UPDATE_URL="https://jedahan.com/kiss-find/db.csv"
-UPDATE_MESSAGE=':: Please run `kiss find --update` to download the latest database'
-UPDATE_INTERVAL=$((7 * 24 * 60 * 60)) # 7 days
-mkdir -p "$(dirname "${DB_PATH}")"
 
 help() {
-  echo "kiss-find ${VERSION}"
-  echo "$0 <query>         :: Search for packages across every known repository"
-  echo "$0 -u, --update    :: Update package database"
-  echo "$0 -h, --help      :: Show this help"
-  exit
-}
-
-log() {
-  echo "$@" >&2
-}
-
-die() {
-  log "$@"
-  exit 1
+    printf "usage: kiss-find [-u] <query>\n"
+    printf "search for <query> in packages across every known repository\n"
+    printf "\t-u\tUpdate package database\n"
 }
 
 update() {
-  if command -v curl >/dev/null 2>&1; then
-    command curl --location --silent --user-agent "kiss-find/${VERSION}" "${UPDATE_URL}" --output "${DB_PATH}"
-  elif command -v wget >/dev/null 2>&1; then
-    command wget -U "kiss-find/${VERSION}" "${UPDATE_URL}" -O "${DB_PATH}"
-  else
-    die 'please install curl or wget to update'
-  fi
+    # taken from kiss
+    cmd_get=${KISS_GET:-"$(
+        command -v aria2c ||
+        command -v axel   ||
+        command -v curl   ||
+        command -v wget   ||
+        command -v wget2
+    )"} || {
+        printf ":: No download utility found (aria2c, axel, curl, wget, wget2)\n" >&2
+        exit 1
+    }
 
-  log ':: Update done'
-  exit
+    tmpfile="${KISS_TMPDIR:-/tmp}/kiss-find-db.csv"
+    rm -f "$tmpfile"
+
+    set -- "$tmpfile" "$UPDATE_URL"
+    # Set the arguments based on found download utility.
+    case ${cmd_get##*/} in
+        aria2c|axel) set -- -o   "$@" ;;
+               curl) set -- -fLo "$@" ;;
+         wget|wget2) set -- -O   "$@" ;;
+    esac
+
+    "$cmd_get" "$@" || {
+        printf ":: Failed to download\n" >&2
+        rm -f "$tmpfile"
+        exit 1
+    }
+
+    mv -f "$tmpfile" "$DB_PATH"
+    printf ":: Update done\n" >&2
 }
 
-case "$1" in
-"" | "-h" | "--help") help ;;
-"-u" | "--update") update ;;
-esac
-if [ -f "${DB_PATH}" ] && [ "$(($(date -r "${DB_PATH}" +%s) + UPDATE_INTERVAL))" -lt "$(date +%s)" ]; then log "$UPDATE_MESSAGE"; fi
-if [ ! -f "${DB_PATH}" ]; then die "$UPDATE_MESSAGE"; fi
+mkdir -p "$(dirname "$DB_PATH")"
 
-_grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} || die "no grep found"
-results=$("$_grep" "$@" "${DB_PATH}" | sort)
+case "$1" in
+    "" | "-h"*)
+        help
+        exit
+    ;;
+    "-u"*)
+        update
+        shift
+        [ "$1" = "" ] && exit
+    ;;
+esac
+
+if [ ! -f "$DB_PATH" ]; then
+    printf ":: Please run 'kiss-find -u' to download the latest database\n" >&2
+    exit 1
+fi
+
+${KISS_FIND_GREP:-grep} "$@" "$DB_PATH" | sort |
 if [ -t 1 ] && command -v column >/dev/null 2>&1; then
-    echo "$results" | column -t -s',';
+    column -t -s',';
 else
-    echo "$results";
+    cat;
 fi
