@@ -2,7 +2,7 @@ name: build database
 
 on:
   push:
-    branches: [ main ]
+    branches: [ fix ]
   schedule:
     - cron: "0 */6 * * *"
 
@@ -25,3 +25,9 @@ jobs:
 
       - name: generate database
         run: make clean all
+
+      - name: Upload database
+        uses: actions/upload-artifact@v3
+        with:
+          name: database
+          path: build/db.csv
