@@ -26,7 +26,7 @@ fetch_repo() {
     else
         echo "  -> Cloning" >&2
 
-        git clone "$REPO" "$FOLDER" >&2
+        git clone "$REPO" "$FOLDER" >&2 || return 1
 
         cd "$FOLDER"
         git config user.email "kissfind@mail.invalid" >&2
@@ -76,6 +76,6 @@ while read -r REPO; do
     FOLDER="$(sanitize_folder_name "$REPO")"
     echo ":: $REPO ($FOLDER)" >&2
 
-    fetch_repo "$REPO" "$FOLDER"
+    fetch_repo "$REPO" "$FOLDER" || continue
     process_repo "$REPO" "$FOLDER"
 done <"${1:-/dev/stdin}"
