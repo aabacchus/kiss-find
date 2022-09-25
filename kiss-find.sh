@@ -1,6 +1,6 @@
 #!/bin/sh -e
 # Search for packages across every known repository
-# kiss-find version 2.1
+# kiss-find version 2.2
 
 DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
 UPDATE_URL="https://aabacchus.github.io/kiss-find/db.csv"
