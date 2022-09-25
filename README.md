@@ -2,13 +2,17 @@
 
 A tool for indexing and searching kiss packages from repositories across the internet.
 
-Example output
+Example usage:
 
     $ kiss find amf
     amfora     1.7.2 2  https://github.com/jedahan/kiss-repo      amfora            a fancy terminal browser for the gemini protocol
     amfora     1.8.0 1  https://github.com/aabacchus/kiss-repo    amfora            a fancy terminal browser for the gemini protocol
     bamf       0.5.4 1  https://github.com/eudaldgr/elementaKISS  extra/bamf
     tinyramfs  git 1    https://github.com/mmatongo/dm            kernel/tinyramfs
+
+Updating the database using the script:
+
+    $ kiss find -u
 
 ## Building
 
