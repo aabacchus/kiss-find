@@ -18,7 +18,10 @@ gh auth status 2>/dev/null || warn 'gh auth status error, please login with gh a
 gh auth status 2>/dev/null && {
   gh api graphql --field query=@github_kiss-repo.gql > .results
   echo "$(jq -r '.data.search.repositoryCount' .results)" repositories found >&2
-  jq -r '.data.search.edges[].node.url' .results | sort -u >> .include
+  jq -r '.data.search.edges[].node.url' .results >> .include
 }
+
+sort -u .include >_
+mv _ .include
 
 comm -23 .include .filter
