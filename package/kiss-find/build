@@ -1,3 +1,0 @@
-#!/bin/sh -e
-
-install -Dm755 kiss-find.sh "$1/usr/bin/kiss-find"
