@@ -12,6 +12,8 @@ Example output
 
 ## Building
 
+You don't have to build the database yourself; it is generate and uploaded to https://aabacchus.github.io/kiss-find/db.csv by a GitHub Action. You still can if you want to, though.
+
 To build the database, run
 
     make
