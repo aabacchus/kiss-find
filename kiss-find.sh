@@ -3,7 +3,7 @@
 # kiss-find version 2.1
 
 DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
-UPDATE_URL="https://jedahan.com/kiss-find/db.csv"
+UPDATE_URL="https://aabacchus.github.io/kiss-find/db.csv"
 
 help() {
     printf "usage: kiss-find [-u] <query>\n"
