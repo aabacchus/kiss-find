@@ -20,6 +20,6 @@ install-db: $(DB)
 
 $(DB):
 	mkdir -p $(OUT)
-	src/db/list_repositories.sh | src/db/build_database.sh > $(DB)
+	./list_repositories.sh | ./build_database.sh > $(DB)
 
 .PHONY: all clean install install-cli install-db
