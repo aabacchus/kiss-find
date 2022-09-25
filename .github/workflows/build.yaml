@@ -24,10 +24,12 @@ jobs:
           git config user.email "<>"
 
       - name: generate database
-        run: make clean all
+        run: |
+          make clean all
+          mkdir publish
+          cp build/db.csv publish/
 
-      - name: Upload database
-        uses: actions/upload-artifact@v3
+      - name: Publish database
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          name: database
-          path: build/db.csv
+          folder: publish
