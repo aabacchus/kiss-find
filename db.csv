@@ -1270,7 +1270,7 @@ gnumeric,1.12.53 1,https://github.com/ehawkvu/kiss-xorg,testing/gnumeric,master,
 xwayland,22.1.2 1,https://github.com/ehawkvu/kiss-xorg,testing/xwayland,master,"Ethan"," "
 libreoffice,7.2.5.2 1,https://github.com/ehawkvu/kiss-xorg,testing/libreoffice,master,"Ethan"," "
 firefox-beta,104.0b5 1,https://github.com/ehawkvu/kiss-xorg,testing/firefox-beta,master,"Ethan"," "
-chromium,105.0.5195.102 1,https://github.com/ehawkvu/kiss-xorg,testing/chromium,master,"Ethan"," "
+chromium,106.0.5249.91 1,https://github.com/ehawkvu/kiss-xorg,testing/chromium,master,"Ethan"," "
 supertuxkart,1.3 1,https://github.com/ehawkvu/kiss-xorg,games/supertuxkart,master,"Ethan"," "
 xmahjongg,3.7 1,https://github.com/ehawkvu/kiss-xorg,games/xmahjongg,master,"Ethan"," "
 nethack,3.6.6 1,https://github.com/ehawkvu/kiss-xorg,games/nethack,master,"Ethan"," "
