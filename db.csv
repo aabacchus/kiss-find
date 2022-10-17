@@ -2198,7 +2198,7 @@ libevent,2.1.12 1,https://github.com/hovercats/kiss-dumpsterfire,extra/libevent,
 oksh,7.1 1,https://github.com/hovercats/kiss-dumpsterfire,extra/oksh,master,"hovercats"," "
 gst-plugins,1.20.4 1,https://github.com/hovercats/kiss-dumpsterfire,extra/gst-plugins,master,"hovercats"," "
 fzy,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/fzy,master,"hovercats"," "
-linux-firmware,20220913 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux-firmware,master,"hovercats"," "
+linux-firmware,20221012 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux-firmware,master,"hovercats"," "
 eiwd,1.30 1,https://github.com/hovercats/kiss-dumpsterfire,extra/eiwd,master,"hovercats"," "
 figlet,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/figlet,master,"hovercats"," "
 kiss-find,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/kiss-find,master,"hovercats"," "
