@@ -1475,7 +1475,7 @@ grabc,1.1 1,https://github.com/ehawkvu/kiss-xorg,community/grabc,master,"Ethan",
 xdo,0.5.7 1,https://github.com/ehawkvu/kiss-xorg,community/xdo,master,"Ethan"," "
 libsoup,2.74.2 1,https://github.com/ehawkvu/kiss-xorg,community/libsoup,master,"Ethan"," "
 xssstate,1.1 2,https://github.com/ehawkvu/kiss-xorg,community/xssstate,master,"Ethan"," "
-gdk-pixbuf,2.42.9 1,https://github.com/ehawkvu/kiss-xorg,extra/gdk-pixbuf,master,"Ethan"," "
+gdk-pixbuf,2.42.10 1,https://github.com/ehawkvu/kiss-xorg,extra/gdk-pixbuf,master,"Ethan"," "
 libglvnd,1.5.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libglvnd,master,"Ethan"," "
 ffmpeg,5.1.2 2,https://github.com/ehawkvu/kiss-xorg,extra/ffmpeg,master,"Ethan"," "
 giflib,5.2.1 1,https://github.com/ehawkvu/kiss-xorg,extra/giflib,master,"Ethan"," "
