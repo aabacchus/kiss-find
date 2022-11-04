@@ -5167,7 +5167,7 @@ pixman,0.42.2 1,https://github.com/noirlinux/main,wayland/pixman,master,"Daniel 
 sway,1.7 1,https://github.com/noirlinux/main,wayland/sway,master,"Daniel M. Matongo"," "
 libpciaccess,0.17 1,https://github.com/noirlinux/main,wayland/libpciaccess,master,"Daniel M. Matongo"," "
 libxkbcommon,1.4.1 1,https://github.com/noirlinux/main,wayland/libxkbcommon,master,"Linux User"," "
-libdrm,2.4.113 2,https://github.com/noirlinux/main,wayland/libdrm,master,"Daniel M. Matongo"," "
+libdrm,2.4.114 1,https://github.com/noirlinux/main,wayland/libdrm,master,"Daniel M. Matongo"," "
 grim,1.4.0 1,https://github.com/noirlinux/main,wayland/grim,master,"Daniel M. Matongo"," "
 wbg,1.1.0 1,https://github.com/noirlinux/main,wayland/wbg,master,"Daniel M. Matongo"," "
 wayland,1.21.0 1,https://github.com/noirlinux/main,wayland/wayland,master,"Daniel M. Matongo"," "
