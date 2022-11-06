@@ -1108,7 +1108,7 @@ pyright,1.1.278 1,https://github.com/ehawkvu/kiss-personal,lsp/pyright,master,"E
 acorn,8.8.1 1,https://github.com/ehawkvu/kiss-personal,lsp/acorn,master,"Ethan"," "
 rebar3,3.20.0 1,https://github.com/ehawkvu/kiss-personal,lsp/rebar3,master,"Ethan"," "
 zls,git 1,https://github.com/ehawkvu/kiss-personal,lsp/zls,master,"Ethan"," "
-erlang_ls,0.42.0 1,https://github.com/ehawkvu/kiss-personal,lsp/erlang_ls,master,"Ethan"," "
+erlang_ls,0.44.1 1,https://github.com/ehawkvu/kiss-personal,lsp/erlang_ls,master,"Ethan"," "
 bash-language-server,3.1.0 1,https://github.com/ehawkvu/kiss-personal,lsp/bash-language-server,master,"Ethan"," "
 crystalline,git 1,https://github.com/ehawkvu/kiss-personal,lsp/crystalline,master,"Ethan"," "
 ols,git 1,https://github.com/ehawkvu/kiss-personal,lsp/ols,master,"Ethan"," "
