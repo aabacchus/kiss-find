@@ -5055,6 +5055,7 @@ zstd,1.5.2 1,https://github.com/noirlinux/main,extra/zstd,master,"Daniel M. Mato
 e2fsprogs,1.46.5 1,https://github.com/noirlinux/main,extra/e2fsprogs,master,"Daniel M. Matongo"," "
 mpv,0.34.1 1,https://github.com/noirlinux/main,extra/mpv,master,"Daniel M. Matongo"," "
 openssh,9.1p1 1,https://github.com/noirlinux/main,extra/openssh,master,"Daniel M. Matongo"," "
+os-prober,1.81 1,https://github.com/noirlinux/main,extra/os-prober,master,"Daniel M. Matongo"," "
 libva-utils,2.16.0 1,https://github.com/noirlinux/main,extra/libva-utils,master,"Daniel M. Matongo"," "
 ttf-croscore,1.31.0 2,https://github.com/noirlinux/main,extra/ttf-croscore,master,"Daniel M. Matongo"," "
 pcre,8.45 1,https://github.com/noirlinux/main,extra/pcre,master,"Daniel M. Matongo"," "
