@@ -5264,7 +5264,7 @@ linux-firmware,20220913 1,https://github.com/rfaa-se/kisslinux,linux-firmware,ma
 linux-failsafe,6.0 1,https://github.com/rfaa-se/kisslinux,linux-failsafe,main,"rfaa"," "
 cmatrix,2.0 1,https://github.com/rfaa-se/kisslinux,cmatrix,main,"rfaa"," "
 helix,22.08.1 1,https://github.com/rfaa-se/kisslinux,helix,main,"rfaa"," "
-rust-src,1.64.0 1,https://github.com/rfaa-se/kisslinux,rust-src,main,"rfaa"," "
+rust-src,1.65.0 1,https://github.com/rfaa-se/kisslinux,rust-src,main,"rfaa"," "
 glfw,3.3.8 1,https://github.com/rfaa-se/kisslinux,glfw,main,"rfaa"," "
 dotnet,6.0.100 1,https://github.com/rfaa-se/kisslinux,dotnet,main,"rfaa"," "
 mpv,0f1ae8896e8fbdd9f928f972f6ba04641f20536e 2,https://github.com/rfaa-se/kisslinux,mpv,main,"rfaa"," "
