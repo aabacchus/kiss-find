@@ -2262,7 +2262,7 @@ mesa,22.2.3 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/mesa,master,"h
 libX11,1.8.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libX11,master,"hovercats"," "
 xcb-util-cursor,0.1.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-cursor,master,"hovercats"," "
 xcb-util-renderutil,0.3.10 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-renderutil,master,"hovercats"," "
-tinyx,52bd66b65ca4f499bdf1394053e6b5b485306186 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/tinyx,master,"hovercats"," "
+tinyx,52bd66b65ca4f499bdf1394053e6b5b485306186 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/tinyx,master,"hovercats"," "
 bgs,git 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/bgs,master,"hovercats"," "
 linux-firmware,symlink,https://github.com/hovercats/kiss-dumpsterfire,desktop/linux-firmware,master,"unknown"," "
 linux,5.19.4 1,https://github.com/hovercats/kiss-dumpsterfire,desktop/linux,master,"hovercats"," "
