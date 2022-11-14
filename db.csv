@@ -2258,7 +2258,7 @@ libxcb,1.15 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/libxcb,master,
 meh,git 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/meh,master,"hovercats"," "
 glazier,1.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/glazier,master,"hovercats"," "
 libXrandr,1.5.2 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXrandr,master,"hovercats"," "
-mesa,22.2.3 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/mesa,master,"hovercats"," "
+mesa,22.2.3 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/mesa,master,"hovercats"," "
 libX11,1.8.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libX11,master,"hovercats"," "
 xcb-util-cursor,0.1.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-cursor,master,"hovercats"," "
 xcb-util-renderutil,0.3.10 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-renderutil,master,"hovercats"," "
