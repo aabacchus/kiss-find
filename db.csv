@@ -2450,7 +2450,7 @@ cyrus-sasl-xoauth2-git,git 1,https://github.com/ioraff/kiss-personal,extra/cyrus
 libmad,0.16.3 1,https://github.com/ioraff/kiss-personal,extra/libmad,master,"Owen Rafferty"," "
 vorbis-tools,1.4.2 1,https://github.com/ioraff/kiss-personal,extra/vorbis-tools,master,"Owen Rafferty"," "
 perl-timedate,2.33 1,https://github.com/ioraff/kiss-personal,extra/perl-timedate,master,"Owen Rafferty"," "
-mercurial,6.3.0 1,https://github.com/ioraff/kiss-personal,extra/mercurial,master,"Owen Rafferty"," "
+mercurial,6.3.1 1,https://github.com/ioraff/kiss-personal,extra/mercurial,master,"Owen Rafferty"," "
 docx2txt,1.4 1,https://github.com/ioraff/kiss-personal,extra/docx2txt,master,"Owen Rafferty"," "
 libbdplus,0.2.0 1,https://github.com/ioraff/kiss-personal,extra/libbdplus,master,"Owen Rafferty"," "
 opusfile,0.12 1,https://github.com/ioraff/kiss-personal,extra/opusfile,master,"Owen Rafferty"," "
