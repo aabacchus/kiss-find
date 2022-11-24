@@ -2180,7 +2180,7 @@ github-cli,2.20.2 1,https://github.com/hovercats/kiss-dumpsterfire,extra/github-
 tinyalsa,2.0.0 1,https://github.com/hovercats/kiss-dumpsterfire,extra/tinyalsa,master,"hovercats"," "
 gst-plugins,1.20.4 1,https://github.com/hovercats/kiss-dumpsterfire,extra/gst-plugins,master,"hovercats"," "
 vimb,3.6.0 1,https://github.com/hovercats/kiss-dumpsterfire,extra/vimb,master,"hovercats"," "
-linux-lts,5.15.79 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux-lts,master,"hovercats"," "
+linux-lts,5.15.79 2,https://github.com/hovercats/kiss-dumpsterfire,extra/linux-lts,master,"hovercats"," "
 python,3.10.8 1,https://github.com/hovercats/kiss-dumpsterfire,extra/python,master,"hovercats"," "
 openssh,9.1p1 1,https://github.com/hovercats/kiss-dumpsterfire,extra/openssh,master,"hovercats"," "
 gtk+3,3.24.34 1,https://github.com/hovercats/kiss-dumpsterfire,extra/gtk+3,master,"hovercats"," "
