@@ -1061,7 +1061,7 @@ cabal-install,3.8.1.0 1,https://github.com/ehawkvu/kiss-personal,langs/cabal-ins
 eiffel,bell 1,https://github.com/ehawkvu/kiss-personal,langs/eiffel,master,"Ethan"," "
 zig,git 1,https://github.com/ehawkvu/kiss-personal,langs/zig,master,"Ethan"," "
 moarvm,2022.07 1,https://github.com/ehawkvu/kiss-personal,langs/moarvm,master,"Ethan"," "
-sbcl,2.2.10 1,https://github.com/ehawkvu/kiss-personal,langs/sbcl,master,"Ethan"," "
+sbcl,2.2.11 1,https://github.com/ehawkvu/kiss-personal,langs/sbcl,master,"Ethan"," "
 stack,git 1,https://github.com/ehawkvu/kiss-personal,langs/stack,master,"Ethan"," "
 nim,1.6.10 1,https://github.com/ehawkvu/kiss-personal,langs/nim,master,"Ethan"," "
 gc,8.2.2 1,https://github.com/ehawkvu/kiss-personal,langs/gc,master,"Ethan"," "
