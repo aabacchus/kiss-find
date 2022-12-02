@@ -1476,6 +1476,7 @@ atkmm,2.28.2 1,https://github.com/ehawkvu/kiss-xorg,community/atkmm,master,"Etha
 graphviz,7.0.3 1,https://github.com/ehawkvu/kiss-xorg,community/graphviz,master,"Ethan"," "
 sxhkd,0.6.2 1,https://github.com/ehawkvu/kiss-xorg,community/sxhkd,master,"Ethan"," "
 xsel,1.2.0 2,https://github.com/ehawkvu/kiss-xorg,community/xsel,master,"Ethan"," "
+sxcs,0.7.1 1,https://github.com/ehawkvu/kiss-xorg,community/sxcs,master,"wael"," "
 gstreamer,1.20.4 1,https://github.com/ehawkvu/kiss-xorg,community/gstreamer,master,"Ethan"," "
 hexchat,git 1,https://github.com/ehawkvu/kiss-xorg,community/hexchat,master,"Ethan"," "
 sasm,3.12.2 1,https://github.com/ehawkvu/kiss-xorg,community/sasm,master,"Ethan"," "
