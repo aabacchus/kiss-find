@@ -1309,7 +1309,7 @@ ffmpeg,5.1.2 2,https://github.com/ehawkvu/kiss-xorg,extra/ffmpeg,master,"Ethan",
 libdrm,2.4.114 1,https://github.com/ehawkvu/kiss-xorg,extra/libdrm,master,"Ethan"," "
 cairo,1.16.0 1,https://github.com/ehawkvu/kiss-xorg,extra/cairo,master,"Dylan Araps"," "
 libevdev,1.13.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libevdev,master,"Ethan"," "
-gtk+3,3.24.34 1,https://github.com/ehawkvu/kiss-xorg,extra/gtk+3,master,"Ethan"," "
+gtk+3,3.24.35 1,https://github.com/ehawkvu/kiss-xorg,extra/gtk+3,master,"Ethan"," "
 libpciaccess,0.17 1,https://github.com/ehawkvu/kiss-xorg,extra/libpciaccess,master,"Ethan"," "
 muon,git 1,https://github.com/ehawkvu/kiss-xorg,extra/muon,master,"Arthur Williams"," "
 libglvnd,1.6.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libglvnd,master,"Ethan"," "
