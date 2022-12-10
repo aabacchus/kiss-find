@@ -2251,7 +2251,7 @@ cmake,3.25.1 1,https://github.com/hovercats/kiss-dumpsterfire,extra/cmake,master
 libXScrnSaver,1.2.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXScrnSaver,master,"hovercats"," "
 libXft,2.3.7 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXft,master,"hovercats"," "
 dmenu,5.2 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/dmenu,master,"hovercats"," "
-mesa,22.2.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/mesa,master,"hovercats"," "
+mesa,22.2.5 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/mesa,master,"hovercats"," "
 xcb-util-keysyms,0.4.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-keysyms,master,"hovercats"," "
 surf,git 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/surf,master,"hovercats"," "
 libXmu,1.1.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXmu,master,"hovercats"," "
