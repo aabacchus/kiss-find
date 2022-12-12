@@ -2420,7 +2420,7 @@ vis,symlink,https://github.com/ioraff/kiss-personal,modified/vis,master,"unknown
 sccache,symlink,https://github.com/ioraff/kiss-personal,modified/sccache,master,"unknown"," "
 docx2txt,1.4 1,https://github.com/ioraff/kiss-personal,extra/docx2txt,master,"Owen Rafferty"," "
 wtype,0.4 1,https://github.com/ioraff/kiss-personal,extra/wtype,master,"Owen Rafferty"," "
-intel-gmmlib,22.3.1 1,https://github.com/ioraff/kiss-personal,extra/intel-gmmlib,master,"Owen Rafferty"," "
+intel-gmmlib,22.3.2 1,https://github.com/ioraff/kiss-personal,extra/intel-gmmlib,master,"Owen Rafferty"," "
 libcbor,0.9.0 1,https://github.com/ioraff/kiss-personal,extra/libcbor,master,"Owen Rafferty"," "
 cyrus-sasl-xoauth2-git,git 1,https://github.com/ioraff/kiss-personal,extra/cyrus-sasl-xoauth2-git,master,"Owen Rafferty"," "
 bsdfmt,1.39 1,https://github.com/ioraff/kiss-personal,extra/bsdfmt,master,"Owen Rafferty"," "
