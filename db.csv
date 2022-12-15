@@ -1159,7 +1159,7 @@ sc-im,git 1,https://github.com/ehawkvu/kiss-personal,utils/sc-im,master,"Ethan",
 aria2,1.36.0 1,https://github.com/ehawkvu/kiss-personal,utils/aria2,master,"Ethan"," "
 btpd,0.16 1,https://github.com/ehawkvu/kiss-personal,utils/btpd,master,"Ethan"," "
 refind,0.13.3.1 1,https://github.com/ehawkvu/kiss-personal,utils/refind,master,"Ethan"," "
-qemu,7.1.0 1,https://github.com/ehawkvu/kiss-personal,utils/qemu,master,"Ethan"," "
+qemu,7.2.0 1,https://github.com/ehawkvu/kiss-personal,utils/qemu,master,"Ethan"," "
 asp,git 1,https://github.com/ehawkvu/kiss-personal,utils/asp,master,"Ethan"," "
 zathura-ps,0.2.7 1,https://github.com/ehawkvu/kiss-personal,utils/zathura-ps,master,"Ethan"," "
 hdparm,9.65 1,https://github.com/ehawkvu/kiss-personal,utils/hdparm,master,"Ethan"," "
