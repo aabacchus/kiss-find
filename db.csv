@@ -2131,7 +2131,7 @@ sway,1.7 1,https://github.com/glasnostlinux/glasnost,wayland/sway,crossbuild,"Ja
 libinput,symlink,https://github.com/glasnostlinux/glasnost,wayland/libinput,crossbuild,"unknown"," "
 m4,1.4.19 1,https://github.com/glasnostlinux/glasnost,core/m4,crossbuild,"James Davies"," "
 certs,2022-10-11 1,https://github.com/glasnostlinux/glasnost,core/certs,crossbuild,"James Davies"," "
-llvm,14.0.5 1,https://github.com/glasnostlinux/glasnost,core/llvm,crossbuild,"James Davies"," "
+llvm,15.0.6 1,https://github.com/glasnostlinux/glasnost,core/llvm,crossbuild,"James Davies"," "
 xz,5.4.0 1,https://github.com/glasnostlinux/glasnost,core/xz,crossbuild,"James Davies"," "
 make,4.4 1,https://github.com/glasnostlinux/glasnost,core/make,crossbuild,"James Davies"," "
 zlib,1.2.13 1,https://github.com/glasnostlinux/glasnost,core/zlib,crossbuild,"James Davies"," "
