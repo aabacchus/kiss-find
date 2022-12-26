@@ -1076,7 +1076,7 @@ libevent,2.1.12 1,https://github.com/ehawkvu/kiss-personal,langs/libevent,master
 stklos,1.70 1,https://github.com/ehawkvu/kiss-personal,langs/stklos,master,"Ethan"," "
 algol68g,3.0.9 1,https://github.com/ehawkvu/kiss-personal,langs/algol68g,master,"Ethan"," "
 shen-go,git 1,https://github.com/ehawkvu/kiss-personal,langs/shen-go,master,"Ethan"," "
-shen-scheme,0.28 1,https://github.com/ehawkvu/kiss-personal,langs/shen-scheme,master,"Ethan"," "
+shen-scheme,0.29 1,https://github.com/ehawkvu/kiss-personal,langs/shen-scheme,master,"Ethan"," "
 icon,git 1,https://github.com/ehawkvu/kiss-personal,langs/icon,master,"Ethan"," "
 nim,1.6.10 1,https://github.com/ehawkvu/kiss-personal,langs/nim,master,"Ethan"," "
 fennel,1.2.1 1,https://github.com/ehawkvu/kiss-personal,langs/fennel,master,"Ethan"," "
