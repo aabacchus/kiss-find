@@ -1418,6 +1418,7 @@ librewolf,103.0 1,https://github.com/ehawkvu/kiss-xorg,community/librewolf,maste
 gtkmm3,3.24.5 1,https://github.com/ehawkvu/kiss-xorg,community/gtkmm3,master,"Ethan"," "
 x11vnc,git 1,https://github.com/ehawkvu/kiss-xorg,community/x11vnc,master,"Ethan"," "
 openal-soft,1.22.2 1,https://github.com/ehawkvu/kiss-xorg,community/openal-soft,master,"Ethan"," "
+apint,git 1,https://github.com/ehawkvu/kiss-xorg,community/apint,master,"Ethan"," "
 gst-plugins-base,1.20.5 1,https://github.com/ehawkvu/kiss-xorg,community/gst-plugins-base,master,"Ethan"," "
 emacs-git,git 1,https://github.com/ehawkvu/kiss-xorg,community/emacs-git,master,"Ethan"," "
 schismtracker,git 1,https://github.com/ehawkvu/kiss-xorg,community/schismtracker,master,"Ethan"," "
