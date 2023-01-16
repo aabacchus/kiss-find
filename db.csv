@@ -5273,7 +5273,7 @@ fluxbox,1.3.7 1,https://github.com/renere/kiss-renere,misc/fluxbox,main,"Linux U
 mkfontscale,1.2.1 1,https://github.com/renere/kiss-renere,misc/mkfontscale,main,"Linux User"," "
 libxpm,3.5.13 1,https://github.com/renere/kiss-renere,lib/libxpm,main,"Linux User"," "
 mpv,0.35.0 2,https://github.com/rfaa-se/kisslinux,mpv,main,"rfaa"," "
-rust-analyzer,2022-10-10 1,https://github.com/rfaa-se/kisslinux,rust-analyzer,main,"rfaa"," "
+rust-analyzer,2023-01-16 1,https://github.com/rfaa-se/kisslinux,rust-analyzer,main,"rfaa"," "
 linux,6.1.5 1,https://github.com/rfaa-se/kisslinux,linux,main,"rfaa"," "
 dotnet,6.0.100 1,https://github.com/rfaa-se/kisslinux,dotnet,main,"rfaa"," "
 linux-firmware,20220913 1,https://github.com/rfaa-se/kisslinux,linux-firmware,main,"rfaa"," "
