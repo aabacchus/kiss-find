@@ -1,15 +1,10 @@
 #!/bin/sh -e
 
-warn() {
-  echo "$@" >&2
-}
-
 clean() {
   rm -f .include .filter
 }
 
 trap clean EXIT INT
-clean
 
 grep -v '^[# ].*' filter | sort -u > .filter
 grep -v '^[# ].*' include | sort -u > .include
@@ -21,9 +16,9 @@ grep -v '^[# ].*' include | sort -u > .include
     jq -r '.data[].clone_url'
 } >> .include
 
-echo "$(wc -l < .include) repsitories found" >&2
-
 sort -u .include >_
 mv _ .include
+
+printf "%d repositories found\n" "$(wc -l < .include)" >&2
 
 comm -23 .include .filter

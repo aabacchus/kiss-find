@@ -41,7 +41,7 @@ process_repo() {
 
     find_packages "$FOLDER" | while read -r PACKAGE; do
         PPATH="$(get_path_in_repo "$PACKAGE")"
-        BRANCH="$(git -C ${FOLDER} branch --show-current || echo unknown)"
+        BRANCH="$(git -C "$FOLDER" branch --show-current || echo unknown)"
         echo "  -> Found package $PACKAGE" >&2
 
         if [ -L "$PACKAGE/version" ]; then
@@ -50,7 +50,7 @@ process_repo() {
             MAINTAINER="unknown"
         elif [ -f "$PACKAGE/version" ]; then
             VERSION="$(cat "$PACKAGE/version")"
-            MAINTAINER="$(git -C ${FOLDER} log --max-count 1 --format='%aN' -- $PPATH/version 2>/dev/null)"
+            MAINTAINER="$(git -C "$FOLDER" log --max-count 1 --format='%aN' -- "$PPATH/version" 2>/dev/null)"
         else
             VERSION="unknown"
             MAINTAINER="unknown"
