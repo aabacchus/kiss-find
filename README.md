@@ -16,15 +16,18 @@ Updating the database using the script:
 
 ## Building
 
-You don't have to build the database yourself; it is generated and uploaded to https://aabacchus.github.io/kiss-find/db.csv by a GitHub Action.
-The standalone script is packaged in my [personal repository](https://github.com/aabacchus/kiss-repo) and uses that database.
-You can build it yourself if you want to, though.
+You don't have to build the database yourself; it is generated and uploaded 
+to https://aabacchus.github.io/kiss-find/db.csv by a GitHub Action.
+The standalone script is packaged in my 
+[personal repository](https://github.com/aabacchus/kiss-repo) and uses that 
+database. You can build it yourself if you want to, though.
 
 To build the database, run
 
     make
 
-This uses git to clone the repositories, and optionally discovers github repos using the `gh` tool with `jq`.
+This uses git to clone the repositories, and discovers codeberg & github 
+repositories using their respective APIs with `jq`.
 
 To install the script and database, run
 
@@ -34,9 +37,11 @@ optionally, choosing a particular `PREFIX`, `CONFIGDIR`, or `DESTDIR`.
 
 ## Adding a repository
 
-If your repository is on github, just add the `kiss-repo` topic and it should be automatically picked up.
+If your repository is on github or codeberg, just add the `kiss-repo` topic and 
+it should be automatically picked up.
 
-If your repository is anywhere else, open a pull request or issue for it to be added to the `include` file.
+If your repository is anywhere else, open a pull request or issue for it to be 
+added to the `include` file.
 
 ## Removing a repository
 
