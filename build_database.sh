@@ -78,4 +78,4 @@ while read -r REPO; do
 
     fetch_repo "$REPO" "$FOLDER" || continue
     process_repo "$REPO" "$FOLDER"
-done <"${1:-/dev/stdin}"
+done
