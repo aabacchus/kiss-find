@@ -2,7 +2,7 @@
 
 # might not work for non-github repos, fix that
 sanitize_folder_name() {
-    echo "$1" | cut -d"/" -f4- | sed 's@/@_@'
+    printf "%s\n" "${1%.git}" | cut -d"/" -f4- | sed 's@/@_@'
 }
 
 get_path_in_repo() {

@@ -34,7 +34,7 @@ optionally, choosing a particular `PREFIX`, `CONFIGDIR`, or `DESTDIR`.
 
 ## Adding a repository
 
-If your repository is on github, just add the `kiss-repo` topic and it should be automatically picked up.
+If your repository is on github or codeberg, just add the `kiss-repo` topic and it should be automatically picked up.
 
 If your repository is anywhere else, open a pull request or issue for it to be added to the `include` file.
 
