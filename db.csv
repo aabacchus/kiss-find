@@ -2878,6 +2878,7 @@ libsecret,0.20.5 1,https://github.com/ehawkvu/kiss-xorg.git,community/libsecret,
 dosbox,0.74-3 1,https://github.com/ehawkvu/kiss-xorg.git,community/dosbox,master,"Ethan"," "
 emacs,28.2 1,https://github.com/ehawkvu/kiss-xorg.git,community/emacs,master,"Ethan"," "
 cairomm,1.14.3 1,https://github.com/ehawkvu/kiss-xorg.git,community/cairomm,master,"Ethan"," "
+snd,23.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/snd,master,"Ethan"," "
 mplayer,1.5 1,https://github.com/ehawkvu/kiss-xorg.git,community/mplayer,master,"Ethan"," "
 dmenu,5.2 1,https://github.com/ehawkvu/kiss-xorg.git,community/dmenu,master,"Ethan"," "
 x11fs,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/x11fs,master,"Ethan"," "
