@@ -782,7 +782,7 @@ libva-utils,2.17.1 1,https://codeberg.org/kiss-community/repo.git,extra/libva-ut
 rust,1.67.0 1,https://codeberg.org/kiss-community/repo.git,extra/rust,master,"Owen Rafferty"," "
 glib,2.75.2 1,https://codeberg.org/kiss-community/repo.git,extra/glib,master,"Owen Rafferty"," "
 python-mako,1.2.4 1,https://codeberg.org/kiss-community/repo.git,extra/python-mako,master,"Owen Rafferty"," "
-firefox,110.0b4 1,https://codeberg.org/kiss-community/repo.git,testing/firefox,master,"Owen Rafferty"," "
+firefox,110.0b7 1,https://codeberg.org/kiss-community/repo.git,testing/firefox,master,"Owen Rafferty"," "
 pash,2.3.0 1 ,https://codeberg.org/kobeni/kiss-repo.git,pash,main,"kobeni"," "
 linux-headers,5.14.9 1,https://codeberg.org/kobeni/kiss-repo.git,linux-headers,main,"kobeni"," "
 busybox,1.34.0 4,https://codeberg.org/kobeni/kiss-repo.git,busybox,main,"kobeni"," "
