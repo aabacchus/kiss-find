@@ -1044,7 +1044,7 @@ libnl-tiny,git 2,https://github.com/CarbsLinux/repository.git,core/libnl-tiny,ma
 gzip,1.12 1,https://github.com/CarbsLinux/repository.git,core/gzip,master,"Cem Keylan"," "
 runit,2.1.2 3,https://github.com/CarbsLinux/repository.git,core/runit,master,"Cem Keylan"," "
 e2fsprogs,1.46.5 1,https://github.com/CarbsLinux/repository.git,core/e2fsprogs,master,"Cem Keylan"," "
-cpt,7.0.0 1,https://github.com/CarbsLinux/repository.git,core/cpt,master,"Cem Keylan"," "
+cpt,7.0.0 2,https://github.com/CarbsLinux/repository.git,core/cpt,master,"Cem Keylan"," "
 b3sum,git 2,https://github.com/CarbsLinux/repository.git,core/b3sum,master,"Cem Keylan"," "
 otools,1.5.1 1,https://github.com/CarbsLinux/repository.git,core/otools,master,"Cem Keylan"," "
 xz,5.4.1 1,https://github.com/CarbsLinux/repository.git,core/xz,master,"Cem Keylan"," "
