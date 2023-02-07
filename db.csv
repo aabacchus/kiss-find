@@ -3887,6 +3887,7 @@ cmus,2.10.0 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/cmus,mast
 lua,5.4.4 1 ,https://github.com/hovercats/kiss-dumpsterfire.git,extra/lua,master,"hovercats"," "
 ccache,4.7.4 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/ccache,master,"hovercats"," "
 sdhcp,0.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/sdhcp,master,"hovercats"," "
+ssu,0.3.2 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/ssu,master,"hovercats"," "
 libogg,1.3.5 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/libogg,master,"hovercats"," "
 libinih,56 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/libinih,master,"hovercats"," "
 sndio,1.9.0 3,https://github.com/hovercats/kiss-dumpsterfire.git,extra/sndio,master,"hovercats"," "
