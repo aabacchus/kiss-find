@@ -3189,7 +3189,7 @@ cairo,1.16.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/cairo,master,"Dyla
 pango,1.50.12 1,https://github.com/ehawkvu/kiss-xorg.git,extra/pango,master,"Ethan"," "
 ffmpeg,5.1.2 2,https://github.com/ehawkvu/kiss-xorg.git,extra/ffmpeg,master,"Ethan"," "
 libxkbcommon,1.5.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libxkbcommon,master,"Ethan"," "
-nvidia,525.92.05 1,https://github.com/ehawkvu/kiss-xorg.git,extra/nvidia,master,"wael"," "
+nvidia,525.89.02 1,https://github.com/ehawkvu/kiss-xorg.git,extra/nvidia,master,"wael"," "
 mesa,22.3.5 1,https://github.com/ehawkvu/kiss-xorg.git,extra/mesa,master,"Ethan"," "
 pixman,0.42.2 1,https://github.com/ehawkvu/kiss-xorg.git,extra/pixman,master,"Ethan"," "
 firefox,109.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/firefox,master,"Ethan"," "
