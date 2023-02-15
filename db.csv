@@ -3860,6 +3860,7 @@ linux,5.19.4 1,https://github.com/hovercats/kiss-dumpsterfire.git,desktop/linux,
 linux-firmware,symlink,https://github.com/hovercats/kiss-dumpsterfire.git,desktop/linux-firmware,master,"unknown"," "
 sbase,5e7afd0e9ea5b44f68ebf55555f03c41d8d21cdb 4,https://github.com/hovercats/kiss-dumpsterfire.git,core/sbase,master,"hovercats"," "
 mpfr,4.2.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/mpfr,master,"hovercats"," "
+cacert,2023-01-10 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/cacert,master,"hovercats"," "
 kiss,5.6.4 7,https://github.com/hovercats/kiss-dumpsterfire.git,core/kiss,master,"hovercats"," "
 zlib,1.2.13 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/zlib,master,"hovercats"," "
 libmpc,1.3.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/libmpc,master,"hovercats"," "
