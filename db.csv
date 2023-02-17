@@ -752,7 +752,7 @@ nspr,4.35 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen
 alsa-lib,1.2.8 1,https://codeberg.org/kiss-community/repo.git,extra/alsa-lib,master,"Owen Rafferty"," "
 bkeymaps,1.13 1,https://codeberg.org/kiss-community/repo.git,extra/bkeymaps,master,"Dylan Araps"," "
 cyrus-sasl,2.1.28 1,https://codeberg.org/kiss-community/repo.git,extra/cyrus-sasl,master,"git-bruh"," "
-firefox,110.0 2,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"git-bruh"," "
+firefox,110.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"," "
 hwdata,0.367 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"," "
 tzdata,2022g 1,https://codeberg.org/kiss-community/repo.git,extra/tzdata,master,"Owen Rafferty"," "
 mpv,0.35.1 1,https://codeberg.org/kiss-community/repo.git,extra/mpv,master,"Owen Rafferty"," "
