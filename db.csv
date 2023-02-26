@@ -3917,7 +3917,7 @@ ruby,3.2.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/ruby,maste
 rtorrent,0.9.8 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/rtorrent,master,"hovercats"," "
 xvidcore,1.3.7 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/xvidcore,master,"hovercats"," "
 linux,6.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/linux,master,"hovercats"," "
-linux-lts,5.15.95 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/linux-lts,master,"hovercats"," "
+linux-lts,5.15.96 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/linux-lts,master,"hovercats"," "
 util-linux,2.38.1 3,https://github.com/hovercats/kiss-dumpsterfire.git,extra/util-linux,master,"hovercats"," "
 libinih,56 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/libinih,master,"hovercats"," "
 vis,0.8 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/vis,master,"hovercats"," "
