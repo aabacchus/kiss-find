@@ -745,7 +745,7 @@ firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox
 ssu,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/ssu,master,"Dylan Araps"," "
 intel-vaapi-driver,2.4.1 1,https://codeberg.org/kiss-community/repo.git,extra/intel-vaapi-driver,master,"Dylan Araps"," "
 nspr,4.35 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"," "
-hwdata,0.367 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"," "
+hwdata,0.368 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"," "
 libretls,3.7.0 1,https://codeberg.org/kiss-community/repo.git,extra/libretls,master,"Owen Rafferty"," "
 eiwd,2.3 1,https://codeberg.org/kiss-community/repo.git,extra/eiwd,master,"Owen Rafferty"," "
 firefox,111.0b3 1,https://codeberg.org/kiss-community/repo.git,testing/firefox,master,"Owen Rafferty"," "
