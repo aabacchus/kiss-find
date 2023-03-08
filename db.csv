@@ -1223,7 +1223,7 @@ imagemagick,7.1.0-62 1,https://github.com/CarbsLinux/repository.git,extra/imagem
 lzip,1.23 1,https://github.com/CarbsLinux/repository.git,extra/lzip,master,"Cem Keylan"," "
 libgit2,1.6.2 1,https://github.com/CarbsLinux/repository.git,extra/libgit2,master,"Cem Keylan"," "
 gstreamer,1.22.1 1,https://github.com/CarbsLinux/repository.git,extra/gstreamer,master,"Cem Keylan"," "
-webkit2gtk,2.38.3 1,https://github.com/CarbsLinux/repository.git,extra/webkit2gtk,master,"Cem Keylan"," "
+webkit2gtk,2.38.5 1,https://github.com/CarbsLinux/repository.git,extra/webkit2gtk,master,"Cem Keylan"," "
 libXcomposite,0.4.6 1,https://github.com/CarbsLinux/repository.git,extra/libXcomposite,master,"Cem Keylan"," "
 gperf,3.1 3,https://github.com/CarbsLinux/repository.git,extra/gperf,master,"Cem Keylan"," "
 libsoup,2.74.2 1,https://github.com/CarbsLinux/repository.git,extra/libsoup,master,"Cem Keylan"," "
