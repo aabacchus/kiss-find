@@ -4048,7 +4048,7 @@ util-linux,2.38.1 3,https://github.com/hovercats/kiss-dumpsterfire.git,extra/uti
 xfsprogs,6.1.1 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/xfsprogs,master,"hovercats"," "
 file,5.44 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/file,master,"hovercats"," "
 linux,6.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/linux,master,"hovercats"," "
-ffmpeg,5.1.2 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/ffmpeg,master,"hovercats"," "
+ffmpeg,6.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/ffmpeg,master,"hovercats"," "
 webkit2gtk,2.38.5 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/webkit2gtk,master,"hovercats"," "
 rust,1.67.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/rust,master,"hovercats"," "
 lua,5.4.4 1 ,https://github.com/hovercats/kiss-dumpsterfire.git,extra/lua,master,"hovercats"," "
