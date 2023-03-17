@@ -2928,7 +2928,7 @@ libglvnd,1.6.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libglvnd,master,
 libpciaccess,0.17 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libpciaccess,master,"Ethan"," "
 freetype-harfbuzz,2.13.0+7.1.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/freetype-harfbuzz,master,"Ethan"," "
 nvidia,525.89.02 1,https://github.com/ehawkvu/kiss-xorg.git,extra/nvidia,master,"wael"," "
-ffmpeg,5.1.2 2,https://github.com/ehawkvu/kiss-xorg.git,extra/ffmpeg,master,"Ethan"," "
+ffmpeg,6.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/ffmpeg,master,"Ethan"," "
 libxkbcommon,1.5.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libxkbcommon,master,"Ethan"," "
 libva-utils,2.17.1 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libva-utils,master,"Ethan"," "
 pixman,0.42.2 1,https://github.com/ehawkvu/kiss-xorg.git,extra/pixman,master,"Ethan"," "
