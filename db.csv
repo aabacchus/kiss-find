@@ -3966,7 +3966,7 @@ sndio,1.9.0 3,https://github.com/hovercats/kiss-dumpsterfire.git,extra/sndio,mas
 fzy,git 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/fzy,master,"hovercats"," "
 mandoc,1.14.6 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/mandoc,master,"hovercats"," "
 catgirl,2.1 3,https://github.com/hovercats/kiss-dumpsterfire.git,extra/catgirl,master,"hovercats"," "
-sdhcp,0.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/sdhcp,master,"hovercats"," "
+sdhcp,0.1 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/sdhcp,master,"hovercats"," "
 jbig2dec,0.19 2,https://github.com/hovercats/kiss-dumpsterfire.git,extra/jbig2dec,master,"hovercats"," "
 scroll,git 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/scroll,master,"hovercats"," "
 opus,1.3.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/opus,master,"hovercats"," "
