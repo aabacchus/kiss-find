@@ -3157,7 +3157,7 @@ qt5-multimedia,5.15.8 1,https://github.com/ehawkvu/kiss-xorg.git,community/qt5-m
 libmypaint,1.6.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/libmypaint,master,"Ethan"," "
 libgsf,1.14.50 1,https://github.com/ehawkvu/kiss-xorg.git,community/libgsf,master,"Ethan"," "
 jansson,2.14 1,https://github.com/ehawkvu/kiss-xorg.git,community/jansson,master,"Ethan"," "
-alacritty,0.11.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/alacritty,master,"Ethan"," "
+alacritty,0.12.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/alacritty,master,"Ethan"," "
 slop,7.6 1,https://github.com/ehawkvu/kiss-xorg.git,community/slop,master,"Ethan"," "
 xkill,1.0.6 1,https://github.com/ehawkvu/kiss-xorg.git,community/xkill,master,"Ethan"," "
 dmenu,5.2 1,https://github.com/ehawkvu/kiss-xorg.git,community/dmenu,master,"Ethan"," "
