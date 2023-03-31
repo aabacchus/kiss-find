@@ -4263,7 +4263,7 @@ tcl,8.6.12 1,https://github.com/ioraff/kiss-personal.git,extra/tcl,master,"Owen 
 opustags,1.8.0 1,https://github.com/ioraff/kiss-personal.git,extra/opustags,master,"Owen Rafferty"," "
 mercurial,6.4 1,https://github.com/ioraff/kiss-personal.git,extra/mercurial,master,"Owen Rafferty"," "
 intel-media-driver,23.1.5 1,https://github.com/ioraff/kiss-personal.git,extra/intel-media-driver,master,"Owen Rafferty"," "
-libheif,1.15.1 1,https://github.com/ioraff/kiss-personal.git,extra/libheif,master,"Owen Rafferty"," "
+libheif,1.15.2 1,https://github.com/ioraff/kiss-personal.git,extra/libheif,master,"Owen Rafferty"," "
 binutils-aarch64,2.39 1,https://github.com/ioraff/kiss-personal.git,extra/binutils-aarch64,master,"Owen Rafferty"," "
 libressl,3.6.2 1,https://github.com/ioraff/kiss-personal.git,extra/libressl,master,"Owen Rafferty"," "
 netbsd-curses,0.3.2 1,https://github.com/ioraff/kiss-personal.git,extra/netbsd-curses,master,"Owen Rafferty"," "
