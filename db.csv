@@ -752,7 +752,7 @@ firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox
 samurai,1.2 1,https://codeberg.org/kiss-community/repo.git,extra/samurai,master,"Dylan Araps"," "
 libelf,0.189 2,https://codeberg.org/kiss-community/repo.git,extra/libelf,master,"git-bruh"," "
 mpv,0.35.1 2,https://codeberg.org/kiss-community/repo.git,extra/mpv,master,"Owen Rafferty"," "
-mesa,23.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"," "
+mesa,23.0.2 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"," "
 bkeymaps,1.13 1,https://codeberg.org/kiss-community/repo.git,extra/bkeymaps,master,"Dylan Araps"," "
 expat,2.5.0 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"," "
 json-c,0.16 1,https://codeberg.org/kiss-community/repo.git,extra/json-c,master,"Owen Rafferty"," "
