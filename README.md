@@ -26,11 +26,13 @@ To build the database, run
 
 This uses git to clone the repositories, and optionally discovers github repos using the `gh` tool with `jq`.
 
-To install the script and database, run
+To install just the script, run
 
-    make install
+    make install-cli
 
-optionally, choosing a particular `PREFIX`, `CONFIGDIR`, or `DESTDIR`.
+optionally choosing a particular `PREFIX` or `DESTDIR`. You can then download the generated database by running
+
+    kiss-find -u
 
 ## Adding a repository
 
