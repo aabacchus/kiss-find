@@ -1229,7 +1229,7 @@ basu,0.2.1 1,https://github.com/CarbsLinux/repository.git,extra/basu,master,"Cem
 libelf,0.189 1,https://github.com/CarbsLinux/repository.git,extra/libelf,master,"Cem Keylan"," "
 mpv,0.35.1 1,https://github.com/CarbsLinux/repository.git,extra/mpv,master,"Cem Keylan"," "
 libpciaccess,0.17 1,https://github.com/CarbsLinux/repository.git,extra/libpciaccess,master,"Cem Keylan"," "
-mesa,23.0.1 1,https://github.com/CarbsLinux/repository.git,extra/mesa,master,"Cem Keylan"," "
+mesa,23.0.2 1,https://github.com/CarbsLinux/repository.git,extra/mesa,master,"Cem Keylan"," "
 imagemagick,7.1.1-6 1,https://github.com/CarbsLinux/repository.git,extra/imagemagick,master,"Cem Keylan"," "
 bkeymaps,1.13 1,https://github.com/CarbsLinux/repository.git,extra/bkeymaps,master,"Cem Keylan"," "
 expat,2.5.0 1,https://github.com/CarbsLinux/repository.git,extra/expat,master,"Cem Keylan"," "
