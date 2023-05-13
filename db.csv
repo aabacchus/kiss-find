@@ -3312,7 +3312,7 @@ hsetroot,1.0.5 1,https://github.com/ehawkvu/kiss-xorg.git,community/hsetroot,mas
 glmark2,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/glmark2,master,"Ethan"," "
 xfiles,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/xfiles,master,"wael"," "
 doxygen,1.9.6 1,https://github.com/ehawkvu/kiss-xorg.git,community/doxygen,master,"Ethan"," "
-libnghttp2,1.52.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/libnghttp2,master,"Ethan"," "
+libnghttp2,1.53.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/libnghttp2,master,"Ethan"," "
 grabc,1.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/grabc,master,"Ethan"," "
 gtk-gnutella,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/gtk-gnutella,master,"Ethan"," "
 libexecinfo,1.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/libexecinfo,master,"Ethan"," "
