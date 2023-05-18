@@ -2946,7 +2946,7 @@ mpd,0.23.12 1,https://github.com/ehawkvu/kiss-personal.git,audio/mpd,master,"Eth
 sndio,1.9.0 1,https://github.com/ehawkvu/kiss-personal.git,audio/sndio,master,"Ethan"," "
 portaudio,19.7.0 1,https://github.com/ehawkvu/kiss-personal.git,audio/portaudio,master,"Ethan"," "
 id3,git 1,https://github.com/ehawkvu/kiss-personal.git,audio/id3,master,"Ethan"," "
-pipewire,0.3.70+0.4.14 1,https://github.com/ehawkvu/kiss-personal.git,audio/pipewire,master,"Ethan"," "
+pipewire,0.3.71+0.4.14 1,https://github.com/ehawkvu/kiss-personal.git,audio/pipewire,master,"Ethan"," "
 pulseaudio,16.1 1,https://github.com/ehawkvu/kiss-personal.git,audio/pulseaudio,master,"Ethan"," "
 gopls,0.11.0 1,https://github.com/ehawkvu/kiss-personal.git,lsp/gopls,master,"Ethan"," "
 python-json5,0.9.8 1,https://github.com/ehawkvu/kiss-personal.git,lsp/python-json5,master,"Ethan"," "
