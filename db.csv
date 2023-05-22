@@ -7065,7 +7065,7 @@ btrfs-progs,6.3 1,https://github.com/noirlinux/main.git,extra/btrfs-progs,master
 ssu,0.3.2 1,https://github.com/noirlinux/main.git,extra/ssu,master,"Daniel M. Matongo"," "
 libva,2.18.0 1,https://github.com/noirlinux/main.git,extra/libva,master,"Daniel M. Matongo"," "
 libogg,1.3.5 1,https://github.com/noirlinux/main.git,extra/libogg,master,"Daniel M. Matongo"," "
-libjpeg-turbo,2.1.91 1,https://github.com/noirlinux/main.git,extra/libjpeg-turbo,master,"Daniel M. Matongo"," "
+libjpeg-turbo,2.1.5.1 1,https://github.com/noirlinux/main.git,extra/libjpeg-turbo,master,"Daniel M. Matongo"," "
 containerd,1.7.1 1,https://github.com/noirlinux/main.git,extra/containerd,master,"Daniel M. Matongo"," "
 postgresql,15.3 1,https://github.com/noirlinux/main.git,extra/postgresql,master,"Daniel M. Matongo"," "
 lld,16.0.3 1,https://github.com/noirlinux/main.git,extra/lld,master,"Daniel M. Matongo"," "
