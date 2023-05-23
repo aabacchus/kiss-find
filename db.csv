@@ -724,7 +724,7 @@ nss,3.89.1 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen
 expat,2.5.0 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"," "
 zstd,1.5.5 1,https://codeberg.org/kiss-community/repo.git,extra/zstd,master,"Owen Rafferty"," "
 pango,1.50.14 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"," "
-gtk+3,3.24.37 1,https://codeberg.org/kiss-community/repo.git,extra/gtk+3,master,"Owen Rafferty"," "
+gtk+3,3.24.38 1,https://codeberg.org/kiss-community/repo.git,extra/gtk+3,master,"Owen Rafferty"," "
 strace,6.3 1,https://codeberg.org/kiss-community/repo.git,extra/strace,master,"Owen Rafferty"," "
 opus,1.4 1,https://codeberg.org/kiss-community/repo.git,extra/opus,master,"Owen Rafferty"," "
 libnl-tiny,28c44ca97cd546ef8168e7476472a0da022b3421 1,https://codeberg.org/kiss-community/repo.git,extra/libnl-tiny,master,"git-bruh"," "
