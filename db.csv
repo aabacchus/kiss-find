@@ -806,7 +806,7 @@ compose-tables,1.8.4 1,https://codeberg.org/kiss-community/repo.git,wayland/comp
 libpciaccess,0.17 1,https://codeberg.org/kiss-community/repo.git,wayland/libpciaccess,master,"Owen Rafferty"," "
 sway,1.8.1 1,https://codeberg.org/kiss-community/repo.git,wayland/sway,master,"Owen Rafferty"," "
 libseat,0.7.0 2,https://codeberg.org/kiss-community/repo.git,wayland/libseat,master,"git-bruh"," "
-wlsunset,0.2.0 1,https://codeberg.org/kiss-community/repo.git,wayland/wlsunset,master,"Dylan Araps"," "
+wlsunset,0.3.0 1,https://codeberg.org/kiss-community/repo.git,wayland/wlsunset,master,"Owen Rafferty"," "
 wayclip,0.4.1 1,https://codeberg.org/kiss-community/repo.git,wayland/wayclip,master,"git-bruh"," "
 foot-pgo,symlink,https://codeberg.org/kiss-community/repo.git,wayland/foot-pgo,master,"unknown"," "
 grim,1.4.0 1,https://codeberg.org/kiss-community/repo.git,wayland/grim,master,"git-bruh"," "
