@@ -2696,6 +2696,7 @@ gnu-efi,3.0.17 1,https://github.com/ehawkvu/kiss-personal.git,utils/gnu-efi,mast
 gocloc-git,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/gocloc-git,master,"Ethan"," "
 fff,2.2 1,https://github.com/ehawkvu/kiss-personal.git,utils/fff,master,"Ethan"," "
 valgrind,3.21.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/valgrind,master,"Ethan"," "
+nullmailer,2.2 1,https://github.com/ehawkvu/kiss-personal.git,utils/nullmailer,master,"Ethan"," "
 opensubdiv,3.5.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/opensubdiv,master,"Ethan"," "
 mercurial,6.4.3 1,https://github.com/ehawkvu/kiss-personal.git,utils/mercurial,master,"Ethan"," "
 msmtp,1.8.23 1,https://github.com/ehawkvu/kiss-personal.git,utils/msmtp,master,"Ethan"," "
