@@ -3274,6 +3274,7 @@ libXfixes,6.0.1 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/libXfixes,master
 libX11,1.8.5 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/libX11,master,"Ethan"," "
 xinput,1.6.4 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/xinput,master,"Ethan"," "
 libXrandr,1.5.3 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/libXrandr,master,"Ethan"," "
+xenocara,git 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/xenocara,master,"hovercats"," "
 libxcb,1.15 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/libxcb,master,"Ethan"," "
 libXxf86vm,1.1.5 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/libXxf86vm,master,"Ethan"," "
 xcb-util-keysyms,0.4.1 1,https://github.com/ehawkvu/kiss-xorg.git,xorg/xcb-util-keysyms,master,"Ethan"," "
