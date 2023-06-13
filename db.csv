@@ -3108,6 +3108,7 @@ alttab-git,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/alttab-git,m
 autorandr,1.13.3 1,https://github.com/ehawkvu/kiss-xorg.git,community/autorandr,master,"Ethan"," "
 libexif,0.6.24 1,https://github.com/ehawkvu/kiss-xorg.git,community/libexif,master,"Ethan"," "
 unifdef,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/unifdef,master,"Ethan"," "
+xob,0.3 1,https://github.com/ehawkvu/kiss-xorg.git,community/xob,master,"Ethan"," "
 double-conversion,3.3.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/double-conversion,master,"Ethan"," "
 otf2bdf,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/otf2bdf,master,"Ethan"," "
 stw,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/stw,master,"wael444"," "
