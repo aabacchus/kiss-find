@@ -2950,7 +2950,7 @@ gauche,0.9.12 1,https://github.com/ehawkvu/kiss-personal.git,langs/gauche,master
 singular,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/singular,master,"Ethan"," "
 openblas,0.3.23 1,https://github.com/ehawkvu/kiss-personal.git,langs/openblas,master,"Ethan"," "
 dmd2.081,2.081.1 1,https://github.com/ehawkvu/kiss-personal.git,langs/dmd2.081,master,"Ethan"," "
-shen-cl,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-cl,master,"Ethan"," "
+shen-cl,34.4 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-cl,master,"Ethan"," "
 hugs,2006.09 1,https://github.com/ehawkvu/kiss-personal.git,langs/hugs,master,"Ethan"," "
 sbcl,2.3.5 1,https://github.com/ehawkvu/kiss-personal.git,langs/sbcl,master,"Ethan"," "
 fasm,1.73.30 1,https://github.com/ehawkvu/kiss-personal.git,langs/fasm,master,"Ethan"," "
