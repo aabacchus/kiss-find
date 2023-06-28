@@ -2567,7 +2567,7 @@ gnuclasspath,git 1,https://github.com/ehawkvu/kiss-java-boot.git,jdk1/gnuclasspa
 jamvm,2.0.0 1,https://github.com/ehawkvu/kiss-java-boot.git,jdk1/jamvm,master,"Ethan"," "
 ecj,4.2.1 1,https://github.com/ehawkvu/kiss-java-boot.git,jdk1/ecj,master,"Ethan"," "
 openjdk8-notea,8u372-b02 1,https://github.com/ehawkvu/kiss-java-boot.git,openjdk8-notea,master,"Ethan"," "
-pipewire,0.3.71+0.4.14 1,https://github.com/ehawkvu/kiss-personal.git,audio/pipewire,master,"Ethan"," "
+pipewire,0.3.72+0.4.14 1,https://github.com/ehawkvu/kiss-personal.git,audio/pipewire,master,"Ethan"," "
 pulseaudio,16.1 1,https://github.com/ehawkvu/kiss-personal.git,audio/pulseaudio,master,"Ethan"," "
 libmpdclient,2.20 1,https://github.com/ehawkvu/kiss-personal.git,audio/libmpdclient,master,"Ethan"," "
 sndio,1.9.0 1,https://github.com/ehawkvu/kiss-personal.git,audio/sndio,master,"Ethan"," "
