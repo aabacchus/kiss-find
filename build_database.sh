@@ -56,18 +56,10 @@ process_repo() {
             MAINTAINER="unknown"
         fi
 
-        if [ -L "$PACKAGE/description" ]; then
-            DESCRIPTION="symlink"
-        elif [ -f "$PACKAGE/description" ]; then
-            DESCRIPTION="$(head -n1 "$PACKAGE/description")"
-        else
-            DESCRIPTION=" "
-        fi
-
         NAME="$(basename "$PACKAGE")"
 
-        printf '%s,%s,%s,%s,%s,"%s","%s"\n' \
-          "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH" "$MAINTAINER" "$DESCRIPTION"
+        printf '%s,%s,%s,%s,%s,"%s"\n' \
+          "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH" "$MAINTAINER"
     done
 }
 
