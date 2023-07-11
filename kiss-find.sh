@@ -64,7 +64,7 @@ if [ ! -f "$DB_PATH" ]; then
     exit 1
 fi
 
-${KISS_FIND_GREP:-grep} "$1" "$DB_PATH" | sort |
+${KISS_FIND_GREP:-grep} "^[^,]*$1[^,]*," "$DB_PATH" | sort |
 if [ -t 1 ] && command -v column >/dev/null 2>&1; then
     column -t -s',';
 else
