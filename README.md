@@ -17,7 +17,7 @@ Updating the database using the script:
 ## Building
 
 You don't have to build the database yourself; it is generated and uploaded to https://aabacchus.github.io/kiss-find/db.csv by a GitHub Action.
-The standalone script is packaged in my [personal repository](https://github.com/aabacchus/kiss-repo) and uses that database.
+The standalone script is packaged in the [community repository](https://codeberg.org/kiss-community/community) and uses that database.
 You can build it yourself if you want to, though.
 
 To build the database, run
