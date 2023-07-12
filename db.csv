@@ -1526,7 +1526,7 @@ fribidi,1.0.12 1,https://github.com/aabacchus/miktex-kiss-repo.git,fribidi,main,
 libmspack,0.10.1 1,https://github.com/aabacchus/miktex-kiss-repo.git,libmspack,main,"aabacchus"
 apr-util,1.6.1 1,https://github.com/aabacchus/miktex-kiss-repo.git,apr-util,main,"aabacchus"
 graphite,1.3.14 1,https://github.com/aabacchus/miktex-kiss-repo.git,graphite,main,"aabacchus"
-graphite-harfbuzz,7.1.0 1,https://github.com/aabacchus/miktex-kiss-repo.git,graphite-harfbuzz,main,"aabacchus"
+graphite-harfbuzz,8.0.1 1,https://github.com/aabacchus/miktex-kiss-repo.git,graphite-harfbuzz,main,"phoebos"
 qt5-tools,5.15.0 2,https://github.com/aosync/kiss-octave.git,qt5-tools,master,"Alejandro Sior"
 portaudio,190600 2,https://github.com/aosync/kiss-octave.git,portaudio,master,"Alejandro Sior"
 octave,5.2.0 3,https://github.com/aosync/kiss-octave.git,octave,master,"Alejandro Sior"
