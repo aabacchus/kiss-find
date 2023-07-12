@@ -1477,7 +1477,6 @@ libsvgtiny,git 1,https://github.com/aabacchus/kiss-repo.git,libsvgtiny,main,"aab
 profanity,0.13.1 2,https://github.com/aabacchus/kiss-repo.git,profanity,main,"aabacchus"
 xclock,1.1.1 1,https://github.com/aabacchus/kiss-repo.git,xclock,main,"aabacchus"
 libnspsl,0.1.6 1,https://github.com/aabacchus/kiss-repo.git,libnspsl,main,"aabacchus"
-kiss-find,2.2 1,https://github.com/aabacchus/kiss-repo.git,kiss-find,main,"aabacchus"
 ltrace,0.7.3 1,https://github.com/aabacchus/kiss-repo.git,ltrace,main,"aabacchus"
 netsurf-gtk3,git 1,https://github.com/aabacchus/kiss-repo.git,netsurf-gtk3,main,"aabacchus"
 libnsbmp,git 1,https://github.com/aabacchus/kiss-repo.git,libnsbmp,main,"aabacchus"
