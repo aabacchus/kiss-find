@@ -746,7 +746,7 @@ gtk+3,3.24.38 1,https://codeberg.org/kiss-community/repo.git,extra/gtk+3,master,
 pkgconf,1.9.5 1,https://codeberg.org/kiss-community/repo.git,extra/pkgconf,master,"Owen Rafferty"
 pcre2,10.42 1,https://codeberg.org/kiss-community/repo.git,extra/pcre2,master,"Owen Rafferty"
 clang,15.0.7 1,https://codeberg.org/kiss-community/repo.git,extra/clang,master,"Owen Rafferty"
-freetype-harfbuzz,2.13.1+8.0.0 1,https://codeberg.org/kiss-community/repo.git,extra/freetype-harfbuzz,master,"Owen Rafferty"
+freetype-harfbuzz,2.13.1+8.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/freetype-harfbuzz,master,"Owen Rafferty"
 python-mako,1.2.4 1,https://codeberg.org/kiss-community/repo.git,extra/python-mako,master,"Owen Rafferty"
 cmake,3.26.4 1,https://codeberg.org/kiss-community/repo.git,extra/cmake,master,"Owen Rafferty"
 firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox-privacy,master,"Dylan Araps"
