@@ -2936,7 +2936,7 @@ libmpdclient,2.20 1,https://github.com/ehawkvu/kiss-personal.git,audio/libmpdcli
 pulseaudio,16.1 1,https://github.com/ehawkvu/kiss-personal.git,audio/pulseaudio,master,"Ethan"
 sndio,1.9.0 1,https://github.com/ehawkvu/kiss-personal.git,audio/sndio,master,"Ethan"
 id3,git 1,https://github.com/ehawkvu/kiss-personal.git,audio/id3,master,"Ethan"
-pipewire,0.3.73+0.4.14 1,https://github.com/ehawkvu/kiss-personal.git,audio/pipewire,master,"Ethan"
+pipewire,0.3.74+0.4.14 1,https://github.com/ehawkvu/kiss-personal.git,audio/pipewire,master,"Ethan"
 jack2,1.9.22 1,https://github.com/ehawkvu/kiss-personal.git,audio/jack2,master,"Ethan"
 gmake,4.3 1,https://github.com/ehawkvu/kiss-personal.git,gnuland/gmake,master,"Ethan"
 findutils,4.9.0 1,https://github.com/ehawkvu/kiss-personal.git,gnuland/findutils,master,"Ethan"
