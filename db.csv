@@ -1282,7 +1282,7 @@ libsoup,2.74.2 2,https://github.com/CarbsLinux/repository.git,extra/libsoup,mast
 imagemagick,7.1.1-13 1,https://github.com/CarbsLinux/repository.git,extra/imagemagick,master,"Cem Keylan"
 lzip,1.23 1,https://github.com/CarbsLinux/repository.git,extra/lzip,master,"Cem Keylan"
 man-pages,6.04 1,https://github.com/CarbsLinux/repository.git,extra/man-pages,master,"Cem Keylan"
-libgit2,1.6.4 1,https://github.com/CarbsLinux/repository.git,extra/libgit2,master,"Cem Keylan"
+libgit2,1.7.0 1,https://github.com/CarbsLinux/repository.git,extra/libgit2,master,"Cem Keylan"
 libev,4.33 1,https://github.com/CarbsLinux/repository.git,extra/libev,master,"Cem Keylan"
 bearssl,0.6 3,https://github.com/CarbsLinux/repository.git,extra/bearssl,master,"Cem Keylan"
 tllist,1.1.0 1,https://github.com/CarbsLinux/repository.git,extra/tllist,master,"Cem Keylan"
