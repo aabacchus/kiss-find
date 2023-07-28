@@ -2936,7 +2936,7 @@ cbqn,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/cbqn,master,"Ethan
 regina-rexx,3.9.5 1,https://github.com/ehawkvu/kiss-personal.git,langs/regina-rexx,master,"Ethan"
 gauche,0.9.12 1,https://github.com/ehawkvu/kiss-personal.git,langs/gauche,master,"Ethan"
 swi-prolog,9.1.11 1,https://github.com/ehawkvu/kiss-personal.git,langs/swi-prolog,master,"Ethan"
-libgccjit,13.1.0 1,https://github.com/ehawkvu/kiss-personal.git,langs/libgccjit,master,"Ethan"
+libgccjit,13.2.0 1,https://github.com/ehawkvu/kiss-personal.git,langs/libgccjit,master,"Ethan"
 gore,0.5.6 1,https://github.com/ehawkvu/kiss-personal.git,langs/gore,master,"Ethan"
 ilang,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/ilang,master,"Ethan"
 shen-go,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-go,master,"Ethan"
