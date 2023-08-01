@@ -3406,7 +3406,7 @@ ffmpeg,6.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/ffmpeg,master,"Ethan
 cairo,1.16.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/cairo,master,"Dylan Araps"
 libinput,1.23.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libinput,master,"Ethan"
 libva,2.19.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libva,master,"Ethan"
-firefox,115.0.2 1,https://github.com/ehawkvu/kiss-xorg.git,extra/firefox,master,"Ethan"
+firefox,116.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/firefox,master,"Ethan"
 liberation-fonts,2.1.5 1,https://github.com/ehawkvu/kiss-xorg.git,extra/liberation-fonts,master,"Ethan"
 mpv,git 2,https://github.com/ehawkvu/kiss-xorg.git,extra/mpv,master,"Ethan"
 libdrm,2.4.115 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libdrm,master,"Ethan"
