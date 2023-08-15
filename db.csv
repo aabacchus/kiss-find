@@ -4185,7 +4185,7 @@ byacc,20230521 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/byacc,m
 awk,9e248c317b88470fc86aa7c988919dc49452c88c 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/awk,master,"hovercats"
 mpfr,4.2.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/mpfr,master,"hovercats"
 flex,2.6.4 4,https://github.com/hovercats/kiss-dumpsterfire.git,core/flex,master,"hovercats"
-binutils,2.41 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/binutils,master,"hovercats"
+binutils,2.41 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/binutils,master,"hovercats"
 linux-headers,6.1.15 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/linux-headers,master,"hovercats"
 bzip2,1.0.8 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/bzip2,master,"hovercats"
 libressl,3.7.3 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/libressl,master,"hovercats"
