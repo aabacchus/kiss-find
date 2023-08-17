@@ -2831,7 +2831,7 @@ eudev-git,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/eudev-git,mas
 bashdb,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/bashdb,master,"Ethan"
 sfeed,1.8 1,https://github.com/ehawkvu/kiss-personal.git,utils/sfeed,master,"Ethan"
 libidn,1.41 1,https://github.com/ehawkvu/kiss-personal.git,utils/libidn,master,"Ethan"
-lldb,15.0.7 1,https://github.com/ehawkvu/kiss-personal.git,utils/lldb,master,"Ethan"
+lldb,16.0.6 1,https://github.com/ehawkvu/kiss-personal.git,utils/lldb,master,"Ethan"
 profanity,0.14.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/profanity,master,"Ethan"
 smartmontools,7.4 1,https://github.com/ehawkvu/kiss-personal.git,utils/smartmontools,master,"Ethan"
 mypy,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/mypy,master,"Ethan"
