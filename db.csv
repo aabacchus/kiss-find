@@ -2853,6 +2853,7 @@ tor,0.4.7.14 1,https://github.com/ehawkvu/kiss-personal.git,server/tor,master,"E
 dovecot,2.3.20 1,https://github.com/ehawkvu/kiss-personal.git,server/dovecot,master,"Ethan"
 i2pd,2.48.0 1,https://github.com/ehawkvu/kiss-personal.git,server/i2pd,master,"Ethan"
 rspamd,3.6 1,https://github.com/ehawkvu/kiss-personal.git,server/rspamd,master,"Ethan"
+php,8.0.30 1,https://github.com/ehawkvu/kiss-personal.git,server/php,master,"Ethan"
 lighttpd,1.4.71 1,https://github.com/ehawkvu/kiss-personal.git,server/lighttpd,master,"Ethan"
 quark,git 1,https://github.com/ehawkvu/kiss-personal.git,server/quark,master,"Ethan"
 db,5.3.28 1,https://github.com/ehawkvu/kiss-personal.git,server/db,master,"Ethan"
