@@ -817,7 +817,7 @@ python,3.11.5 1,https://codeberg.org/kiss-community/repo.git,extra/python,master
 lame,3.100 2,https://codeberg.org/kiss-community/repo.git,extra/lame,master,"Dylan Araps"
 e2fsprogs,1.47.0 1,https://codeberg.org/kiss-community/repo.git,extra/e2fsprogs,master,"Owen Rafferty"
 x265,3.5 1,https://codeberg.org/kiss-community/repo.git,extra/x265,master,"Dylan Araps"
-sqlite,3.43.0 1,https://codeberg.org/kiss-community/repo.git,extra/sqlite,master,"Owen Rafferty"
+sqlite,3.43.1 1,https://codeberg.org/kiss-community/repo.git,extra/sqlite,master,"Owen Rafferty"
 cbindgen,0.25.0 1,https://codeberg.org/kiss-community/repo.git,extra/cbindgen,master,"Owen Rafferty"
 adwaita-icon-theme,44.0 1,https://codeberg.org/kiss-community/repo.git,extra/adwaita-icon-theme,master,"Owen Rafferty"
 firefox,117.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
