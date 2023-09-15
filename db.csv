@@ -4277,7 +4277,7 @@ xkbcommon,0.10.0 1,https://github.com/gyula-ny/kiss-i3wm.git,kiss-i3wm/xkbcommon
 i3,4.18.1 1,https://github.com/gyula-ny/kiss-i3wm.git,kiss-i3wm/i3,master,"Gyula Nyirfalvi"
 pax-mcf,git 1,https://github.com/hovercats/kiss-dumpsterfire.git,testing/pax-mcf,master,"hovercats"
 gmp,6.3.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/gmp,master,"hovercats"
-otools,1.5.1 4,https://github.com/hovercats/kiss-dumpsterfire.git,core/otools,master,"hovercats"
+otools,1.5.1 5,https://github.com/hovercats/kiss-dumpsterfire.git,core/otools,master,"hovercats"
 curl,8.3.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/curl,master,"hovercats"
 rc,50b729e65d6f250ab9ab72487bd3c3d7c674e1fc 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/rc,master,"hovercats"
 make,4.4.1 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/make,master,"hovercats"
