@@ -3568,7 +3568,7 @@ libinput,1.24.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libinput,master
 gtk+3,3.24.38 1,https://github.com/ehawkvu/kiss-xorg.git,extra/gtk+3,master,"Ethan"
 mpv,git 2,https://github.com/ehawkvu/kiss-xorg.git,extra/mpv,master,"Ethan"
 pango,1.50.14 1,https://github.com/ehawkvu/kiss-xorg.git,extra/pango,master,"Ethan"
-mesa,23.1.6 1,https://github.com/ehawkvu/kiss-xorg.git,extra/mesa,master,"Ethan"
+mesa,23.1.7 1,https://github.com/ehawkvu/kiss-xorg.git,extra/mesa,master,"Ethan"
 libepoxy,1.5.10 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libepoxy,master,"Ethan"
 libva-utils,2.19.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libva-utils,master,"Ethan"
 giflib,5.2.1 1,https://github.com/ehawkvu/kiss-xorg.git,extra/giflib,master,"Ethan"
