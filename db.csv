@@ -2760,6 +2760,7 @@ cbqn,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/cbqn,master,"Ethan
 alpine-linux-lts,git 1,https://github.com/ehawkvu/kiss-personal.git,testing/alpine-linux-lts,master,"Ethan"
 sccache,0.3.0 1,https://github.com/ehawkvu/kiss-personal.git,testing/sccache,master,"Ethan"
 hol,kananaskis.14 1,https://github.com/ehawkvu/kiss-personal.git,testing/hol,master,"Ethan"
+arch-linux-lts,git 1,https://github.com/ehawkvu/kiss-personal.git,testing/arch-linux-lts,master,"Ethan"
 cakeml-git,git 1,https://github.com/ehawkvu/kiss-personal.git,testing/cakeml-git,master,"Ethan"
 gentoo-vanilla-kernel,5.15.117+g7 1,https://github.com/ehawkvu/kiss-personal.git,testing/gentoo-vanilla-kernel,master,"Ethan"
 portaudio,19.7.0 1,https://github.com/ehawkvu/kiss-personal.git,audio/portaudio,master,"Ethan"
