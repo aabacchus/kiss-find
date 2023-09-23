@@ -4370,7 +4370,7 @@ less,633 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/less,master,
 sndio,1.9.0 3,https://github.com/hovercats/kiss-dumpsterfire.git,extra/sndio,master,"hovercats"
 mupdf,1.23.3 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/mupdf,master,"hovercats"
 lua,5.4.6 1 ,https://github.com/hovercats/kiss-dumpsterfire.git,extra/lua,master,"hovercats"
-glib-networking,2.76.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/glib-networking,master,"hovercats"
+glib-networking,2.78.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/glib-networking,master,"hovercats"
 opus,1.3.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/opus,master,"hovercats"
 libevent,2.1.12 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/libevent,master,"hovercats"
 libwebp,1.3.2 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/libwebp,master,"hovercats"
