@@ -4303,7 +4303,7 @@ linux-headers,6.1.15 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/l
 rcsm,0.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/rcsm,master,"hovercats"
 zlib,1.3 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/zlib,master,"hovercats"
 m4,1.4.19 3,https://github.com/hovercats/kiss-dumpsterfire.git,core/m4,master,"hovercats"
-baselayout,1 6,https://github.com/hovercats/kiss-dumpsterfire.git,core/baselayout,master,"hovercats"
+baselayout,1 7,https://github.com/hovercats/kiss-dumpsterfire.git,core/baselayout,master,"hovercats"
 awk,c8b4698d57d7b1dc6275fd514fcdf163955e8f67 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/awk,master,"hovercats"
 rcinit,716d3b9f828a13af4767caf6cb2a8ec5834f4167 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/rcinit,master,"hovercats"
 gcc,13.2.0 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/gcc,master,"hovercats"
