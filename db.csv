@@ -3565,7 +3565,7 @@ dragon-git,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/dragon-git,m
 schismtracker,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/schismtracker,master,"Ethan"
 openal-soft,1.23.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/openal-soft,master,"Ethan"
 libexif,0.6.24 1,https://github.com/ehawkvu/kiss-xorg.git,community/libexif,master,"Ethan"
-nyxt,3.7.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/nyxt,master,"Ethan"
+nyxt,3.8.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/nyxt,master,"Ethan"
 perl-netsurf,3.10 1,https://github.com/ehawkvu/kiss-xorg.git,community/perl-netsurf,master,"Ethan"
 libpciaccess,0.17 3,https://github.com/ehawkvu/kiss-xorg.git,extra/libpciaccess,master,"hovercats"
 firefox,117.0.1 1,https://github.com/ehawkvu/kiss-xorg.git,extra/firefox,master,"Ethan"
