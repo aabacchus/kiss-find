@@ -1509,7 +1509,7 @@ nilfs-utils,2.2.9 1,https://github.com/aabacchus/kiss-repo.git,nilfs-utils,main,
 herbe,1.0.0 3,https://github.com/aabacchus/kiss-repo.git,herbe,main,"aabacchus"
 netsurf-buildsystem,git 1,https://github.com/aabacchus/kiss-repo.git,netsurf-buildsystem,main,"aabacchus"
 cvs,1.11.23 1,https://github.com/aabacchus/kiss-repo.git,cvs,main,"aabacchus"
-feh,3.10 1,https://github.com/aabacchus/kiss-repo.git,feh,main,"aabacchus"
+feh,3.10.1 1,https://github.com/aabacchus/kiss-repo.git,feh,main,"phoebos"
 tinyscheme,1.42 1,https://github.com/aabacchus/kiss-repo.git,tinyscheme,main,"aabacchus"
 libstrophe,0.12.3 1,https://github.com/aabacchus/kiss-repo.git,libstrophe,main,"phoebos"
 weston,git 1,https://github.com/aabacchus/kiss-repo.git,weston,main,"aabacchus"
