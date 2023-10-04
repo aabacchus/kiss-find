@@ -2717,7 +2717,7 @@ python2,2.7.18 1,https://github.com/ehawkvu/kiss-personal.git,langs/python2,mast
 shen-cl,35 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-cl,master,"Ethan"
 mit-scheme,10.1.11 1,https://github.com/ehawkvu/kiss-personal.git,langs/mit-scheme,master,"Ethan"
 ccl,1.12.2 1,https://github.com/ehawkvu/kiss-personal.git,langs/ccl,master,"Ethan"
-openmpi,4.1.5 1,https://github.com/ehawkvu/kiss-personal.git,langs/openmpi,master,"Ethan"
+openmpi,4.1.6 1,https://github.com/ehawkvu/kiss-personal.git,langs/openmpi,master,"Ethan"
 shen-go,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-go,master,"Ethan"
 racket-minimal,8.9 1,https://github.com/ehawkvu/kiss-personal.git,langs/racket-minimal,master,"Ethan"
 dmd2.101,2.101.2 1,https://github.com/ehawkvu/kiss-personal.git,langs/dmd2.101,master,"Ethan"
