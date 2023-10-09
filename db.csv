@@ -817,7 +817,7 @@ wayland-protocols,1.32 1,https://codeberg.org/kiss-community/repo.git,wayland/wa
 wlroots,0.16.2 1,https://codeberg.org/kiss-community/repo.git,wayland/wlroots,master,"Owen Rafferty"
 tllist,1.1.0 1,https://codeberg.org/kiss-community/repo.git,wayland/tllist,master,"Owen Rafferty"
 libevdev,1.13.1 1,https://codeberg.org/kiss-community/repo.git,wayland/libevdev,master,"Owen Rafferty"
-libxkbcommon,1.5.0 1,https://codeberg.org/kiss-community/repo.git,wayland/libxkbcommon,master,"Owen Rafferty"
+libxkbcommon,1.6.0 1,https://codeberg.org/kiss-community/repo.git,wayland/libxkbcommon,master,"Owen Rafferty"
 libseat,0.8.0 1,https://codeberg.org/kiss-community/repo.git,wayland/libseat,master,"Owen Rafferty"
 xkeyboard-config,2.40 1,https://codeberg.org/kiss-community/repo.git,wayland/xkeyboard-config,master,"Owen Rafferty"
 wayclip,0.4.1 1,https://codeberg.org/kiss-community/repo.git,wayland/wayclip,master,"git-bruh"
