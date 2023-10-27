@@ -3019,7 +3019,6 @@ oath-toolkit,2.6.7 1,https://github.com/ehawkvu/kiss-personal.git,utils/oath-too
 vul,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/vul,master,"Ethan"
 profanity,0.14.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/profanity,master,"Ethan"
 aritim-dark-gtk-git,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/aritim-dark-gtk-git,master,"Ethan"
-eudev-git,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/eudev-git,master,"Ethan"
 openexr,3.2.1 1,https://github.com/ehawkvu/kiss-personal.git,utils/openexr,master,"Ethan"
 tenacity,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/tenacity,master,"Ethan"
 libvterm,0.3.3 1,https://github.com/ehawkvu/kiss-personal.git,utils/libvterm,master,"Ethan"
