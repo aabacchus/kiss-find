@@ -3657,7 +3657,7 @@ libdrm,2.4.117 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libdrm,master,"E
 giflib,5.2.1 1,https://github.com/ehawkvu/kiss-xorg.git,extra/giflib,master,"Ethan"
 libinput,1.24.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libinput,master,"Ethan"
 libva,2.20.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/libva,master,"Ethan"
-mpv,git 2,https://github.com/ehawkvu/kiss-xorg.git,extra/mpv,master,"Ethan"
+mpv,0.36.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/mpv,master,"Ethan"
 gtk+3,3.24.38 1,https://github.com/ehawkvu/kiss-xorg.git,extra/gtk+3,master,"Ethan"
 sound-theme,1.0 1,https://github.com/eudaldgr/elementaKISS.git,pantheon/sound-theme,master,"Eudald Gubert i Roldan"
 switchboard,2.4.0 1,https://github.com/eudaldgr/elementaKISS.git,pantheon/switchboard,master,"Eudald Gubert i Roldan"
