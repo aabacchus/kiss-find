@@ -3514,7 +3514,7 @@ freecad,0.20.2 1,https://github.com/ehawkvu/kiss-xorg.git,community/freecad,mast
 freeglut,3.4.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/freeglut,master,"Ethan"
 mesa,symlink,https://github.com/ehawkvu/kiss-xorg.git,xwayland/mesa,master,"unknown"
 sway,1.8.1 1,https://github.com/ehawkvu/kiss-xorg.git,xwayland/sway,master,"sewn"
-xwayland,23.2.1 1,https://github.com/ehawkvu/kiss-xorg.git,xwayland/xwayland,master,"Ethan"
+xwayland,23.2.2 1,https://github.com/ehawkvu/kiss-xorg.git,xwayland/xwayland,master,"sewn"
 wlroots,0.16.2 1,https://github.com/ehawkvu/kiss-xorg.git,xwayland/wlroots,master,"sewn"
 xkeyboard-config,2.40 1,https://github.com/ehawkvu/kiss-xorg.git,xwayland/xkeyboard-config,master,""
 cppunit,1.15.1 1,https://github.com/ehawkvu/kiss-xorg.git,testing/cppunit,master,"Ethan"
