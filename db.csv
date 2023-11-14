@@ -3540,7 +3540,7 @@ hdf5,1.10.5 1,https://github.com/ehawkvu/kiss-xorg.git,community/hdf5,master,"Et
 shared-mime-info,2.2 1,https://github.com/ehawkvu/kiss-xorg.git,community/shared-mime-info,master,"Ethan"
 coin,4.0.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/coin,master,"Ethan"
 solvespace,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/solvespace,master,"Ethan"
-chromium,118.0.5993.70 1,https://github.com/ehawkvu/kiss-xorg.git,community/chromium,master,"Ethan"
+chromium,119.0.6045.123 1,https://github.com/ehawkvu/kiss-xorg.git,community/chromium,master,"sewn"
 dzen,git 2,https://github.com/ehawkvu/kiss-xorg.git,community/dzen,master,"Arthur Williams"
 gettext-tiny,0.3.2 1,https://github.com/ehawkvu/kiss-xorg.git,community/gettext-tiny,master,"Ethan"
 maim,5.7.4 1,https://github.com/ehawkvu/kiss-xorg.git,community/maim,master,"Ethan"
