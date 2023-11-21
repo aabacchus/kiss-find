@@ -3295,7 +3295,7 @@ ghostscript,10.02.0 1,https://github.com/ehawkvu/kiss-tex.git,extra/ghostscript,
 poppler,23.10.0 1,https://github.com/ehawkvu/kiss-tex.git,extra/poppler,master,"Ethan"
 freetype-harfbuzz,2.13.2+8.2.1 1,https://github.com/ehawkvu/kiss-tex.git,extra/freetype-harfbuzz,master,"Ethan"
 zip,3.0 1,https://github.com/ehawkvu/kiss-tex.git,extra/zip,master,"Ethan"
-icu,73.2 1,https://github.com/ehawkvu/kiss-tex.git,extra/icu,master,"Ethan"
+icu,74.1 1,https://github.com/ehawkvu/kiss-tex.git,extra/icu,master,"Ethan"
 lcms,2.15 1,https://github.com/ehawkvu/kiss-tex.git,extra/lcms,master,"Ethan"
 xwayland,23.2.2 1,https://github.com/ehawkvu/kiss-xorg.git,xwayland/xwayland,master,"sewn"
 mesa,symlink,https://github.com/ehawkvu/kiss-xorg.git,xwayland/mesa,master,"unknown"
