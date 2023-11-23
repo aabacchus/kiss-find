@@ -4428,7 +4428,7 @@ gst-plugins,1.22.7 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/gs
 mupdf,1.23.6 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/mupdf,master,"hovercats"
 mandoc,1.14.6 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/mandoc,master,"hovercats"
 man-pages,6.05.01 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/man-pages,master,"hovercats"
-pkgconf,2.0.3 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/pkgconf,master,"hovercats"
+pkgconf,2.1.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/pkgconf,master,"hovercats"
 dosfstools,4.2 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/dosfstools,master,"hovercats"
 libvpx,1.13.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/libvpx,master,"hovercats"
 python,3.11.5 1,https://github.com/hovercats/kiss-dumpsterfire.git,extra/python,master,"hovercats"
