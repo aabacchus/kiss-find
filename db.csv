@@ -824,6 +824,7 @@ firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox
 nspr,4.35 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"
 intel-vaapi-driver,2.4.1 1,https://codeberg.org/kiss-community/repo.git,extra/intel-vaapi-driver,master,"Dylan Araps"
 libjpeg-turbo,3.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/libjpeg-turbo,master,"Owen Rafferty"
+libdisplay-info,0.1.1 1,https://codeberg.org/kiss-community/repo.git,extra/libdisplay-info,master,"Owen Rafferty"
 ffmpeg,6.1 1,https://codeberg.org/kiss-community/repo.git,extra/ffmpeg,master,"Owen Rafferty"
 kirc,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/kirc,master,"Owen Rafferty"
 libffi,3.4.4 1,https://codeberg.org/kiss-community/repo.git,extra/libffi,master,"Owen Rafferty"
