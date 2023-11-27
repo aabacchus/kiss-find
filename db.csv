@@ -2744,7 +2744,7 @@ miranda,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/miranda,master,
 chez-scheme,9.6.4 1,https://github.com/ehawkvu/kiss-personal.git,langs/chez-scheme,master,"Ethan"
 regina-rexx,3.9.5 1,https://github.com/ehawkvu/kiss-personal.git,langs/regina-rexx,master,"Ethan"
 gc,8.2.4 1,https://github.com/ehawkvu/kiss-personal.git,langs/gc,master,"Ethan"
-sbcl,2.3.9 1,https://github.com/ehawkvu/kiss-personal.git,langs/sbcl,master,"Ethan"
+sbcl,2.3.10 1,https://github.com/ehawkvu/kiss-personal.git,langs/sbcl,master,"Ethan"
 cabal-install,3.10.2.0 1,https://github.com/ehawkvu/kiss-personal.git,langs/cabal-install,master,"Ethan"
 fasm,1.73.31 1,https://github.com/ehawkvu/kiss-personal.git,langs/fasm,master,"Ethan"
 cxprolog,0.98.2 1,https://github.com/ehawkvu/kiss-personal.git,langs/cxprolog,master,"Ethan"
