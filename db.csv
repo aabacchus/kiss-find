@@ -766,7 +766,7 @@ baseinit,1.0.3 1,https://codeberg.org/kiss-community/repo.git,core/baseinit,mast
 pcre2,10.42 1,https://codeberg.org/kiss-community/repo.git,extra/pcre2,master,"Owen Rafferty"
 openresolv,3.13.2 1,https://codeberg.org/kiss-community/repo.git,extra/openresolv,master,"Owen Rafferty"
 cbindgen,0.26.0 1,https://codeberg.org/kiss-community/repo.git,extra/cbindgen,master,"Owen Rafferty"
-nss,3.94 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
+nss,3.95 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
 x265,3.5 1,https://codeberg.org/kiss-community/repo.git,extra/x265,master,"Dylan Araps"
 llvm,17.0.5 1,https://codeberg.org/kiss-community/repo.git,extra/llvm,master,"Owen Rafferty"
 gtk+3,3.24.38 1,https://codeberg.org/kiss-community/repo.git,extra/gtk+3,master,"Owen Rafferty"
