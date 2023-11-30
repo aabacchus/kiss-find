@@ -2995,6 +2995,7 @@ musl-rpmatch,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/musl-rpmat
 lld,17.0.5 1,https://github.com/ehawkvu/kiss-personal.git,utils/lld,master,"Ethan"
 wcc,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/wcc,master,"Ethan"
 upx,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/upx,master,"Ethan"
+fossil,2.23 1,https://github.com/ehawkvu/kiss-personal.git,utils/fossil,master,"Ethan"
 npm-write-good,1.0.8 1,https://github.com/ehawkvu/kiss-personal.git,utils/npm-write-good,master,"Ethan"
 yash,2.55 1,https://github.com/ehawkvu/kiss-personal.git,utils/yash,master,"Ethan"
 alpine,2.26 1,https://github.com/ehawkvu/kiss-personal.git,utils/alpine,master,"Ethan"
