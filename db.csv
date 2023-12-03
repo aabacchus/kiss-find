@@ -3431,7 +3431,7 @@ palemoon,32.4.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/palemoon,ma
 polybar,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/polybar,master,"Ethan"
 gtk-gnutella,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/gtk-gnutella,master,"Ethan"
 harfbuzz-icu,8.0.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/harfbuzz-icu,master,"Ethan"
-qt6,6.5.3 1,https://github.com/ehawkvu/kiss-xorg.git,community/qt6,master,"Ethan"
+qt6,6.6.1 1,https://github.com/ehawkvu/kiss-xorg.git,community/qt6,master,"Ethan"
 libsigc++,2.12.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/libsigc++,master,"Ethan"
 xmodmap,1.0.11 1,https://github.com/ehawkvu/kiss-xorg.git,community/xmodmap,master,"Ethan"
 jsoncpp,1.9.5 1,https://github.com/ehawkvu/kiss-xorg.git,community/jsoncpp,master,"Ethan"
