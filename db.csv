@@ -2819,7 +2819,7 @@ coreutils,9.4 1,https://github.com/ehawkvu/kiss-personal.git,gnuland/coreutils,m
 gmake,4.3 1,https://github.com/ehawkvu/kiss-personal.git,gnuland/gmake,master,"Ethan"
 inetutils,2.4 1,https://github.com/ehawkvu/kiss-personal.git,gnuland/inetutils,master,"Ethan"
 clinfo,git 1,https://github.com/ehawkvu/kiss-personal.git,amd/clinfo,master,"Ethan"
-mesa,23.2.1 1,https://github.com/ehawkvu/kiss-personal.git,amd/mesa,master,"Ethan"
+mesa,23.3.0 1,https://github.com/ehawkvu/kiss-personal.git,amd/mesa,master,"Ethan"
 spirv-llvm-translator,17.0.0 1,https://github.com/ehawkvu/kiss-personal.git,amd/spirv-llvm-translator,master,"Ethan"
 radeontop,1.4 1,https://github.com/ehawkvu/kiss-personal.git,amd/radeontop,master,"Ethan"
 spirv-tools,2023.2 1,https://github.com/ehawkvu/kiss-personal.git,amd/spirv-tools,master,"Ethan"
