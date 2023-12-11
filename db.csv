@@ -1470,7 +1470,7 @@ amfora,1.9.2 1,https://github.com/aabacchus/kiss-repo.git,amfora,main,"aabacchus
 libparserutils,git 1,https://github.com/aabacchus/kiss-repo.git,libparserutils,main,"aabacchus"
 libsx,2.08-4 2,https://github.com/aabacchus/kiss-repo.git,libsx,main,"aabacchus"
 libnsbmp,git 1,https://github.com/aabacchus/kiss-repo.git,libnsbmp,main,"aabacchus"
-feh,3.10.1 1,https://github.com/aabacchus/kiss-repo.git,feh,main,"phoebos"
+feh,3.10.2 1,https://github.com/aabacchus/kiss-repo.git,feh,main,"phoebos"
 docbook2mdoc,1.1.0 1,https://github.com/aabacchus/kiss-repo.git,docbook2mdoc,main,"aabacchus"
 fbpdf,git 1,https://github.com/aabacchus/kiss-repo.git,fbpdf,main,"aabacchus"
 libwapcaplet,0.4.3 1,https://github.com/aabacchus/kiss-repo.git,libwapcaplet,main,"aabacchus"
