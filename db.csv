@@ -746,7 +746,7 @@ pcre2,10.42 1,https://codeberg.org/kiss-community/repo.git,extra/pcre2,master,"O
 libepoxy,1.5.10 1,https://codeberg.org/kiss-community/repo.git,extra/libepoxy,master,"Wolf Gupta"
 python-glad,2.0.4 1,https://codeberg.org/kiss-community/repo.git,extra/python-glad,master,"Owen Rafferty"
 libvpx,1.13.1 1,https://codeberg.org/kiss-community/repo.git,extra/libvpx,master,"Owen Rafferty"
-rust,1.74.1 1,https://codeberg.org/kiss-community/repo.git,extra/rust,master,"Owen Rafferty"
+rust,1.75.0 1,https://codeberg.org/kiss-community/repo.git,extra/rust,master,"Owen Rafferty"
 json-c,0.17 1,https://codeberg.org/kiss-community/repo.git,extra/json-c,master,"Owen Rafferty"
 util-linux,2.39.3 1,https://codeberg.org/kiss-community/repo.git,extra/util-linux,master,"Owen Rafferty"
 libplacebo,6.338.1 1,https://codeberg.org/kiss-community/repo.git,extra/libplacebo,master,"Owen Rafferty"
