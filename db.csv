@@ -2829,7 +2829,7 @@ libtbb,2021.7.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/libtbb,mast
 qtspell,1.0.1 1,https://github.com/ehawkvu/kiss-personal.git,utils/qtspell,master,"Ethan"
 ntp,4.2.8p17 1,https://github.com/ehawkvu/kiss-personal.git,utils/ntp,master,"Ethan"
 nuitka,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/nuitka,master,"Ethan"
-flatpak-builder,1.2.3 1,https://github.com/ehawkvu/kiss-personal.git,utils/flatpak-builder,master,"Ethan"
+flatpak-builder,1.4.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/flatpak-builder,master,"Ethan"
 capstone,5.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/capstone,master,"Ethan"
 kjv,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/kjv,master,"Ethan"
 irssi,1.4.5 1,https://github.com/ehawkvu/kiss-personal.git,utils/irssi,master,"Ethan"
