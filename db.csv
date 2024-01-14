@@ -2828,6 +2828,7 @@ texinfo,7.1 1,https://github.com/ehawkvu/kiss-personal.git,utils/texinfo,master,
 python-docx2txt,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/python-docx2txt,master,"Ethan"
 grap,1.47 1,https://github.com/ehawkvu/kiss-personal.git,utils/grap,master,"Ethan"
 libtbb,2021.7.0 1,https://github.com/ehawkvu/kiss-personal.git,utils/libtbb,master,"Ethan"
+dracut,059 1,https://github.com/ehawkvu/kiss-personal.git,utils/dracut,master,"Ethan"
 qtspell,1.0.1 1,https://github.com/ehawkvu/kiss-personal.git,utils/qtspell,master,"Ethan"
 ntp,4.2.8p17 1,https://github.com/ehawkvu/kiss-personal.git,utils/ntp,master,"Ethan"
 nuitka,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/nuitka,master,"Ethan"
