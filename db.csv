@@ -2606,7 +2606,7 @@ jikes,1.22 1,https://github.com/ehawkvu/kiss-java-boot.git,jdk0/jikes,master,"Et
 jamvm,1.5.1 1,https://github.com/ehawkvu/kiss-java-boot.git,jdk0/jamvm,master,"Ethan"
 openjdk8,3.28.0 1,https://github.com/ehawkvu/kiss-java-boot.git,openjdk8,master,"Ethan"
 linux-lts,5.10.135 1,https://github.com/ehawkvu/kiss-personal.git,kernel/linux-lts,master,"Ethan"
-linux-firmware,20230404 1,https://github.com/ehawkvu/kiss-personal.git,kernel/linux-firmware,master,"Ethan"
+linux-firmware,20240115 1,https://github.com/ehawkvu/kiss-personal.git,kernel/linux-firmware,master,"Ethan"
 ocl-icd,2.3.2 1,https://github.com/ehawkvu/kiss-personal.git,amd/ocl-icd,master,"Ethan"
 spirv-tools,2023.2 1,https://github.com/ehawkvu/kiss-personal.git,amd/spirv-tools,master,"Ethan"
 radeontop,1.4 1,https://github.com/ehawkvu/kiss-personal.git,amd/radeontop,master,"Ethan"
