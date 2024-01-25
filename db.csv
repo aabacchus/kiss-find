@@ -2957,7 +2957,7 @@ ispc,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/ispc,master,"Ethan
 snobol4,2.3.2 1,https://github.com/ehawkvu/kiss-personal.git,langs/snobol4,master,"Ethan"
 libuv,1.46.0 1,https://github.com/ehawkvu/kiss-personal.git,langs/libuv,master,"Ethan"
 objfw,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/objfw,master,"Ethan"
-shen-cl,37 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-cl,master,"Ethan"
+shen-cl,37.1 1,https://github.com/ehawkvu/kiss-personal.git,langs/shen-cl,master,"Ethan"
 racket-minimal,8.11 1,https://github.com/ehawkvu/kiss-personal.git,langs/racket-minimal,master,"Ethan"
 c3,git 1,https://github.com/ehawkvu/kiss-personal.git,langs/c3,master,"Ethan"
 pcre,8.45 1,https://github.com/ehawkvu/kiss-personal.git,langs/pcre,master,"Ethan"
