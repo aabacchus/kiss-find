@@ -3705,7 +3705,7 @@ xf86-video-fbdev,0.5.0 1,https://github.com/ehawkvu/kiss-xorg.git,community/xf86
 x11vnc,git 1,https://github.com/ehawkvu/kiss-xorg.git,community/x11vnc,master,"Ethan"
 mpv,0.37.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/mpv,master,"Ethan"
 firefox,122.0 1,https://github.com/ehawkvu/kiss-xorg.git,extra/firefox,master,"Ethan"
-pango,1.51.1 1,https://github.com/ehawkvu/kiss-xorg.git,extra/pango,master,"Ethan"
+pango,1.51.2 1,https://github.com/ehawkvu/kiss-xorg.git,extra/pango,master,"Ethan"
 gdk-pixbuf,2.42.10 1,https://github.com/ehawkvu/kiss-xorg.git,extra/gdk-pixbuf,master,"Ethan"
 giflib,5.2.1 1,https://github.com/ehawkvu/kiss-xorg.git,extra/giflib,master,"Ethan"
 gtk+3,3.24.41 1,https://github.com/ehawkvu/kiss-xorg.git,extra/gtk+3,master,"Ethan"
