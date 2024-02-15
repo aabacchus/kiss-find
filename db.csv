@@ -2706,7 +2706,7 @@ leptonica,1.84.1 1,https://github.com/ehawkvu/kiss-personal.git,utils/leptonica,
 ungit,1.5.25 1,https://github.com/ehawkvu/kiss-personal.git,utils/ungit,master,"Ethan"
 kjv,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/kjv,master,"Ethan"
 hunspell,1.7.2 1,https://github.com/ehawkvu/kiss-personal.git,utils/hunspell,master,"Ethan"
-lilypond,2.22.2 1,https://github.com/ehawkvu/kiss-personal.git,utils/lilypond,master,"Ethan"
+lilypond,2.25.13 1,https://github.com/ehawkvu/kiss-personal.git,utils/lilypond,master,"Ethan"
 alttab-git,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/alttab-git,master,"Ethan"
 tea,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/tea,master,"Ethan"
 ksh,git 1,https://github.com/ehawkvu/kiss-personal.git,utils/ksh,master,"Ethan"
