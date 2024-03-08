@@ -3692,7 +3692,6 @@ xlennart-git,git 1,https://github.com/echawk/kiss-xorg.git,games/xlennart-git,ma
 libmad,0.15.1b 1,https://github.com/echawk/kiss-xorg.git,games/libmad,master,"Ethan"
 desmume,0.9.13 1,https://github.com/echawk/kiss-xorg.git,games/desmume,master,"Ethan"
 supertuxkart,1.4 1,https://github.com/echawk/kiss-xorg.git,games/supertuxkart,master,"Ethan"
-citra-emu,git 1,https://github.com/echawk/kiss-xorg.git,games/citra-emu,master,"Ethan"
 dolphin-emu,git 1,https://github.com/echawk/kiss-xorg.git,games/dolphin-emu,master,"Ethan"
 xonotic,0.8.6 1,https://github.com/echawk/kiss-xorg.git,games/xonotic,master,"Ethan"
 ace-of-penguins,1.4 1,https://github.com/echawk/kiss-xorg.git,games/ace-of-penguins,master,"Ethan"
