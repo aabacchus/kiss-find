@@ -2668,7 +2668,7 @@ quickjs,2023.12.09 1,https://github.com/echawk/kiss-personal.git,langs/quickjs,m
 idris2,0.6.0 1,https://github.com/echawk/kiss-personal.git,langs/idris2,master,"Ethan"
 hare,git 1,https://github.com/echawk/kiss-personal.git,langs/hare,master,"Ethan"
 gdbm,1.23 1,https://github.com/echawk/kiss-personal.git,langs/gdbm,master,"Ethan"
-dmd,2.107.0 1,https://github.com/echawk/kiss-personal.git,langs/dmd,master,"Ethan"
+dmd,2.107.1 1,https://github.com/echawk/kiss-personal.git,langs/dmd,master,"Ethan"
 gln,1.3.6 1,https://github.com/echawk/kiss-personal.git,langs/gln,master,"Ethan"
 eisl,git 1,https://github.com/echawk/kiss-personal.git,langs/eisl,master,"Ethan"
 scratch,1.4.0.7 1,https://github.com/echawk/kiss-personal.git,langs/scratch,master,"Ethan"
