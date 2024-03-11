@@ -4501,7 +4501,7 @@ binutils,2.42 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/binutils
 git,2.44.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/git,master,"hovercats"
 libmpc,1.3.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/libmpc,master,"hovercats"
 make,4.4.1 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/make,master,"hovercats"
-xz,5.6.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/xz,master,"hovercats"
+xz,5.6.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/xz,master,"hovercats"
 rc,50b729e65d6f250ab9ab72487bd3c3d7c674e1fc 3,https://github.com/hovercats/kiss-dumpsterfire.git,core/rc,master,"hovercats"
 ubase,4a91476f6217798d8056d46ab3ef70b237fb5ff6 5,https://github.com/hovercats/kiss-dumpsterfire.git,core/ubase,master,"hovercats"
 otools,1.5.1 5,https://github.com/hovercats/kiss-dumpsterfire.git,core/otools,master,"hovercats"
