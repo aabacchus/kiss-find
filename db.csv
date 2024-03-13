@@ -3354,7 +3354,7 @@ xcursorgen,1.0.8 1,https://github.com/echawk/kiss-xorg.git,xorg/xcursorgen,maste
 xf86-video-amdgpu,23.0.0 1,https://github.com/echawk/kiss-xorg.git,xorg/xf86-video-amdgpu,master,"Ethan"
 xf86-video-nouveau,1.0.17 1,https://github.com/echawk/kiss-xorg.git,xorg/xf86-video-nouveau,master,"Dylan Araps"
 libXv,1.0.12 1,https://github.com/echawk/kiss-xorg.git,xorg/libXv,master,"Ethan"
-tinyx,git 1,https://github.com/echawk/kiss-xorg.git,xorg/tinyx,master,"Kyryl Melekhin"
+tinyx,eed4902840732f170a7020cedb381017de99f2e6 1,https://github.com/echawk/kiss-xorg.git,xorg/tinyx,master,"hovercats"
 xev,1.2.5 1,https://github.com/echawk/kiss-xorg.git,xorg/xev,master,"Ethan"
 libXfont,1.5.4 1,https://github.com/echawk/kiss-xorg.git,xorg/libXfont,master,"Ethan"
 sowm,1.6 1,https://github.com/echawk/kiss-xorg.git,xorg/sowm,master,"Dylan Araps"
