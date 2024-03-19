@@ -692,7 +692,7 @@ sway,1.9 1,https://codeberg.org/kiss-community/grepo.git,wayland/sway,master,"gi
 libpciaccess,0.18 1,https://codeberg.org/kiss-community/grepo.git,wayland/libpciaccess,master,"Owen Rafferty"
 libdrm,2.4.120 1,https://codeberg.org/kiss-community/grepo.git,wayland/libdrm,master,"Owen Rafferty"
 wayclip,0.4.2 1,https://codeberg.org/kiss-community/grepo.git,wayland/wayclip,master,"Owen Rafferty"
-kiss,6.1.0 1,https://codeberg.org/kiss-community/repo.git,core/kiss,master,"Owen Rafferty"
+kiss,6.1.1 1,https://codeberg.org/kiss-community/repo.git,core/kiss,master,"phoebos"
 certs,2023-08-22 1,https://codeberg.org/kiss-community/repo.git,core/certs,master,"Owen Rafferty"
 musl,1.2.5 1,https://codeberg.org/kiss-community/repo.git,core/musl,master,"Owen Rafferty"
 xz,5.6.1 1,https://codeberg.org/kiss-community/repo.git,core/xz,master,"Owen Rafferty"
