@@ -839,7 +839,7 @@ foot-pgo,symlink,https://codeberg.org/kiss-community/repo.git,wayland/foot-pgo,m
 wbg,1.1.0 1,https://codeberg.org/kiss-community/repo.git,wayland/wbg,master,"Owen Rafferty"
 libxkbcommon,1.7.0 1,https://codeberg.org/kiss-community/repo.git,wayland/libxkbcommon,master,"Owen Rafferty"
 wayland,1.22.0 1,https://codeberg.org/kiss-community/repo.git,wayland/wayland,master,"Owen Rafferty"
-compose-tables,1.8.7 1,https://codeberg.org/kiss-community/repo.git,wayland/compose-tables,master,"Owen Rafferty"
+compose-tables,1.8.8 1,https://codeberg.org/kiss-community/repo.git,wayland/compose-tables,master,"Owen Rafferty"
 fcft,3.1.8 1,https://codeberg.org/kiss-community/repo.git,wayland/fcft,master,"Owen Rafferty"
 libevdev,1.13.1 1,https://codeberg.org/kiss-community/repo.git,wayland/libevdev,master,"Owen Rafferty"
 sway,1.9 1,https://codeberg.org/kiss-community/repo.git,wayland/sway,master,"Owen Rafferty"
