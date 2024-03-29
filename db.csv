@@ -4429,7 +4429,7 @@ curl,8.7.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/curl,master
 sbase,1b46d26362a6fcc525c1ea01ce49907ccb74f8c9 5,https://github.com/hovercats/kiss-dumpsterfire.git,core/sbase,master,"hovercats"
 make,4.4.1 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/make,master,"hovercats"
 bzip2,1.0.8 3,https://github.com/hovercats/kiss-dumpsterfire.git,core/bzip2,master,"hovercats"
-gcc,13.2.0 2,https://github.com/hovercats/kiss-dumpsterfire.git,core/gcc,master,"hovercats"
+gcc,13.2.0 3,https://github.com/hovercats/kiss-dumpsterfire.git,core/gcc,master,"hovercats"
 git,2.44.0 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/git,master,"hovercats"
 otools,1.5.1 5,https://github.com/hovercats/kiss-dumpsterfire.git,core/otools,master,"hovercats"
 b3sum,1.5.1 1,https://github.com/hovercats/kiss-dumpsterfire.git,core/b3sum,master,"hovercats"
