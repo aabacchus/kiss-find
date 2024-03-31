@@ -2816,7 +2816,7 @@ portaudio,19.7.0 1,https://github.com/echawk/kiss-personal.git,audio/portaudio,m
 libao,1.2.2 1,https://github.com/echawk/kiss-personal.git,audio/libao,master,"Ethan"
 ladspa,1.17 1,https://github.com/echawk/kiss-personal.git,audio/ladspa,master,"Ethan"
 jack2,1.9.22 1,https://github.com/echawk/kiss-personal.git,audio/jack2,master,"Ethan"
-pipewire,1.0.3+0.4.14 1,https://github.com/echawk/kiss-personal.git,audio/pipewire,master,"Ethan"
+pipewire,1.0.4+0.4.14 1,https://github.com/echawk/kiss-personal.git,audio/pipewire,master,"Ethan"
 ncmpcpp,0.9.2 1,https://github.com/echawk/kiss-personal.git,audio/ncmpcpp,master,"Ethan"
 pulseaudio,17.0 1,https://github.com/echawk/kiss-personal.git,audio/pulseaudio,master,"Ethan"
 mariadb,11.1.0 1,https://github.com/echawk/kiss-personal.git,server/mariadb,master,"Ethan"
