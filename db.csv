@@ -3363,6 +3363,7 @@ mesa,symlink,https://github.com/echawk/kiss-xorg.git,testing/mesa,master,"unknow
 webkit2gtk,2.44.0 1,https://github.com/echawk/kiss-xorg.git,testing/webkit2gtk,master,"Ethan"
 cppunit,1.15.1 1,https://github.com/echawk/kiss-xorg.git,testing/cppunit,master,"Ethan"
 chromium,123.0.6312.105 1,https://github.com/echawk/kiss-xorg.git,testing/chromium,master,"Ethan"
+ffmpeg,7.0 1,https://github.com/echawk/kiss-xorg.git,testing/ffmpeg,master,"Ethan"
 xmahjongg,3.7 1,https://github.com/echawk/kiss-xorg.git,games/xmahjongg,master,"Ethan"
 freeciv,3.0.9 1,https://github.com/echawk/kiss-xorg.git,games/freeciv,master,"Ethan"
 crispy-doom,6.0 1,https://github.com/echawk/kiss-xorg.git,games/crispy-doom,master,"Ethan"
