@@ -763,7 +763,7 @@ ssu,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/ssu,master,"Dylan
 mandoc,1.14.6 1,https://codeberg.org/kiss-community/repo.git,extra/mandoc,master,"Dylan Araps"
 scdoc,1.11.3 1,https://codeberg.org/kiss-community/repo.git,extra/scdoc,master,"Owen Rafferty"
 nspr,4.35 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"
-firefox,125.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,125.0.2 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 python-packaging,24.0 1,https://codeberg.org/kiss-community/repo.git,extra/python-packaging,master,"Owen Rafferty"
 libelf,0.191 1,https://codeberg.org/kiss-community/repo.git,extra/libelf,master,"Owen Rafferty"
 eiwd,2.16 1,https://codeberg.org/kiss-community/repo.git,extra/eiwd,master,"Owen Rafferty"
