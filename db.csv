@@ -3419,7 +3419,7 @@ autorandr,1.15 1,https://github.com/echawk/kiss-xorg.git,community/autorandr,mas
 x11fs-git,git 1,https://github.com/echawk/kiss-xorg.git,community/x11fs-git,master,"Ethan"
 gimp-git,git 1,https://github.com/echawk/kiss-xorg.git,community/gimp-git,master,"Ethan"
 xwallpaper,0.7.4 2,https://github.com/echawk/kiss-xorg.git,community/xwallpaper,master,"wael"
-gtk+4,4.14.3 1,https://github.com/echawk/kiss-xorg.git,community/gtk+4,master,"Ethan"
+gtk+4,4.15.0 1,https://github.com/echawk/kiss-xorg.git,community/gtk+4,master,"Ethan"
 unixodbc,2.3.12 1,https://github.com/echawk/kiss-xorg.git,community/unixodbc,master,"Ethan"
 dwm,6.5 1,https://github.com/echawk/kiss-xorg.git,community/dwm,master,"Ethan"
 vte3-git,git 1,https://github.com/echawk/kiss-xorg.git,community/vte3-git,master,"Ethan"
