@@ -2938,7 +2938,7 @@ lldb,18.1.5 1,https://github.com/echawk/kiss-personal.git,utils/lldb,master,"Eth
 w3l,git 1,https://github.com/echawk/kiss-personal.git,utils/w3l,master,"Ethan"
 hare-ev,git 1,https://github.com/echawk/kiss-personal.git,utils/hare-ev,master,"Ethan"
 weechat,4.2.0 1,https://github.com/echawk/kiss-personal.git,utils/weechat,master,"Ethan"
-tesseract,5.3.3 1,https://github.com/echawk/kiss-personal.git,utils/tesseract,master,"Ethan"
+tesseract,5.3.4 1,https://github.com/echawk/kiss-personal.git,utils/tesseract,master,"Ethan"
 proot,5.4.0 1,https://github.com/echawk/kiss-personal.git,utils/proot,master,"Ethan"
 dmg2img,1.6.7 1,https://github.com/echawk/kiss-personal.git,utils/dmg2img,master,"Ethan"
 embree,4.3.1 1,https://github.com/echawk/kiss-personal.git,utils/embree,master,"Ethan"
