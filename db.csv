@@ -3451,6 +3451,7 @@ qbittorrent,4.6.4 1,https://github.com/echawk/kiss-xorg.git,community/qbittorren
 gegl,0.4.48 1,https://github.com/echawk/kiss-xorg.git,community/gegl,master,"Ethan"
 stumpwm-git,git 2,https://github.com/echawk/kiss-xorg.git,community/stumpwm-git,master,"Ethan"
 stumpwm-contrib-git,git 1,https://github.com/echawk/kiss-xorg.git,community/stumpwm-contrib-git,master,"Ethan"
+dillo,3.1.0 1,https://github.com/echawk/kiss-xorg.git,community/dillo,master,"Ethan"
 qt5-multimedia,5.15.8 1,https://github.com/echawk/kiss-xorg.git,community/qt5-multimedia,master,"davidgarland"
 python-pivy,0.6.8 1,https://github.com/echawk/kiss-xorg.git,community/python-pivy,master,"Ethan"
 apint-git,git 1,https://github.com/echawk/kiss-xorg.git,community/apint-git,master,"Ethan"
