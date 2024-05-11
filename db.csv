@@ -745,7 +745,7 @@ efibootmgr,18 1,https://codeberg.org/kiss-community/repo.git,extra/efibootmgr,ma
 libepoxy,1.5.10 1,https://codeberg.org/kiss-community/repo.git,extra/libepoxy,master,"Wolf Gupta"
 meson,1.4.0 2,https://codeberg.org/kiss-community/repo.git,extra/meson,master,"Owen Rafferty"
 intel-vaapi-driver,2.4.1 1,https://codeberg.org/kiss-community/repo.git,extra/intel-vaapi-driver,master,"Dylan Araps"
-mesa,24.0.6 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"
+mesa,24.0.7 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"
 sqlite,3.45.3 1,https://codeberg.org/kiss-community/repo.git,extra/sqlite,master,"Owen Rafferty"
 ttf-croscore,1.31.0 2,https://codeberg.org/kiss-community/repo.git,extra/ttf-croscore,master,"Dylan Araps"
 x265,3.6 1,https://codeberg.org/kiss-community/repo.git,extra/x265,master,"Owen Rafferty"
