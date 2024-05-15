@@ -3683,7 +3683,7 @@ libpciaccess,0.18.1 1,https://github.com/echawk/kiss-xorg.git,extra/libpciaccess
 cairo,1.18.0 2,https://github.com/echawk/kiss-xorg.git,extra/cairo,master,"sewn"
 mpv,0.38.0 1,https://github.com/echawk/kiss-xorg.git,extra/mpv,master,"Ethan"
 libglvnd,1.7.0 1,https://github.com/echawk/kiss-xorg.git,extra/libglvnd,master,"Ethan"
-firefox,125.0.2 1,https://github.com/echawk/kiss-xorg.git,extra/firefox,master,"Ethan"
+firefox,126.0 1,https://github.com/echawk/kiss-xorg.git,extra/firefox,master,"Ethan"
 libevdev,1.13.1 1,https://github.com/echawk/kiss-xorg.git,extra/libevdev,master,"Ethan"
 libva-utils,2.21.0 1,https://github.com/echawk/kiss-xorg.git,extra/libva-utils,master,"Ethan"
 liberation-fonts,2.1.5 1,https://github.com/echawk/kiss-xorg.git,extra/liberation-fonts,master,"Ethan"
