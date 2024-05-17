@@ -2787,7 +2787,7 @@ npm-write-good,1.0.8 1,https://github.com/echawk/kiss-personal.git,utils/npm-wri
 libzip,1.10.1 1,https://github.com/echawk/kiss-personal.git,utils/libzip,master,"Ethan"
 tesseract,5.3.4 1,https://github.com/echawk/kiss-personal.git,utils/tesseract,master,"Ethan"
 notflix,git 1,https://github.com/echawk/kiss-personal.git,utils/notflix,master,"Ethan"
-valgrind,3.22.0 1,https://github.com/echawk/kiss-personal.git,utils/valgrind,master,"Ethan"
+valgrind,3.23.0 1,https://github.com/echawk/kiss-personal.git,utils/valgrind,master,"Ethan"
 ntp,4.2.8p17 1,https://github.com/echawk/kiss-personal.git,utils/ntp,master,"Ethan"
 acpid,2.0.34 1,https://github.com/echawk/kiss-personal.git,utils/acpid,master,"Ethan"
 smartmontools,7.4 1,https://github.com/echawk/kiss-personal.git,utils/smartmontools,master,"Ethan"
