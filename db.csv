@@ -3462,7 +3462,6 @@ libXcursor,1.2.2 1,https://github.com/echawk/kiss-xorg.git,xorg/libXcursor,maste
 xorgproto,2024.1 1,https://github.com/echawk/kiss-xorg.git,xorg/xorgproto,master,"Ethan"
 webkit2gtk,2.44.0 1,https://github.com/echawk/kiss-xorg.git,testing/webkit2gtk,master,"Ethan"
 liberation-fonts-tinyx,1 1,https://github.com/echawk/kiss-xorg.git,testing/liberation-fonts-tinyx,master,"Ethan"
-mesa,symlink,https://github.com/echawk/kiss-xorg.git,testing/mesa,master,"unknown"
 cppunit,1.15.1 1,https://github.com/echawk/kiss-xorg.git,testing/cppunit,master,"Ethan"
 sway,1.9 1,https://github.com/echawk/kiss-xorg.git,xwayland/sway,master,"Ethan"
 xwayland,23.2.6 1,https://github.com/echawk/kiss-xorg.git,xwayland/xwayland,master,"Ethan"
