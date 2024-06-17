@@ -2702,6 +2702,7 @@ tiramisu,git 1,https://github.com/echawk/kiss-personal.git,utils/tiramisu,master
 weechat,4.2.0 1,https://github.com/echawk/kiss-personal.git,utils/weechat,master,"Ethan"
 btpd,0.16 1,https://github.com/echawk/kiss-personal.git,utils/btpd,master,"Ethan"
 fossil,2.24 1,https://github.com/echawk/kiss-personal.git,utils/fossil,master,"Ethan"
+flamegraph,git 1,https://github.com/echawk/kiss-personal.git,utils/flamegraph,master,"Ethan"
 lowdown,1.1.0 1,https://github.com/echawk/kiss-personal.git,utils/lowdown,master,"Ethan"
 irssi,1.4.5 1,https://github.com/echawk/kiss-personal.git,utils/irssi,master,"Ethan"
 aspell,0.60.8 1,https://github.com/echawk/kiss-personal.git,utils/aspell,master,"Ethan"
