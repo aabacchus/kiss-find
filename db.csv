@@ -2830,7 +2830,7 @@ mlton,git 1,https://github.com/echawk/kiss-personal.git,langs/mlton,master,"Etha
 gnucobol,3.2 1,https://github.com/echawk/kiss-personal.git,langs/gnucobol,master,"Ethan"
 ivy,git 1,https://github.com/echawk/kiss-personal.git,langs/ivy,master,"Ethan"
 erlang,27.0 1,https://github.com/echawk/kiss-personal.git,langs/erlang,master,"Ethan"
-shen-cl,38.2 1,https://github.com/echawk/kiss-personal.git,langs/shen-cl,master,"Ethan"
+shen-cl,39 1,https://github.com/echawk/kiss-personal.git,langs/shen-cl,master,"Ethan"
 fricas,1.3.11 1,https://github.com/echawk/kiss-personal.git,langs/fricas,master,"Ethan"
 cabal-install,3.10.2.0 1,https://github.com/echawk/kiss-personal.git,langs/cabal-install,master,"Ethan"
 icon,git 1,https://github.com/echawk/kiss-personal.git,langs/icon,master,"Ethan"
