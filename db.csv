@@ -837,7 +837,7 @@ python-wheel,0.43.0 2,https://codeberg.org/kiss-community/repo.git,extra/python-
 cbindgen,0.26.0 1,https://codeberg.org/kiss-community/repo.git,extra/cbindgen,master,"Owen Rafferty"
 hwdata,0.384 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"
 cyrus-sasl,2.1.28 1,https://codeberg.org/kiss-community/repo.git,extra/cyrus-sasl,master,"git-bruh"
-firefox,128.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,128.0.2 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 lame,3.100 2,https://codeberg.org/kiss-community/repo.git,extra/lame,master,"Dylan Araps"
 python-installer,0.7.0 2,https://codeberg.org/kiss-community/repo.git,extra/python-installer,master,"Owen Rafferty"
 efibootmgr,18 1,https://codeberg.org/kiss-community/repo.git,extra/efibootmgr,master,"Owen Rafferty"
