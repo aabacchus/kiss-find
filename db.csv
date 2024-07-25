@@ -805,7 +805,7 @@ python-wheel,0.43.0 2,https://codeberg.org/kiss-community/repo.git,extra/python-
 nspr,4.35 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"
 pango,1.54.0 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 python-flit-core,3.9.0 2,https://codeberg.org/kiss-community/repo.git,extra/python-flit-core,master,"Owen Rafferty"
-nss,3.102 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
+nss,3.102.1 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
 e2fsprogs,1.47.1 1,https://codeberg.org/kiss-community/repo.git,extra/e2fsprogs,master,"Owen Rafferty"
 mold,2.32.1 1,https://codeberg.org/kiss-community/repo.git,extra/mold,master,"Owen Rafferty"
 alsa-lib,1.2.12 1,https://codeberg.org/kiss-community/repo.git,extra/alsa-lib,master,"Owen Rafferty"
