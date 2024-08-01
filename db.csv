@@ -3030,7 +3030,7 @@ hare-json,git 1,https://github.com/echawk/kiss-personal.git,utils/hare-json,mast
 openimageio,2.5.13.0 1,https://github.com/echawk/kiss-personal.git,utils/openimageio,master,"Ethan"
 shellspec,git 1,https://github.com/echawk/kiss-personal.git,utils/shellspec,master,"Ethan"
 tessdata,git 1,https://github.com/echawk/kiss-personal.git,utils/tessdata,master,"Ethan"
-bmake,20240602 1,https://github.com/echawk/kiss-personal.git,utils/bmake,master,"Ethan"
+bmake,20240711 1,https://github.com/echawk/kiss-personal.git,utils/bmake,master,"Ethan"
 synergy,git 1,https://github.com/echawk/kiss-personal.git,utils/synergy,master,"Ethan"
 smartmontools,7.4 1,https://github.com/echawk/kiss-personal.git,utils/smartmontools,master,"Ethan"
 valgrind,3.23.0 1,https://github.com/echawk/kiss-personal.git,utils/valgrind,master,"Ethan"
