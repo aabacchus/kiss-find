@@ -751,7 +751,7 @@ git,2.46.0 2,https://codeberg.org/kiss-community/repo.git,core/git,master,"Owen 
 pigz,2.8 1,https://codeberg.org/kiss-community/repo.git,core/pigz,master,"Owen Rafferty"
 grub,2.12 1,https://codeberg.org/kiss-community/repo.git,core/grub,master,"Owen Rafferty"
 mpfr,4.2.1 1,https://codeberg.org/kiss-community/repo.git,core/mpfr,master,"Owen Rafferty"
-binutils,2.42 1,https://codeberg.org/kiss-community/repo.git,core/binutils,master,"Owen Rafferty"
+binutils,2.43 1,https://codeberg.org/kiss-community/repo.git,core/binutils,master,"Owen Rafferty"
 b3sum,1.3.1 1,https://codeberg.org/kiss-community/repo.git,core/b3sum,master,"git-bruh"
 libmpc,1.3.1 1,https://codeberg.org/kiss-community/repo.git,core/libmpc,master,"Owen Rafferty"
 flex,2.6.4 4,https://codeberg.org/kiss-community/repo.git,core/flex,master,"Dylan Araps"
