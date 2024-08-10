@@ -2895,7 +2895,6 @@ iproute2,5.12.0 1,https://github.com/echawk/kiss-personal.git,utils/iproute2,mas
 musl-rpmatch,git 1,https://github.com/echawk/kiss-personal.git,utils/musl-rpmatch,master,"Ethan"
 hoogle,git 1,https://github.com/echawk/kiss-personal.git,utils/hoogle,master,"Ethan"
 irssi,1.4.5 1,https://github.com/echawk/kiss-personal.git,utils/irssi,master,"Ethan"
-iw,git 1,https://github.com/echawk/kiss-personal.git,utils/iw,master,"Ethan"
 shellspec,git 1,https://github.com/echawk/kiss-personal.git,utils/shellspec,master,"Ethan"
 musl-fts,git 1,https://github.com/echawk/kiss-personal.git,utils/musl-fts,master,"Ethan"
 lzip,1.24 1,https://github.com/echawk/kiss-personal.git,utils/lzip,master,"Ethan"
