@@ -2862,6 +2862,7 @@ chafa,1.14.0 1,https://github.com/echawk/kiss-personal.git,utils/chafa,master,"E
 htop,3.3.0 1,https://github.com/echawk/kiss-personal.git,utils/htop,master,"Ethan"
 upx,git 1,https://github.com/echawk/kiss-personal.git,utils/upx,master,"Ethan"
 csmith,git 1,https://github.com/echawk/kiss-personal.git,utils/csmith,master,"Ethan"
+modprobed-db,git 1,https://github.com/echawk/kiss-personal.git,utils/modprobed-db,master,"Ethan"
 aria2,1.37.0 1,https://github.com/echawk/kiss-personal.git,utils/aria2,master,"Ethan"
 mps,1.118.0 1,https://github.com/echawk/kiss-personal.git,utils/mps,master,"Ethan"
 asp,git 1,https://github.com/echawk/kiss-personal.git,utils/asp,master,"Ethan"
