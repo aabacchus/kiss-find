@@ -2989,7 +2989,7 @@ mawk,1.3.4-20240622 1,https://github.com/echawk/kiss-personal.git,langs/mawk,mas
 clisp,2.49.92 1,https://github.com/echawk/kiss-personal.git,langs/clisp,master,"Ethan"
 opam-bin,2.2.0 1,https://github.com/echawk/kiss-personal.git,langs/opam-bin,master,"Ethan"
 octave,9.2.0 1,https://github.com/echawk/kiss-personal.git,langs/octave,master,"Ethan"
-ghc,9.2.7 1,https://github.com/echawk/kiss-personal.git,langs/ghc,master,"Ethan"
+ghc,9.6.6 1,https://github.com/echawk/kiss-personal.git,langs/ghc,master,"Ethan"
 ocaml,5.2.0 1,https://github.com/echawk/kiss-personal.git,langs/ocaml,master,"Ethan"
 chuck,1.5.2.4 1,https://github.com/echawk/kiss-personal.git,langs/chuck,master,"Ethan"
 lfe,git 1,https://github.com/echawk/kiss-personal.git,langs/lfe,master,"Ethan"
