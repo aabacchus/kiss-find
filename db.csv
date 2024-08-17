@@ -3605,7 +3605,7 @@ eigen,3.4.0 1,https://github.com/echawk/kiss-xorg.git,community/eigen,master,"Et
 autorandr,1.15 1,https://github.com/echawk/kiss-xorg.git,community/autorandr,master,"Ethan"
 libexif,0.6.24 1,https://github.com/echawk/kiss-xorg.git,community/libexif,master,"Ethan"
 glew,2.2.0 1,https://github.com/echawk/kiss-xorg.git,community/glew,master,"Ethan"
-webkit2gtk,2.42.5 1,https://github.com/echawk/kiss-xorg.git,community/webkit2gtk,master,"Ethan"
+webkit2gtk,2.44.3 1,https://github.com/echawk/kiss-xorg.git,community/webkit2gtk,master,"Ethan"
 svkbd,0.4.1 1,https://github.com/echawk/kiss-xorg.git,community/svkbd,master,"Ethan"
 stalonetray-git,git 1,https://github.com/echawk/kiss-xorg.git,community/stalonetray-git,master,"Ethan"
 glu,9.0.3 1,https://github.com/echawk/kiss-xorg.git,community/glu,master,"Ethan"
