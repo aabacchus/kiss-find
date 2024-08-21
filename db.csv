@@ -829,7 +829,7 @@ libplacebo,7.349.0 1,https://codeberg.org/kiss-community/repo.git,extra/libplace
 pango,1.54.0 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 adwaita-icon-theme,46.2 1,https://codeberg.org/kiss-community/repo.git,extra/adwaita-icon-theme,master,"Owen Rafferty"
 sqlite,3.46.1 1,https://codeberg.org/kiss-community/repo.git,extra/sqlite,master,"Owen Rafferty"
-firefox,129.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,129.0.2 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 scdoc,1.11.3 1,https://codeberg.org/kiss-community/repo.git,extra/scdoc,master,"Owen Rafferty"
 efibootmgr,18 1,https://codeberg.org/kiss-community/repo.git,extra/efibootmgr,master,"Owen Rafferty"
 llvm,18.1.8 1,https://codeberg.org/kiss-community/repo.git,extra/llvm,master,"Owen Rafferty"
