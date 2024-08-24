@@ -857,7 +857,7 @@ nss,3.103 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen 
 ttf-croscore,1.31.0 2,https://codeberg.org/kiss-community/repo.git,extra/ttf-croscore,master,"Dylan Araps"
 kirc,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/kirc,master,"Owen Rafferty"
 openresolv,3.13.2 1,https://codeberg.org/kiss-community/repo.git,extra/openresolv,master,"Owen Rafferty"
-nodejs,22.6.0 1,https://codeberg.org/kiss-community/repo.git,extra/nodejs,master,"Owen Rafferty"
+nodejs,22.7.0 1,https://codeberg.org/kiss-community/repo.git,extra/nodejs,master,"Owen Rafferty"
 nasm,2.16.03 1,https://codeberg.org/kiss-community/repo.git,extra/nasm,master,"Owen Rafferty"
 libepoxy,1.5.10 1,https://codeberg.org/kiss-community/repo.git,extra/libepoxy,master,"Wolf Gupta"
 binutils,2.43.1 1,https://codeberg.org/kiss-community/repo.git,core/binutils,master,"Owen Rafferty"
