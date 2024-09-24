@@ -1545,7 +1545,7 @@ litterbox,1.9 1,https://github.com/aabacchus/kiss-repo.git,litterbox,main,"aabac
 abc2prt,1.0.2 1,https://github.com/aabacchus/kiss-repo.git,abc2prt,main,"aabacchus"
 libsignal-protocol-c,2.3.3 1,https://github.com/aabacchus/kiss-repo.git,libsignal-protocol-c,main,"aabacchus"
 acme-client,git 1,https://github.com/aabacchus/kiss-repo.git,acme-client,main,"aabacchus"
-pdpmake,2.0.0 1,https://github.com/aabacchus/kiss-repo.git,pdpmake,main,"phoebos"
+pdpmake,2.0.1 1,https://github.com/aabacchus/kiss-repo.git,pdpmake,main,"phoebos"
 jonaburg-picom,8 1,https://github.com/aabacchus/kiss-repo.git,jonaburg-picom,main,"aabacchus"
 motif,2.3.8 1,https://github.com/aabacchus/kiss-repo.git,motif,main,"aabacchus"
 netsurf-gtk3,git 1,https://github.com/aabacchus/kiss-repo.git,netsurf-gtk3,main,"aabacchus"
