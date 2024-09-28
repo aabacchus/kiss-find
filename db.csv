@@ -838,7 +838,7 @@ opus,1.5.2 1,https://codeberg.org/kiss-community/repo.git,extra/opus,master,"Owe
 util-linux,2.40.2 1,https://codeberg.org/kiss-community/repo.git,extra/util-linux,master,"Owen Rafferty"
 libva-utils,2.22.0 1,https://codeberg.org/kiss-community/repo.git,extra/libva-utils,master,"Owen Rafferty"
 wpa_supplicant,2.11 1,https://codeberg.org/kiss-community/repo.git,extra/wpa_supplicant,master,"Owen Rafferty"
-nss,3.104 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
+nss,3.105 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
 firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox-privacy,master,"Dylan Araps"
 libass,0.17.3 1,https://codeberg.org/kiss-community/repo.git,extra/libass,master,"Owen Rafferty"
 scdoc,1.11.3 1,https://codeberg.org/kiss-community/repo.git,extra/scdoc,master,"Owen Rafferty"
