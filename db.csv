@@ -835,7 +835,7 @@ freetype-harfbuzz,2.13.3+10.0.1 1,https://codeberg.org/kiss-community/repo.git,e
 llvm,19.1.2 1,https://codeberg.org/kiss-community/repo.git,extra/llvm,master,"Owen Rafferty"
 libretls,3.8.1 1,https://codeberg.org/kiss-community/repo.git,extra/libretls,master,"Owen Rafferty"
 util-linux,2.40.2 1,https://codeberg.org/kiss-community/repo.git,extra/util-linux,master,"Owen Rafferty"
-meson,1.5.2 1,https://codeberg.org/kiss-community/repo.git,extra/meson,master,"Owen Rafferty"
+meson,1.6.0 1,https://codeberg.org/kiss-community/repo.git,extra/meson,master,"Owen Rafferty"
 openssh,9.9p1 1,https://codeberg.org/kiss-community/repo.git,extra/openssh,master,"Owen Rafferty"
 fontconfig,2.15.0 1,https://codeberg.org/kiss-community/repo.git,extra/fontconfig,master,"Owen Rafferty"
 libvpx,1.14.1 1,https://codeberg.org/kiss-community/repo.git,extra/libvpx,master,"Owen Rafferty"
