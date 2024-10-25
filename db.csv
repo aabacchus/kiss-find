@@ -3123,7 +3123,7 @@ smlfmt,git 1,https://github.com/echawk/kiss-personal.git,utils/smlfmt,master,"Et
 python-docx2txt,git 1,https://github.com/echawk/kiss-personal.git,utils/python-docx2txt,master,"Ethan"
 tiramisu,git 1,https://github.com/echawk/kiss-personal.git,utils/tiramisu,master,"Ethan"
 musl-fts,git 1,https://github.com/echawk/kiss-personal.git,utils/musl-fts,master,"Ethan"
-lld,18.1.8 1,https://github.com/echawk/kiss-personal.git,utils/lld,master,"Ethan"
+lld,19.1.2 1,https://github.com/echawk/kiss-personal.git,utils/lld,master,"Ethan"
 mps,1.118.0 1,https://github.com/echawk/kiss-personal.git,utils/mps,master,"Ethan"
 plzip,1.11 1,https://github.com/echawk/kiss-personal.git,utils/plzip,master,"Ethan"
 dictd,1.13.0 1,https://github.com/echawk/kiss-personal.git,utils/dictd,master,"Ethan"
