@@ -6770,7 +6770,7 @@ giflib,5.2.1 1,https://github.com/kyx0r/repo-main.git,extra/giflib,master,"Dylan
 openssh,9.9p1 1,https://github.com/kyx0r/repo-main.git,extra/openssh,master,"Kyryl Melekhin"
 fontconfig,2.15.0 1,https://github.com/kyx0r/repo-main.git,extra/fontconfig,master,"Kyryl Melekhin"
 libvpx,1.15.0 1,https://github.com/kyx0r/repo-main.git,extra/libvpx,master,"Kyryl Melekhin"
-man-pages,6.01 1,https://github.com/kyx0r/repo-main.git,extra/man-pages,master,"Kyryl Melekhin"
+man-pages,6.9.1 1,https://github.com/kyx0r/repo-main.git,extra/man-pages,master,"Kyryl Melekhin"
 libelf,0.192 1,https://github.com/kyx0r/repo-main.git,extra/libelf,master,"Kyryl Melekhin"
 alsa-lib,1.2.13 1,https://github.com/kyx0r/repo-main.git,extra/alsa-lib,master,"Kyryl Melekhin"
 ccache,4.10.2 1,https://github.com/kyx0r/repo-main.git,extra/ccache,master,"Kyryl Melekhin"
