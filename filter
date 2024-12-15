@@ -3,20 +3,20 @@
 #  * repository is a redirect to another
 #  * not compatible with vanilla x64 KISS
 
-https://github.com/arvl130/kiss32-cdv-repo
-https://github.com/arvl130/kiss32-glibc-repo
-https://github.com/arvl130/kiss32-repo
-https://github.com/arvl130/kiss32-uclibc-repo
-https://github.com/CarbsLinux/repository
-https://github.com/eudaldgr/eudald-kiss
-https://github.com/eudaldgr/kiss-java
-https://github.com/eudaldgr/kiss-kernel
-https://github.com/eudaldgr/kiss-live
-https://github.com/jedavies-dev/kiss-aarch64
-https://github.com/jedavies-dev/kiss-armv7
-https://github.com/jedavies-dev/kiss-ppc64le
-https://github.com/jleightcap/kiss-ppc
-https://github.com/wyvertux/wyverkiss
-https://github.com/wyvertux/wyvertux
-https://github.com/xuxiaodong/kiss-raspi
-https://github.com/dylanaraps/community
+https://github.com/arvl130/kiss32-cdv-repo.git
+https://github.com/arvl130/kiss32-glibc-repo.git
+https://github.com/arvl130/kiss32-repo.git
+https://github.com/arvl130/kiss32-uclibc-repo.git
+https://github.com/CarbsLinux/repository.git
+https://github.com/eudaldgr/eudald-kiss.git
+https://github.com/eudaldgr/kiss-java.git
+https://github.com/eudaldgr/kiss-kernel.git
+https://github.com/eudaldgr/kiss-live.git
+https://github.com/jedavies-dev/kiss-aarch64.git
+https://github.com/jedavies-dev/kiss-armv7.git
+https://github.com/jedavies-dev/kiss-ppc64le.git
+https://github.com/jleightcap/kiss-ppc.git
+https://github.com/wyvertux/wyverkiss.git
+https://github.com/wyvertux/wyvertux.git
+https://github.com/xuxiaodong/kiss-raspi.git
+https://github.com/dylanaraps/community.git
