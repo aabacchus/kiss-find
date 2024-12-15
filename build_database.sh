@@ -49,7 +49,7 @@ process_repo() {
             VERSION="symlink"
             MAINTAINER="unknown"
         elif [ -f "$PACKAGE/version" ]; then
-            VERSION="$(read -r a b _ < "$PACKAGE/version"; printf "%s %s" "$a" "$b")"
+            VERSION="$(cut -d ' ' -f-2 "$PACKAGE/version")"
             MAINTAINER="$(git -C "$FOLDER" log --max-count 1 --format='%aN' -- "$PPATH/version" 2>/dev/null)"
         else
             VERSION="unknown"
