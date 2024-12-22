@@ -6050,6 +6050,7 @@ gst-plugins-good,1.24.10 1,https://github.com/kyx0r/repo-main.git,community/gst-
 libxslt,1.1.42 1,https://github.com/kyx0r/repo-main.git,community/libxslt,master,"Kyryl Melekhin"
 dmidecode,3.6 1,https://github.com/kyx0r/repo-main.git,community/dmidecode,master,"Kyryl Melekhin"
 gst-plugins-base,1.24.0 1,https://github.com/kyx0r/repo-main.git,community/gst-plugins-base,master,"Kyryl Melekhin"
+gst-plugins-bad,1.24.10 1,https://github.com/kyx0r/repo-main.git,community/gst-plugins-bad,master,"Kyryl Melekhin"
 xkill,1.0.6 1,https://github.com/kyx0r/repo-main.git,community/xkill,master,"Kyryl Melekhin"
 libyaml,0.2.5 1,https://github.com/kyx0r/repo-main.git,community/libyaml,master,"Kyryl Melekhin"
 libgpg-error,1.50 1,https://github.com/kyx0r/repo-main.git,community/libgpg-error,master,"Kyryl Melekhin"
