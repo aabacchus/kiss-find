@@ -6043,6 +6043,7 @@ feh,3.10.3 1,https://github.com/kyx0r/repo-main.git,community/feh,master,"Kyryl 
 cloc,2.00 1,https://github.com/kyx0r/repo-main.git,community/cloc,master,"Kyryl Melekhin"
 libpsl,0.21.5 1,https://github.com/kyx0r/repo-main.git,community/libpsl,master,"Kyryl Melekhin"
 chromium,105.0.5195.102 1,https://github.com/kyx0r/repo-main.git,community/chromium,master,"Kyryl Melekhin"
+gst-libav,1.24.0 1,https://github.com/kyx0r/repo-main.git,community/gst-libav,master,"Kyryl Melekhin"
 lynx,2.8.9rel.1 1,https://github.com/kyx0r/repo-main.git,community/lynx,master,"Kyryl Melekhin"
 btrfs-progs,6.11 1,https://github.com/kyx0r/repo-main.git,community/btrfs-progs,master,"Kyryl Melekhin"
 youtube-dl,2021.06.06 1,https://github.com/kyx0r/repo-main.git,community/youtube-dl,master,"Kyryl Melekhin"
