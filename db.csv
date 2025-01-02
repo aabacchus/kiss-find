@@ -2025,7 +2025,6 @@ mesa,24.3.2 1,https://github.com/echawk/kiss-personal.git,amd/mesa,master,"Ethan
 nvtop,git 1,https://github.com/echawk/kiss-personal.git,amd/nvtop,master,"Ethan"
 stow,2.4.1 1,https://github.com/echawk/kiss-personal.git,gnu/stow,master,"Ethan"
 guile3-gnutls,git 1,https://github.com/echawk/kiss-personal.git,gnu/guile3-gnutls,master,"Ethan"
-guile3,3.0.10 1,https://github.com/echawk/kiss-personal.git,gnu/guile3,master,"Ethan"
 guile3-lzlib,0.0.2 1,https://github.com/echawk/kiss-personal.git,gnu/guile3-lzlib,master,"Ethan"
 gsed,4.8 1,https://github.com/echawk/kiss-personal.git,gnu/gsed,master,"Ethan"
 gawk,5.3.1 1,https://github.com/echawk/kiss-personal.git,gnu/gawk,master,"Ethan"
