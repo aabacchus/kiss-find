@@ -162,6 +162,7 @@ zoxide,0.9.6 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/zoxide,main,"f1n
 yazi,0.4.2 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/yazi,main,"f1nniboy"
 ttf-fira-code-nerd,3.3.0 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/ttf-fira-code-nerd,main,"f1nniboy"
 musl-fts,1.2.7 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/musl-fts,main,"f1nniboy"
+linux,6.12.8 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/linux,main,"f1nniboy"
 glslang,15.1.0 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/glslang,main,"f1nniboy"
 gpu-screen-recorder,git 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/gpu-screen-recorder,main,"f1nniboy"
 libpulse,16.1 1,https://codeberg.org/git-bruh/kiss-repo.git,abandoned/libpulse,master,"git-bruh"
