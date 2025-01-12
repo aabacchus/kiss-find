@@ -2088,7 +2088,6 @@ source-highlight,3.1.9 2,https://github.com/echawk/kiss-personal.git,gnu/source-
 gmake,4.3 1,https://github.com/echawk/kiss-personal.git,gnu/gmake,master,"Ethan"
 gpatch,2.7.6 1,https://github.com/echawk/kiss-personal.git,gnu/gpatch,master,"Ethan"
 findutils,4.10.0 1,https://github.com/echawk/kiss-personal.git,gnu/findutils,master,"Ethan"
-shepherd,0.10.5 1,https://github.com/echawk/kiss-personal.git,gnu/shepherd,master,"Ethan"
 inetutils,2.5 1,https://github.com/echawk/kiss-personal.git,gnu/inetutils,master,"Ethan"
 guile3-fibers,git 1,https://github.com/echawk/kiss-personal.git,gnu/guile3-fibers,master,"Ethan"
 guile2,2.2.7 1,https://github.com/echawk/kiss-personal.git,gnu/guile2,master,"Ethan"
