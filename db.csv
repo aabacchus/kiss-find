@@ -176,6 +176,7 @@ vulkan-headers,1.4.304 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/vulkan
 cliphist,0.6.1 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/cliphist,main,"f1nniboy"
 zoxide,0.9.6 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/zoxide,main,"f1nniboy"
 imv,4.5.0 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/imv,main,"f1nniboy"
+rbw,1.13.2 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/rbw,main,"f1nniboy"
 yazi,0.4.2 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/yazi,main,"f1nniboy"
 ttf-fira-code-nerd,3.3.0 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/ttf-fira-code-nerd,main,"f1nniboy"
 linux,6.12.9 1,https://codeberg.org/f1nniboy/kiss-repo.git,repo/linux,main,"f1nniboy"
