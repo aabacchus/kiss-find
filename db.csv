@@ -133,6 +133,7 @@ sbcl,2.4.7 1,https://codeberg.org/aerphanas/mass.git,bin/lang/sbcl,main,"aerphan
 mpv,symlink,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/mpv,main,"unknown"
 inih,symlink,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/inih,main,"unknown"
 yash,git 1,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/yash,main,"f1nniboy"
+linux-headers,symlink,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/linux-headers,main,"unknown"
 util-linux,symlink,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/util-linux,main,"unknown"
 zathura-pdf-mupdf,symlink,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/zathura-pdf-mupdf,main,"unknown"
 libxkbcommon,symlink,https://codeberg.org/f1nniboy/kiss-repo.git,overrides/libxkbcommon,main,"unknown"
