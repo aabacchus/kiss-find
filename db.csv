@@ -944,7 +944,7 @@ python-glad,2.0.8 2,https://codeberg.org/kiss-community/repo.git,extra/python-gl
 strace,6.13 1,https://codeberg.org/kiss-community/repo.git,extra/strace,master,"Owen Rafferty"
 wpa_supplicant,2.11 1,https://codeberg.org/kiss-community/repo.git,extra/wpa_supplicant,master,"Owen Rafferty"
 efivar,39 1,https://codeberg.org/kiss-community/repo.git,extra/efivar,master,"Owen Rafferty"
-libpng,1.6.45 1,https://codeberg.org/kiss-community/repo.git,extra/libpng,master,"Owen Rafferty"
+libpng,1.6.46 1,https://codeberg.org/kiss-community/repo.git,extra/libpng,master,"Owen Rafferty"
 eiwd,2.22 1,https://codeberg.org/kiss-community/repo.git,extra/eiwd,master,"Owen Rafferty"
 spirv-tools,1.4.304.1 1,https://codeberg.org/kiss-community/repo.git,extra/spirv-tools,master,"Owen Rafferty"
 samurai,1.2 1,https://codeberg.org/kiss-community/repo.git,extra/samurai,master,"Dylan Araps"
