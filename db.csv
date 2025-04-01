@@ -916,7 +916,7 @@ python-gpep517,16 2,https://codeberg.org/kiss-community/repo.git,extra/python-gp
 cyrus-sasl,2.1.28 1,https://codeberg.org/kiss-community/repo.git,extra/cyrus-sasl,master,"git-bruh"
 expat,2.7.1 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"
 e2fsprogs,1.47.2 1,https://codeberg.org/kiss-community/repo.git,extra/e2fsprogs,master,"Owen Rafferty"
-firefox,136.0.4 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,137.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 intel-vaapi-driver,2.4.1 1,https://codeberg.org/kiss-community/repo.git,extra/intel-vaapi-driver,master,"Dylan Araps"
 ncurses,6.5 1,https://codeberg.org/kiss-community/repo.git,extra/ncurses,master,"Owen Rafferty"
 meson,1.7.0 1,https://codeberg.org/kiss-community/repo.git,extra/meson,master,"Owen Rafferty"
