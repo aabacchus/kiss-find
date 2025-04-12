@@ -940,7 +940,7 @@ mutt,2.2.14 1,https://codeberg.org/kiss-community/repo.git,extra/mutt,master,"Ow
 sqlite,3.49.1 1,https://codeberg.org/kiss-community/repo.git,extra/sqlite,master,"Owen Rafferty"
 eiwd,2.22 1,https://codeberg.org/kiss-community/repo.git,extra/eiwd,master,"Owen Rafferty"
 python,3.13.3 1,https://codeberg.org/kiss-community/repo.git,extra/python,master,"Owen Rafferty"
-mpv,0.39.0 1,https://codeberg.org/kiss-community/repo.git,extra/mpv,master,"Owen Rafferty"
+mpv,0.40.0 1,https://codeberg.org/kiss-community/repo.git,extra/mpv,master,"Owen Rafferty"
 adwaita-icon-theme,48.0 1,https://codeberg.org/kiss-community/repo.git,extra/adwaita-icon-theme,master,"Owen Rafferty"
 mold,2.37.1 1,https://codeberg.org/kiss-community/repo.git,extra/mold,master,"Owen Rafferty"
 clang,20.1.2 1,https://codeberg.org/kiss-community/repo.git,extra/clang,master,"Owen Rafferty"
