@@ -7712,7 +7712,7 @@ pipewire,0.3.66+0.4.13 3,https://github.com/rfaa-se/kisslinux.git,pipewire,main,
 linux-firmware,20230210 1,https://github.com/rfaa-se/kisslinux.git,linux-firmware,main,"rfaa"
 fzf,0.55.0 1,https://github.com/rfaa-se/kisslinux.git,fzf,main,"rfaa"
 linux-failsafe,6.6 1,https://github.com/rfaa-se/kisslinux.git,linux-failsafe,main,"rfaa"
-rust-analyzer,2025-03-31 1,https://github.com/rfaa-se/kisslinux.git,rust-analyzer,main,"rfaa"
+rust-analyzer,2025-04-21 1,https://github.com/rfaa-se/kisslinux.git,rust-analyzer,main,"rfaa"
 dotnet,6.0.100 1,https://github.com/rfaa-se/kisslinux.git,dotnet,main,"rfaa"
 linux,6.14 1,https://github.com/rfaa-se/kisslinux.git,linux,main,"rfaa"
 s6-scripts,1.0.0 1,https://github.com/rfaa-se/kisslinux.git,s6-scripts,main,"rfaa"
