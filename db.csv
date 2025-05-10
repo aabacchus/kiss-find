@@ -953,7 +953,7 @@ libva-utils,2.22.0 1,https://codeberg.org/kiss-community/repo.git,extra/libva-ut
 libffi,3.4.8 1,https://codeberg.org/kiss-community/repo.git,extra/libffi,master,"Owen Rafferty"
 spirv-headers,1.4.313.0 1,https://codeberg.org/kiss-community/repo.git,extra/spirv-headers,master,"Owen Rafferty"
 mdevd,0.1.7.0 1,https://codeberg.org/kiss-community/repo.git,extra/mdevd,master,"Owen Rafferty"
-python-setuptools,80.3.1 1,https://codeberg.org/kiss-community/repo.git,extra/python-setuptools,master,"Owen Rafferty"
+python-setuptools,80.4.0 1,https://codeberg.org/kiss-community/repo.git,extra/python-setuptools,master,"Owen Rafferty"
 x265,4.0 1,https://codeberg.org/kiss-community/repo.git,extra/x265,master,"Owen Rafferty"
 firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox-privacy,master,"Dylan Araps"
 spirv-tools,1.4.313.0 1,https://codeberg.org/kiss-community/repo.git,extra/spirv-tools,master,"Owen Rafferty"
