@@ -919,7 +919,7 @@ python-setuptools,80.8.0 1,https://codeberg.org/kiss-community/repo.git,extra/py
 util-linux,2.41 1,https://codeberg.org/kiss-community/repo.git,extra/util-linux,master,"Owen Rafferty"
 mpv,0.40.0 2,https://codeberg.org/kiss-community/repo.git,extra/mpv,master,"Owen Rafferty"
 libva-utils,2.22.0 1,https://codeberg.org/kiss-community/repo.git,extra/libva-utils,master,"Owen Rafferty"
-meson,1.8.0 1,https://codeberg.org/kiss-community/repo.git,extra/meson,master,"Owen Rafferty"
+meson,1.8.1 1,https://codeberg.org/kiss-community/repo.git,extra/meson,master,"Owen Rafferty"
 e2fsprogs,1.47.2 1,https://codeberg.org/kiss-community/repo.git,extra/e2fsprogs,master,"Owen Rafferty"
 libclc,20.1.5 1,https://codeberg.org/kiss-community/repo.git,extra/libclc,master,"Owen Rafferty"
 spirv-tools,1.4.313.0 1,https://codeberg.org/kiss-community/repo.git,extra/spirv-tools,master,"Owen Rafferty"
