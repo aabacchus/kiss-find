@@ -841,7 +841,7 @@ wlsunset,0.4.0 1,https://codeberg.org/kiss-community/grepo.git,wayland/wlsunset,
 gnugrep,3.12 1,https://codeberg.org/kiss-community/repo.git,extra/gnugrep,master,"Owen Rafferty"
 mutt,2.2.14 1,https://codeberg.org/kiss-community/repo.git,extra/mutt,master,"Owen Rafferty"
 libva,2.22.0 1,https://codeberg.org/kiss-community/repo.git,extra/libva,master,"Owen Rafferty"
-firefox,139.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,139.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 cbindgen,0.29.0 1,https://codeberg.org/kiss-community/repo.git,extra/cbindgen,master,"Owen Rafferty"
 libnl-tiny,39ec78bb012edc2739c3d3d0058e4076411068b1 1,https://codeberg.org/kiss-community/repo.git,extra/libnl-tiny,master,"Owen Rafferty"
 mold,2.40.0 1,https://codeberg.org/kiss-community/repo.git,extra/mold,master,"Owen Rafferty"
