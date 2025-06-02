@@ -892,7 +892,7 @@ libogg,1.3.5 1,https://codeberg.org/kiss-community/repo.git,extra/libogg,master,
 efivar,39 1,https://codeberg.org/kiss-community/repo.git,extra/efivar,master,"Owen Rafferty"
 libvorbis,1.3.7 1,https://codeberg.org/kiss-community/repo.git,extra/libvorbis,master,"Dylan Araps"
 eiwd,3.8 1,https://codeberg.org/kiss-community/repo.git,extra/eiwd,master,"Owen Rafferty"
-dhcpcd,10.2.3 1,https://codeberg.org/kiss-community/repo.git,extra/dhcpcd,master,"Owen Rafferty"
+dhcpcd,10.2.4 1,https://codeberg.org/kiss-community/repo.git,extra/dhcpcd,master,"Owen Rafferty"
 pango,1.56.3 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 python-yaml,6.0.2 2,https://codeberg.org/kiss-community/repo.git,extra/python-yaml,master,"Owen Rafferty"
 kirc,0.3.3 1,https://codeberg.org/kiss-community/repo.git,extra/kirc,master,"Owen Rafferty"
