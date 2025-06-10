@@ -6117,7 +6117,7 @@ libsoup3,3.4.4 2,https://github.com/kyx0r/repo-main.git,community/libsoup3,maste
 zip,3.0 2,https://github.com/kyx0r/repo-main.git,community/zip,master,"Kyryl Melekhin"
 lzo,2.10 1,https://github.com/kyx0r/repo-main.git,community/lzo,master,"Kyryl Melekhin"
 glew,2.2.0 1,https://github.com/kyx0r/repo-main.git,community/glew,master,"Kyryl Melekhin"
-webkit2gtk,2.48.2 1,https://github.com/kyx0r/repo-main.git,community/webkit2gtk,master,"Kyryl Melekhin"
+webkit2gtk,2.49.1 1,https://github.com/kyx0r/repo-main.git,community/webkit2gtk,master,"Kyryl Melekhin"
 unzip,6.0 2,https://github.com/kyx0r/repo-main.git,community/unzip,master,"Kyryl Melekhin"
 libevent,2.1.12 1,https://github.com/kyx0r/repo-main.git,community/libevent,master,"Kyryl Melekhin"
 libyaml,0.2.5 1,https://github.com/kyx0r/repo-main.git,community/libyaml,master,"Kyryl Melekhin"
