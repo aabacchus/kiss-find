@@ -899,7 +899,7 @@ cyrus-sasl,2.1.28 1,https://codeberg.org/kiss-community/repo.git,extra/cyrus-sas
 bkeymaps,1.13 1,https://codeberg.org/kiss-community/repo.git,extra/bkeymaps,master,"Dylan Araps"
 pcre2,10.45 1,https://codeberg.org/kiss-community/repo.git,extra/pcre2,master,"Owen Rafferty"
 llvm,20.1.7 1,https://codeberg.org/kiss-community/repo.git,extra/llvm,master,"Owen Rafferty"
-rust,1.87.0 1,https://codeberg.org/kiss-community/repo.git,extra/rust,master,"Owen Rafferty"
+rust,1.88.0 1,https://codeberg.org/kiss-community/repo.git,extra/rust,master,"Owen Rafferty"
 python-flit-core,3.12.0 1,https://codeberg.org/kiss-community/repo.git,extra/python-flit-core,master,"Owen Rafferty"
 nspr,4.36 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"
 intel-vaapi-driver,2.4.1 1,https://codeberg.org/kiss-community/repo.git,extra/intel-vaapi-driver,master,"Dylan Araps"
