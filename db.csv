@@ -961,7 +961,7 @@ libdisplay-info,0.2.0 1,https://codeberg.org/kiss-community/repo.git,extra/libdi
 pango,1.56.4 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 man-pages,6.14 1,https://codeberg.org/kiss-community/repo.git,extra/man-pages,master,"Owen Rafferty"
 firefox-privacy,1.0 5,https://codeberg.org/kiss-community/repo.git,extra/firefox-privacy,master,"Dylan Araps"
-firefox,140.0.2 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,140.0.4 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 ncurses,6.5 1,https://codeberg.org/kiss-community/repo.git,extra/ncurses,master,"Owen Rafferty"
 expat,2.7.1 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"
 python-mako,1.3.5 1,https://codeberg.org/kiss-community/repo.git,extra/python-mako,master,"git-bruh"
