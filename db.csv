@@ -896,7 +896,7 @@ python-glad,2.0.8 2,https://codeberg.org/kiss-community/repo.git,extra/python-gl
 scdoc,1.11.3 1,https://codeberg.org/kiss-community/repo.git,extra/scdoc,master,"Owen Rafferty"
 zstd,1.5.7 1,https://codeberg.org/kiss-community/repo.git,extra/zstd,master,"Owen Rafferty"
 openssh,10.0p1 1,https://codeberg.org/kiss-community/repo.git,extra/openssh,master,"Owen Rafferty"
-nodejs,24.4.0 1,https://codeberg.org/kiss-community/repo.git,extra/nodejs,master,"Owen Rafferty"
+nodejs,24.4.1 1,https://codeberg.org/kiss-community/repo.git,extra/nodejs,master,"Owen Rafferty"
 adwaita-icon-theme,48.1 1,https://codeberg.org/kiss-community/repo.git,extra/adwaita-icon-theme,master,"Owen Rafferty"
 gdk-pixbuf,2.43.3 1,https://codeberg.org/kiss-community/repo.git,extra/gdk-pixbuf,master,"Owen Rafferty"
 mesa,25.1.5 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"
