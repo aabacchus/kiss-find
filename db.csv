@@ -6203,7 +6203,7 @@ libXext,1.3.6 1,https://github.com/kyx0r/repo-main.git,xorg/libXext,master,"Kyry
 xcb-util-cursor,0.1.5 1,https://github.com/kyx0r/repo-main.git,xorg/xcb-util-cursor,master,"Kyryl Melekhin"
 libXau,1.0.12 1,https://github.com/kyx0r/repo-main.git,xorg/libXau,master,"Kyryl Melekhin"
 xtrans,1.6.0 1,https://github.com/kyx0r/repo-main.git,xorg/xtrans,master,"Kyryl Melekhin"
-xlibre-server,25.0.0.5 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-server,master,"Kyryl Melekhin"
+xlibre-server,25.0.0.6 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-server,master,"Kyryl Melekhin"
 libXmu,1.2.1 1,https://github.com/kyx0r/repo-main.git,xorg/libXmu,master,"Kyryl Melekhin"
 xcb-util-wm,0.4.2 1,https://github.com/kyx0r/repo-main.git,xorg/xcb-util-wm,master,"Kyryl Melekhin"
 xauth,1.1.4 1,https://github.com/kyx0r/repo-main.git,xorg/xauth,master,"Kyryl Melekhin"
