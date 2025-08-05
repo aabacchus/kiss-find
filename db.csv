@@ -942,7 +942,7 @@ python-jinja2,3.1.6 1,https://codeberg.org/kiss-community/repo.git,extra/python-
 util-linux,2.41.1 1,https://codeberg.org/kiss-community/repo.git,extra/util-linux,master,"Owen Rafferty"
 libnl-tiny,39ec78bb012edc2739c3d3d0058e4076411068b1 1,https://codeberg.org/kiss-community/repo.git,extra/libnl-tiny,master,"Owen Rafferty"
 libudev-zero,1.0.3 1,https://codeberg.org/kiss-community/repo.git,extra/libudev-zero,master,"Owen Rafferty"
-hwdata,0.397 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"
+hwdata,0.398 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"
 libvpx,1.15.2 1,https://codeberg.org/kiss-community/repo.git,extra/libvpx,master,"Owen Rafferty"
 libpng,1.6.50 1,https://codeberg.org/kiss-community/repo.git,extra/libpng,master,"Owen Rafferty"
 make,4.4.1 1,https://codeberg.org/kiss-community/repo.git,core/make,master,"Owen Rafferty"
