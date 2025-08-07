@@ -888,7 +888,7 @@ gnugrep,3.12 1,https://codeberg.org/kiss-community/repo.git,extra/gnugrep,master
 bkeymaps,1.13 1,https://codeberg.org/kiss-community/repo.git,extra/bkeymaps,master,"Dylan Araps"
 libplacebo,7.351.0 1,https://codeberg.org/kiss-community/repo.git,extra/libplacebo,master,"Owen Rafferty"
 mpv,0.40.0 2,https://codeberg.org/kiss-community/repo.git,extra/mpv,master,"Owen Rafferty"
-firefox,141.0.2 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,141.0.3 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 samurai,1.2 1,https://codeberg.org/kiss-community/repo.git,extra/samurai,master,"Dylan Araps"
 lame,3.100 2,https://codeberg.org/kiss-community/repo.git,extra/lame,master,"Dylan Araps"
 python-setuptools,80.9.0 1,https://codeberg.org/kiss-community/repo.git,extra/python-setuptools,master,"Owen Rafferty"
