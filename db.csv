@@ -6008,7 +6008,7 @@ xinit,1.4.4 1,https://github.com/kyx0r/repo-main.git,xorg/xinit,master,"Kyryl Me
 xf86-video-amdgpu,23.0.0 1,https://github.com/kyx0r/repo-main.git,xorg/xf86-video-amdgpu,master,"Kyryl Melekhin"
 libXfont,1.5.4 1,https://github.com/kyx0r/repo-main.git,xorg/libXfont,master,"Kyryl Melekhin"
 xcb-util,0.4.1 1,https://github.com/kyx0r/repo-main.git,xorg/xcb-util,master,"Kyryl Melekhin"
-xlibre-server,25.0.0.7 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-server,master,"Kyryl Melekhin"
+xlibre-server,25.0.0.8 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-server,master,"Kyryl Melekhin"
 xrdb,1.2.2 1,https://github.com/kyx0r/repo-main.git,xorg/xrdb,master,"Kyryl Melekhin"
 xcb-util-renderutil,0.3.10 1,https://github.com/kyx0r/repo-main.git,xorg/xcb-util-renderutil,master,"Kyryl Melekhin"
 xf86-video-ati,git 1,https://github.com/kyx0r/repo-main.git,xorg/xf86-video-ati,master,"Kyryl Melekhin"
