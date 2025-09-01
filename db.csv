@@ -6136,6 +6136,7 @@ xclip,0.13 1,https://github.com/kyx0r/repo-main.git,community/xclip,master,"Kyry
 webkit2gtk,2.49.4 1,https://github.com/kyx0r/repo-main.git,community/webkit2gtk,master,"Kyryl Melekhin"
 qemu,9.2.2 1,https://github.com/kyx0r/repo-main.git,community/qemu,master,"Kyryl Melekhin"
 wget,1.21.3 1,https://github.com/kyx0r/repo-main.git,community/wget,master,"Kyryl Melekhin"
+radare2,6.0.2 1,https://github.com/kyx0r/repo-main.git,community/radare2,master,"Kyryl Melekhin"
 libevent,2.1.12 1,https://github.com/kyx0r/repo-main.git,community/libevent,master,"Kyryl Melekhin"
 pfetch,0.6.0 1,https://github.com/kyx0r/repo-main.git,community/pfetch,master,"Kyryl Melekhin"
 ntfs-3g,2022.10.3 1,https://github.com/kyx0r/repo-main.git,community/ntfs-3g,master,"Kyryl Melekhin"
