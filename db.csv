@@ -886,7 +886,7 @@ libudev-zero,1.0.3 1,https://codeberg.org/kiss-community/repo.git,extra/libudev-
 fontconfig,2.17.1 1,https://codeberg.org/kiss-community/repo.git,extra/fontconfig,master,"Owen Rafferty"
 alsa-utils,1.2.14 1,https://codeberg.org/kiss-community/repo.git,extra/alsa-utils,master,"Owen Rafferty"
 python-yaml,6.0.2 2,https://codeberg.org/kiss-community/repo.git,extra/python-yaml,master,"Owen Rafferty"
-expat,2.7.2 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"
+expat,2.7.3 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"
 sqlite,3.50.4 1,https://codeberg.org/kiss-community/repo.git,extra/sqlite,master,"Owen Rafferty"
 pango,1.57.0 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 libogg,1.3.6 1,https://codeberg.org/kiss-community/repo.git,extra/libogg,master,"Owen Rafferty"
