@@ -996,7 +996,7 @@ fcft,3.3.2 1,https://codeberg.org/kiss-community/repo.git,wayland/fcft,master,"O
 libxkbcommon,1.11.0 1,https://codeberg.org/kiss-community/repo.git,wayland/libxkbcommon,master,"Owen Rafferty"
 mtdev,1.1.7 1,https://codeberg.org/kiss-community/repo.git,wayland/mtdev,master,"Owen Rafferty"
 wayclip,0.4.2 1,https://codeberg.org/kiss-community/repo.git,wayland/wayclip,master,"Owen Rafferty"
-xkeyboard-config,2.44 1,https://codeberg.org/kiss-community/repo.git,wayland/xkeyboard-config,master,"Owen Rafferty"
+xkeyboard-config,2.46 1,https://codeberg.org/kiss-community/repo.git,wayland/xkeyboard-config,master,"Owen Rafferty"
 libseat,0.9.1 1,https://codeberg.org/kiss-community/repo.git,wayland/libseat,master,"Owen Rafferty"
 foot,1.24.0 1,https://codeberg.org/kiss-community/repo.git,wayland/foot,master,"Owen Rafferty"
 wbg,1.3.0 1,https://codeberg.org/kiss-community/repo.git,wayland/wbg,master,"Owen Rafferty"
