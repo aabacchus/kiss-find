@@ -6441,7 +6441,7 @@ libICE,1.1.2 1,https://github.com/kyx0r/repo-main.git,xorg/libICE,master,"Kyryl 
 xprop,1.2.8 1,https://github.com/kyx0r/repo-main.git,xorg/xprop,master,"Kyryl Melekhin"
 libXrandr,1.5.4 1,https://github.com/kyx0r/repo-main.git,xorg/libXrandr,master,"Kyryl Melekhin"
 libXinerama,1.1.5 1,https://github.com/kyx0r/repo-main.git,xorg/libXinerama,master,"Kyryl Melekhin"
-xlibre-xf86-input-libinput,1.5.0.1 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-xf86-input-libinput,master,"Kyryl Melekhin"
+xlibre-xf86-input-libinput,1.5.1.0 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-xf86-input-libinput,master,"Kyryl Melekhin"
 libXft,2.3.9 1,https://github.com/kyx0r/repo-main.git,xorg/libXft,master,"Kyryl Melekhin"
 xf86-video-amdgpu,23.0.0 1,https://github.com/kyx0r/repo-main.git,xorg/xf86-video-amdgpu,master,"Kyryl Melekhin"
 libX11,1.8.12 1,https://github.com/kyx0r/repo-main.git,xorg/libX11,master,"Kyryl Melekhin"
