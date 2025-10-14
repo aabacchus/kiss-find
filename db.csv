@@ -6291,6 +6291,7 @@ xclip,0.13 1,https://github.com/kyx0r/repo-main.git,community/xclip,master,"Kyry
 libgpg-error,1.51 1,https://github.com/kyx0r/repo-main.git,community/libgpg-error,master,"Kyryl Melekhin"
 imlib2,1.12.5 1,https://github.com/kyx0r/repo-main.git,community/imlib2,master,"Kyryl Melekhin"
 perl,5.40.1 1,https://github.com/kyx0r/repo-main.git,community/perl,master,"Kyryl Melekhin"
+nvtop,git 1,https://github.com/kyx0r/repo-main.git,community/nvtop,master,"Kyryl Melekhin"
 freeglut,3.6.0 1,https://github.com/kyx0r/repo-main.git,community/freeglut,master,"Kyryl Melekhin"
 libxslt,1.1.43 1,https://github.com/kyx0r/repo-main.git,community/libxslt,master,"Kyryl Melekhin"
 nettle,3.9.1 1,https://github.com/kyx0r/repo-main.git,community/nettle,master,"Kyryl Melekhin"
