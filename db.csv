@@ -8002,7 +8002,7 @@ pipewire,0.3.66+0.4.13 3,https://github.com/rfaa-se/kisslinux.git,pipewire,main,
 mpv,0.38.0 1,https://github.com/rfaa-se/kisslinux.git,mpv,main,"rfaa"
 wgsl-analyzer,2025-10-01 1,https://github.com/rfaa-se/kisslinux.git,wgsl-analyzer,main,"rfaa"
 inxi,3.3.25-1 1,https://github.com/rfaa-se/kisslinux.git,inxi,main,"rfaa"
-glfw,3.3.8 1,https://github.com/rfaa-se/kisslinux.git,glfw,main,"rfaa"
+glfw,3.4 1,https://github.com/rfaa-se/kisslinux.git,glfw,main,"rfaa"
 linux,6.17 1,https://github.com/rfaa-se/kisslinux.git,linux,main,"rfaa"
 rust-analyzer,2025-08-25 1,https://github.com/rfaa-se/kisslinux.git,rust-analyzer,main,"rfaa"
 linux-failsafe,6.6 1,https://github.com/rfaa-se/kisslinux.git,linux-failsafe,main,"rfaa"
