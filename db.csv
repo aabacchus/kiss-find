@@ -1010,7 +1010,7 @@ grim,1.5.0 1,https://codeberg.org/kiss-community/repo.git,wayland/grim,master,"O
 tllist,1.1.0 1,https://codeberg.org/kiss-community/repo.git,wayland/tllist,master,"Owen Rafferty"
 libevdev,1.13.5 1,https://codeberg.org/kiss-community/repo.git,wayland/libevdev,master,"Owen Rafferty"
 foot-pgo,symlink,https://codeberg.org/kiss-community/repo.git,wayland/foot-pgo,master,"unknown"
-libdrm,2.4.127 1,https://codeberg.org/kiss-community/repo.git,wayland/libdrm,master,"Owen Rafferty"
+libdrm,2.4.128 1,https://codeberg.org/kiss-community/repo.git,wayland/libdrm,master,"Owen Rafferty"
 slurp,1.5.0 1,https://codeberg.org/kiss-community/repo.git,wayland/slurp,master,"Owen Rafferty"
 wayland,1.24.0 1,https://codeberg.org/kiss-community/repo.git,wayland/wayland,master,"Owen Rafferty"
 compose-tables,1.8.12 1,https://codeberg.org/kiss-community/repo.git,wayland/compose-tables,master,"Owen Rafferty"
