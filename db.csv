@@ -950,7 +950,7 @@ intel-gmmlib,22.8.2 1,https://codeberg.org/kiss-community/repo.git,extra/intel-g
 libtheora,1.2.0 1,https://codeberg.org/kiss-community/repo.git,extra/libtheora,master,"Owen Rafferty"
 cmake,4.1.2 1,https://codeberg.org/kiss-community/repo.git,extra/cmake,master,"Owen Rafferty"
 x265,4.0 1,https://codeberg.org/kiss-community/repo.git,extra/x265,master,"Owen Rafferty"
-python-docutils,0.22.2 2,https://codeberg.org/kiss-community/repo.git,extra/python-docutils,master,"Owen Rafferty"
+python-docutils,0.22.3 1,https://codeberg.org/kiss-community/repo.git,extra/python-docutils,master,"Owen Rafferty"
 libass,0.17.4 1,https://codeberg.org/kiss-community/repo.git,extra/libass,master,"Owen Rafferty"
 pcre2,10.47 1,https://codeberg.org/kiss-community/repo.git,extra/pcre2,master,"Owen Rafferty"
 mdevd,0.1.7.0 1,https://codeberg.org/kiss-community/repo.git,extra/mdevd,master,"Owen Rafferty"
