@@ -6312,7 +6312,7 @@ lynx,2.9.2 1,https://github.com/kyx0r/repo-main.git,community/lynx,master,"Kyryl
 gdb,16.3 1,https://github.com/kyx0r/repo-main.git,community/gdb,master,"Kyryl Melekhin"
 libtool,2.5.4 1,https://github.com/kyx0r/repo-main.git,community/libtool,master,"Kyryl Melekhin"
 spirv-tools,git 1,https://github.com/kyx0r/repo-main.git,community/spirv-tools,master,"Kyryl Melekhin"
-ntfs-3g,2022.10.3 1,https://github.com/kyx0r/repo-main.git,community/ntfs-3g,master,"Kyryl Melekhin"
+ntfs-3g,git 1,https://github.com/kyx0r/repo-main.git,community/ntfs-3g,master,"Kyryl Melekhin"
 patchelf,0.18.0 1,https://github.com/kyx0r/repo-main.git,community/patchelf,master,"Kyryl Melekhin"
 patch,2.8 1,https://github.com/kyx0r/repo-main.git,community/patch,master,"Kyryl Melekhin"
 wget,1.21.3 1,https://github.com/kyx0r/repo-main.git,community/wget,master,"Kyryl Melekhin"
