@@ -6332,7 +6332,7 @@ hitch,git 1,https://github.com/kyx0r/repo-main.git,community/hitch,master,"Kyryl
 ruby,3.4.5 1,https://github.com/kyx0r/repo-main.git,community/ruby,master,"Kyryl Melekhin"
 sdl2_image,2.6.2 1,https://github.com/kyx0r/repo-main.git,community/sdl2_image,master,"Kyryl Melekhin"
 unrar,7.1.2 1,https://github.com/kyx0r/repo-main.git,community/unrar,master,"Kyryl Melekhin"
-qemu,9.2.2 1,https://github.com/kyx0r/repo-main.git,community/qemu,master,"Kyryl Melekhin"
+qemu,10.1.2 1,https://github.com/kyx0r/repo-main.git,community/qemu,master,"Kyryl Melekhin"
 flite,2.2 1,https://github.com/kyx0r/repo-main.git,community/flite,master,"Kyryl Melekhin"
 virglrenderer,1.1.0 1,https://github.com/kyx0r/repo-main.git,community/virglrenderer,master,"Kyryl Melekhin"
 socat,1.8.0.2 1,https://github.com/kyx0r/repo-main.git,community/socat,master,"Kyryl Melekhin"
