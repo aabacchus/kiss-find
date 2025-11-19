@@ -6387,6 +6387,7 @@ libnghttp2,1.63.0 1,https://github.com/kyx0r/repo-main.git,community/libnghttp2,
 cloc,2.00 1,https://github.com/kyx0r/repo-main.git,community/cloc,master,"Kyryl Melekhin"
 unifont,16.0.03 1,https://github.com/kyx0r/repo-main.git,community/unifont,master,"Kyryl Melekhin"
 dmidecode,3.6 1,https://github.com/kyx0r/repo-main.git,community/dmidecode,master,"Kyryl Melekhin"
+tome4,1.7.6 1,https://github.com/kyx0r/repo-main.git,games/tome4,master,"Kyryl Melekhin"
 glib,2.87.0 1,https://github.com/kyx0r/repo-main.git,extra/glib,master,"Kyryl Melekhin"
 strace,6.17 1,https://github.com/kyx0r/repo-main.git,extra/strace,master,"Kyryl Melekhin"
 util-linux,2.41.2 1,https://github.com/kyx0r/repo-main.git,extra/util-linux,master,"Kyryl Melekhin"
