@@ -2745,7 +2745,7 @@ cyclone-scheme,git 1,https://github.com/echawk/kiss-personal.git,langs/cyclone-s
 stack,git 1,https://github.com/echawk/kiss-personal.git,langs/stack,master,"Ethan"
 python2,2.7.18 1,https://github.com/echawk/kiss-personal.git,langs/python2,master,"Ethan"
 logtalk,3.95.0 1,https://github.com/echawk/kiss-personal.git,langs/logtalk,master,"Ethan"
-pypy3,7.3.15 1,https://github.com/echawk/kiss-personal.git,langs/pypy3,master,"Ethan"
+pypy3,7.3.20 1,https://github.com/echawk/kiss-personal.git,langs/pypy3,master,"Ethan"
 vala,0.56.18 1,https://github.com/echawk/kiss-personal.git,langs/vala,master,"Ethan"
 gfortran,13.2.0 1,https://github.com/echawk/kiss-personal.git,langs/gfortran,master,"Ethan"
 shards,0.19.1 1,https://github.com/echawk/kiss-personal.git,langs/shards,master,"Ethan"
