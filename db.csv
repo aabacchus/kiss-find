@@ -1008,7 +1008,7 @@ libpciaccess,0.18.1 1,https://codeberg.org/kiss-community/repo.git,wayland/libpc
 pixman,0.46.4 1,https://codeberg.org/kiss-community/repo.git,wayland/pixman,master,"Owen Rafferty"
 grim,1.5.0 1,https://codeberg.org/kiss-community/repo.git,wayland/grim,master,"Owen Rafferty"
 tllist,1.1.0 1,https://codeberg.org/kiss-community/repo.git,wayland/tllist,master,"Owen Rafferty"
-libevdev,1.13.5 1,https://codeberg.org/kiss-community/repo.git,wayland/libevdev,master,"Owen Rafferty"
+libevdev,1.13.6 1,https://codeberg.org/kiss-community/repo.git,wayland/libevdev,master,"Owen Rafferty"
 foot-pgo,symlink,https://codeberg.org/kiss-community/repo.git,wayland/foot-pgo,master,"unknown"
 libdrm,2.4.129 1,https://codeberg.org/kiss-community/repo.git,wayland/libdrm,master,"Owen Rafferty"
 slurp,1.5.0 1,https://codeberg.org/kiss-community/repo.git,wayland/slurp,master,"Owen Rafferty"
