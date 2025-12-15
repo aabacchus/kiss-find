@@ -886,7 +886,7 @@ spirv-tools,1.4.335.0 1,https://codeberg.org/kiss-community/repo.git,extra/spirv
 hwdata,0.402 1,https://codeberg.org/kiss-community/repo.git,extra/hwdata,master,"Owen Rafferty"
 dosfstools,4.2 1,https://codeberg.org/kiss-community/repo.git,extra/dosfstools,master,"Dylan Araps"
 openssh,10.2p1 1,https://codeberg.org/kiss-community/repo.git,extra/openssh,master,"Owen Rafferty"
-openresolv,3.17.2 1,https://codeberg.org/kiss-community/repo.git,extra/openresolv,master,"Owen Rafferty"
+openresolv,3.17.3 1,https://codeberg.org/kiss-community/repo.git,extra/openresolv,master,"Owen Rafferty"
 firefox,146.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 ssu,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/ssu,master,"Dylan Araps"
 nspr,4.38.2 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"
