@@ -957,7 +957,7 @@ kirc,1.2.2 1,https://codeberg.org/kiss-community/repo.git,extra/kirc,master,"Owe
 libva-utils,2.23.0 1,https://codeberg.org/kiss-community/repo.git,extra/libva-utils,master,"Owen Rafferty"
 cairo,1.18.4 1,https://codeberg.org/kiss-community/repo.git,extra/cairo,master,"Owen Rafferty"
 llvm,21.1.8 1,https://codeberg.org/kiss-community/repo.git,extra/llvm,master,"Owen Rafferty"
-mesa,25.3.3 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"
+mesa,25.3.4 1,https://codeberg.org/kiss-community/repo.git,extra/mesa,master,"Owen Rafferty"
 hicolor-icon-theme,0.18 1,https://codeberg.org/kiss-community/repo.git,extra/hicolor-icon-theme,master,"Owen Rafferty"
 python-glad,2.0.8 3,https://codeberg.org/kiss-community/repo.git,extra/python-glad,master,"Owen Rafferty"
 python-markupsafe,3.0.3 2,https://codeberg.org/kiss-community/repo.git,extra/python-markupsafe,master,"Owen Rafferty"
