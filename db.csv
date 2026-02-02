@@ -3179,7 +3179,7 @@ xwallpaper,0.7.4 2,https://github.com/echawk/kiss-xorg.git,community/xwallpaper,
 babl,0.1.108 1,https://github.com/echawk/kiss-xorg.git,community/babl,master,"Ethan"
 qt6,6.6.1 1,https://github.com/echawk/kiss-xorg.git,community/qt6,master,"Ethan"
 dragon-git,git 1,https://github.com/echawk/kiss-xorg.git,community/dragon-git,master,"Ethan"
-fltk,1.4.0 1,https://github.com/echawk/kiss-xorg.git,community/fltk,master,"Ethan"
+fltk,1.4.4 1,https://github.com/echawk/kiss-xorg.git,community/fltk,master,"Ethan"
 opencsg,1.6.0 1,https://github.com/echawk/kiss-xorg.git,community/opencsg,master,"Ethan"
 x11up,1.0.0 1,https://github.com/echawk/kiss-xorg.git,community/x11up,master,"Ethan"
 fribidi,1.0.16 1,https://github.com/echawk/kiss-xorg.git,community/fribidi,master,"Ethan"
