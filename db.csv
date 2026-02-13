@@ -3391,7 +3391,7 @@ xwayland,24.1.9 1,https://github.com/echawk/kiss-xorg.git,xwayland/xwayland,mast
 wlroots,0.19.2 1,https://github.com/echawk/kiss-xorg.git,xwayland/wlroots,master,"Ethan"
 mesa,symlink,https://github.com/echawk/kiss-xorg.git,xwayland/mesa,master,"unknown"
 pixman,0.46.4 1,https://github.com/echawk/kiss-xorg.git,extra/pixman,master,"Ethan"
-mpv,0.40.0 2,https://github.com/echawk/kiss-xorg.git,extra/mpv,master,"Ethan"
+mpv,0.41.0 1,https://github.com/echawk/kiss-xorg.git,extra/mpv,master,"Vasyl Lukashchuk"
 libevdev,1.13.6 1,https://github.com/echawk/kiss-xorg.git,extra/libevdev,master,"Ethan"
 libxkbcommon,1.13.1 1,https://github.com/echawk/kiss-xorg.git,extra/libxkbcommon,master,"Ethan"
 ffmpeg,8.0.1 1,https://github.com/echawk/kiss-xorg.git,extra/ffmpeg,master,"Ethan"
