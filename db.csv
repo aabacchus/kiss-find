@@ -917,7 +917,7 @@ firefox,147.0.4 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,mas
 ssu,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/ssu,master,"Dylan Araps"
 nspr,4.38.2 1,https://codeberg.org/kiss-community/repo.git,extra/nspr,master,"Owen Rafferty"
 libvorbis,1.3.7 1,https://codeberg.org/kiss-community/repo.git,extra/libvorbis,master,"Dylan Araps"
-nss,3.120.1 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
+nss,3.121 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
 opus,1.6.1 1,https://codeberg.org/kiss-community/repo.git,extra/opus,master,"Owen Rafferty"
 x264,4613ac3c15fd75cebc4b9f65b7fb95e70a3acce1 1,https://codeberg.org/kiss-community/repo.git,extra/x264,master,"Owen Rafferty"
 libpng,1.6.55 1,https://codeberg.org/kiss-community/repo.git,extra/libpng,master,"Owen Rafferty"
