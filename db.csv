@@ -912,7 +912,7 @@ libvorbis,1.3.7 1,https://codeberg.org/kiss-community/repo.git,extra/libvorbis,m
 gdk-pixbuf,2.44.5 1,https://codeberg.org/kiss-community/repo.git,extra/gdk-pixbuf,master,"Owen Rafferty"
 libwebp,1.6.0 1,https://codeberg.org/kiss-community/repo.git,extra/libwebp,master,"Owen Rafferty"
 libdisplay-info,0.3.0 1,https://codeberg.org/kiss-community/repo.git,extra/libdisplay-info,master,"Owen Rafferty"
-tzdata,2025c 1,https://codeberg.org/kiss-community/repo.git,extra/tzdata,master,"Owen Rafferty"
+tzdata,2026a 1,https://codeberg.org/kiss-community/repo.git,extra/tzdata,master,"Owen Rafferty"
 ssu,0.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/ssu,master,"Dylan Araps"
 pango,1.57.0 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 clang,21.1.8 1,https://codeberg.org/kiss-community/repo.git,extra/clang,master,"Owen Rafferty"
