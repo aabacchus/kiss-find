@@ -6310,7 +6310,7 @@ vulkan-headers,1.4.317 1,https://github.com/kyx0r/repo-main.git,community/vulkan
 lynx,2.9.2 1,https://github.com/kyx0r/repo-main.git,community/lynx,master,"Kyryl Melekhin"
 mingw-w64-binutils,2.44 1,https://github.com/kyx0r/repo-main.git,community/mingw-w64-binutils,master,"Kyryl Melekhin"
 squashfs-tools,4.6.1 1,https://github.com/kyx0r/repo-main.git,community/squashfs-tools,master,"Kyryl Melekhin"
-nextvi,4.0 1,https://github.com/kyx0r/repo-main.git,community/nextvi,master,"Kyryl Melekhin"
+nextvi,4.1 1,https://github.com/kyx0r/repo-main.git,community/nextvi,master,"Kyryl Melekhin"
 glib-networking,2.80.0 1,https://github.com/kyx0r/repo-main.git,community/glib-networking,master,"Kyryl Melekhin"
 sdl3,3.2.26 1,https://github.com/kyx0r/repo-main.git,community/sdl3,master,"Kyryl Melekhin"
 lzo,2.10 1,https://github.com/kyx0r/repo-main.git,community/lzo,master,"Kyryl Melekhin"
