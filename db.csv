@@ -6210,7 +6210,7 @@ libXmeta,unknown,https://github.com/kyx0r/repo-main.git,xorg/libXmeta,master,"un
 xorg-util-macros,1.20.0 1,https://github.com/kyx0r/repo-main.git,xorg/xorg-util-macros,master,"Kyryl Melekhin"
 libXfont2,2.0.7 1,https://github.com/kyx0r/repo-main.git,xorg/libXfont2,master,"Kyryl Melekhin"
 xcb-util-image,0.4.1 1,https://github.com/kyx0r/repo-main.git,xorg/xcb-util-image,master,"Kyryl Melekhin"
-xlibre-server,25.0.0.14 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-server,master,"Kyryl Melekhin"
+xlibre-server,25.1.5 1,https://github.com/kyx0r/repo-main.git,xorg/xlibre-server,master,"Kyryl Melekhin"
 xcb-proto,1.17.0 1,https://github.com/kyx0r/repo-main.git,xorg/xcb-proto,master,"Kyryl Melekhin"
 libXcursor,1.2.3 1,https://github.com/kyx0r/repo-main.git,xorg/libXcursor,master,"Kyryl Melekhin"
 xtrans,1.6.0 1,https://github.com/kyx0r/repo-main.git,xorg/xtrans,master,"Kyryl Melekhin"
