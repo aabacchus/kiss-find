@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="color-scheme" content="light dark" />
+  <title>kiss find: search across all kiss repositories</title>
+  <style>
+    body {
+      margin: 0 auto;
+      max-width: 90ch;
+      padding: 12px;
+    }
+    code {
+      hyphens: none;
+    }
+    pre {
+      overflow: auto;
+      border: 1px solid;
+      padding: 0.5rem 0.5rem;
+      background-color: light-dark(#ffe, #000);
+    }
+  </style>
+</head>
+<body>
+<header>
+<h1>kiss-find</h1>
+<a href="https://github.com/aabacchus/kiss-find">Source on GitHub</a>
+</header>
+<main>
+<p>A tool for indexing and searching <a href="https://kisscommunity.org/">kiss</a> packages from repositories
+across the internet.</p>
+<p>Example usage:</p>
+<pre><code>$ kiss find amf
+amfora     1.7.2 2  https://github.com/jedahan/kiss-repo      amfora            a fancy terminal browser for the gemini protocol
+amfora     1.8.0 1  https://github.com/aabacchus/kiss-repo    amfora            a fancy terminal browser for the gemini protocol
+bamf       0.5.4 1  https://github.com/eudaldgr/elementaKISS  extra/bamf
+tinyramfs  git 1    https://github.com/mmatongo/dm            kernel/tinyramfs</code></pre>
+<p>Updating the database using the script:</p>
+<pre><code>$ kiss find -u</code></pre>
+<h2>Building</h2>
+<p>You don’t have to build the database yourself; it is generated and
+uploaded to <a href="https://aabacchus.github.io/kiss-find/db.csv">https://aabacchus.github.io/kiss-find/db.csv</a>
+by a GitHub Action. The standalone script is packaged in the <a
+href="https://codeberg.org/kiss-community/community">community
+repository</a> and uses that database. You can build it yourself if you
+want to, though.</p>
+<p>To build the database, run</p>
+<pre><code>make</code></pre>
+<p>This uses git to clone the repositories, and optionally discovers
+GitHub repos using the <code>gh</code> tool with <code>jq</code>.</p>
+<p>To install just the script, run</p>
+<pre><code>make install-cli</code></pre>
+<p>optionally choosing a particular <code>PREFIX</code> or
+<code>DESTDIR</code>. You can then download the generated database by
+running</p>
+<pre><code>kiss-find -u</code></pre>
+<h2>Adding a repository</h2>
+<p>If your repository is on GitHub or Codeberg, just add the
+<code>kiss-repo</code> topic and it should be automatically picked
+up.</p>
+<p>If your repository is anywhere else, open a pull request or issue for
+it to be added to the <code>include</code> file.</p>
+<h2>Removing a repository</h2>
+<p>If you would not like your repository indexed, it should be added to
+the <code>filter</code> file.</p>
+</main>
+<hr/>
+<footer>
+<h2>Credits</h2>
+<p>Created by <a href="https://ecmelberk.com">@admicos</a>,
+rewritten by <a href="https://github.com/jedahan">@jedahan</a>,
+simplified by <a href="https://bvnf.space">@aabacchus</a>.</p>
+</footer>
+</body>
+</html>

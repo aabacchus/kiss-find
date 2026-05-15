@@ -27,7 +27,7 @@ jobs:
         run: |
           make clean all
           mkdir publish
-          cp build/db.csv publish/
+          cp build/db.csv index.html publish/
 
       - name: Publish database
         uses: JamesIves/github-pages-deploy-action@v4
