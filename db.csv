@@ -5855,6 +5855,7 @@ lzo,2.10 1,https://github.com/kyx0r/repo-main.git,community/lzo,master,"Kyryl Me
 libnghttp2,1.69.0 1,https://github.com/kyx0r/repo-main.git,community/libnghttp2,master,"Kyryl Melekhin"
 libevent,2.1.12 1,https://github.com/kyx0r/repo-main.git,community/libevent,master,"Kyryl Melekhin"
 unifont,17.0.04 1,https://github.com/kyx0r/repo-main.git,community/unifont,master,"Kyryl Melekhin"
+less,691 1,https://github.com/kyx0r/repo-main.git,community/less,master,"Kyryl Melekhin"
 gnutls,3.8.13 1,https://github.com/kyx0r/repo-main.git,community/gnutls,master,"Kyryl Melekhin"
 vulkan-headers,1.4.352 1,https://github.com/kyx0r/repo-main.git,community/vulkan-headers,master,"Kyryl Melekhin"
 fortune,0.0.1 2,https://github.com/kyx0r/repo-main.git,community/fortune,master,"Kyryl Melekhin"
