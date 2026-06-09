@@ -887,7 +887,7 @@ gcc,15.2.0 1,https://codeberg.org/kiss-community/repo.git,core/gcc,master,"Owen 
 linux-headers,6.18.14 1,https://codeberg.org/kiss-community/repo.git,core/linux-headers,master,"Owen Rafferty"
 bzip2,1.0.8 1,https://codeberg.org/kiss-community/repo.git,core/bzip2,master,"Dylan Araps"
 busybox,1.37.0 2,https://codeberg.org/kiss-community/repo.git,core/busybox,master,"Owen Rafferty"
-certs,2026-03-19 1,https://codeberg.org/kiss-community/repo.git,core/certs,master,"Owen Rafferty"
+certs,2026-05-14 1,https://codeberg.org/kiss-community/repo.git,core/certs,master,"Owen Rafferty"
 flex,2.6.4 4,https://codeberg.org/kiss-community/repo.git,core/flex,master,"Dylan Araps"
 bison,3.8.2 1,https://codeberg.org/kiss-community/repo.git,core/bison,master,"Dylan Araps"
 make,4.4.1 1,https://codeberg.org/kiss-community/repo.git,core/make,master,"Owen Rafferty"
