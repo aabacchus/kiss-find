@@ -924,7 +924,7 @@ cyrus-sasl,2.1.28 1,https://codeberg.org/kiss-community/repo.git,extra/cyrus-sas
 kirc,1.2.2 1,https://codeberg.org/kiss-community/repo.git,extra/kirc,master,"Owen Rafferty"
 eiwd,3.12 1,https://codeberg.org/kiss-community/repo.git,extra/eiwd,master,"Owen Rafferty"
 python-installer,1.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/python-installer,master,"Owen Rafferty"
-firefox,152.0 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,152.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 alsa-utils,1.2.16 1,https://codeberg.org/kiss-community/repo.git,extra/alsa-utils,master,"Owen Rafferty"
 linux-headers,5.14.9 1,https://codeberg.org/kobeni/kiss-repo.git,linux-headers,main,"kobeni"
 busybox,1.34.0 4,https://codeberg.org/kobeni/kiss-repo.git,busybox,main,"kobeni"
