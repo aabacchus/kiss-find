@@ -853,7 +853,7 @@ python-docutils,0.23 1,https://codeberg.org/kiss-community/repo.git,extra/python
 pcre2,10.47 1,https://codeberg.org/kiss-community/repo.git,extra/pcre2,master,"Owen Rafferty"
 pkgconf,2.5.1 1,https://codeberg.org/kiss-community/repo.git,extra/pkgconf,master,"Owen Rafferty"
 fontconfig,2.17.1 1,https://codeberg.org/kiss-community/repo.git,extra/fontconfig,master,"Owen Rafferty"
-expat,2.8.1 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"
+expat,2.8.2 1,https://codeberg.org/kiss-community/repo.git,extra/expat,master,"Owen Rafferty"
 nasm,3.01 1,https://codeberg.org/kiss-community/repo.git,extra/nasm,master,"Owen Rafferty"
 samurai,1.3 1,https://codeberg.org/kiss-community/repo.git,extra/samurai,master,"Owen Rafferty"
 gdk-pixbuf,2.44.6 1,https://codeberg.org/kiss-community/repo.git,extra/gdk-pixbuf,master,"Owen Rafferty"
