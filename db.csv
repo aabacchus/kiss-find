@@ -2513,7 +2513,7 @@ gauche,0.9.15 1,https://github.com/echawk/kiss-personal.git,langs/gauche,master,
 mlkit,4.7.21 1,https://github.com/echawk/kiss-personal.git,langs/mlkit,master,"github-actions[bot]"
 myrddin,git 1,https://github.com/echawk/kiss-personal.git,langs/myrddin,master,"Ethan"
 opam,2.5.1 1,https://github.com/echawk/kiss-personal.git,langs/opam,master,"github-actions[bot]"
-libgccjit,15.1.0 1,https://github.com/echawk/kiss-personal.git,langs/libgccjit,master,"Ethan"
+libgccjit,16.1.0 1,https://github.com/echawk/kiss-personal.git,langs/libgccjit,master,"Ethan"
 ocaml,5.4.1 1,https://github.com/echawk/kiss-personal.git,langs/ocaml,master,"Ethan"
 fpm,0.10.0 1,https://github.com/echawk/kiss-personal.git,langs/fpm,master,"Ethan"
 retroforth,git 1,https://github.com/echawk/kiss-personal.git,langs/retroforth,master,"Ethan"
