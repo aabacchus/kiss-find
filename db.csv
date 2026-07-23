@@ -2615,7 +2615,7 @@ vulkan-tools,symlink,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-t
 volk,git 1,https://github.com/echawk/kiss-personal.git,vulkan/volk,master,"Ethan"
 vulkan-validation-layers,1.4.330 1,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-validation-layers,master,"Ethan"
 vulkan-loader,symlink,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-loader,master,"unknown"
-glslang,16.3.0 1,https://github.com/echawk/kiss-personal.git,vulkan/glslang,master,"github-actions[bot]"
+glslang,16.4.0 1,https://github.com/echawk/kiss-personal.git,vulkan/glslang,master,"github-actions[bot]"
 clinfo,git 1,https://github.com/echawk/kiss-personal.git,amd/clinfo,master,"Ethan"
 ocl-icd,2.3.4 1,https://github.com/echawk/kiss-personal.git,amd/ocl-icd,master,"github-actions[bot]"
 opencl-headers,2022.05.18 1,https://github.com/echawk/kiss-personal.git,amd/opencl-headers,master,"Ethan"
