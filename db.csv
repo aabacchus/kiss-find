@@ -860,7 +860,7 @@ python-setuptools,83.0.0 1,https://codeberg.org/kiss-community/repo.git,extra/py
 mold,2.41.0 1,https://codeberg.org/kiss-community/repo.git,extra/mold,master,"Owen Rafferty"
 efivar,39 1,https://codeberg.org/kiss-community/repo.git,extra/efivar,master,"Owen Rafferty"
 json-c,0.19 1,https://codeberg.org/kiss-community/repo.git,extra/json-c,master,"Owen Rafferty"
-python-gpep517,19 2,https://codeberg.org/kiss-community/repo.git,extra/python-gpep517,master,"Owen Rafferty"
+python-gpep517,20 1,https://codeberg.org/kiss-community/repo.git,extra/python-gpep517,master,"Owen Rafferty"
 nodejs,26.5.0 2,https://codeberg.org/kiss-community/repo.git,extra/nodejs,master,"Owen Rafferty"
 libjpeg-turbo,3.2.0 1,https://codeberg.org/kiss-community/repo.git,extra/libjpeg-turbo,master,"Owen Rafferty"
 libnl-tiny,39ec78bb012edc2739c3d3d0058e4076411068b1 1,https://codeberg.org/kiss-community/repo.git,extra/libnl-tiny,master,"Owen Rafferty"
