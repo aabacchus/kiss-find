@@ -329,7 +329,7 @@ libsndfile,1.2.2 1,https://codeberg.org/kiss-community/community.git,community/l
 emacs,30.2 1,https://codeberg.org/kiss-community/community.git,community/emacs,main,"Ethan"
 neovim,0.11.6 1,https://codeberg.org/kiss-community/community.git,community/neovim,main,"phoebos"
 libassuan,3.0.2 1,https://codeberg.org/kiss-community/community.git,community/libassuan,main,"phoebos"
-ldns,1.9.0 1,https://codeberg.org/kiss-community/community.git,community/ldns,main,"chra"
+ldns,1.9.2 1,https://codeberg.org/kiss-community/community.git,community/ldns,main,"chra"
 libucontext,1.5.1 1,https://codeberg.org/kiss-community/community.git,community/libucontext,main,"git-bruh"
 mtpaint,git 1,https://codeberg.org/kiss-community/community.git,community/mtpaint,main,"Cédric"
 jbig2dec,0.19 1,https://codeberg.org/kiss-community/community.git,community/jbig2dec,main,"Nihal"
