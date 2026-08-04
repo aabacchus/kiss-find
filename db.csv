@@ -912,7 +912,7 @@ libwebp,1.6.0 1,https://codeberg.org/kiss-community/repo.git,extra/libwebp,maste
 pango,1.58.0 1,https://codeberg.org/kiss-community/repo.git,extra/pango,master,"Owen Rafferty"
 hicolor-icon-theme,0.18 1,https://codeberg.org/kiss-community/repo.git,extra/hicolor-icon-theme,master,"Owen Rafferty"
 libdisplay-info,0.4.0 1,https://codeberg.org/kiss-community/repo.git,extra/libdisplay-info,master,"Owen Rafferty"
-firefox,153.0.1 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
+firefox,153.0.3 1,https://codeberg.org/kiss-community/repo.git,extra/firefox,master,"Owen Rafferty"
 libva-utils,2.24.0 1,https://codeberg.org/kiss-community/repo.git,extra/libva-utils,master,"Owen Rafferty"
 libass,0.17.5 1,https://codeberg.org/kiss-community/repo.git,extra/libass,master,"Owen Rafferty"
 rust,1.97.1 1,https://codeberg.org/kiss-community/repo.git,extra/rust,master,"Owen Rafferty"
