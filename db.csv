@@ -2877,7 +2877,7 @@ mahogany,git 1,https://github.com/echawk/kiss-personal.git,wayland/mahogany,mast
 bemenu,0.6.23 1,https://github.com/echawk/kiss-personal.git,wayland/bemenu,master,"github-actions[bot]"
 wayup,1.0.0 1,https://github.com/echawk/kiss-personal.git,wayland/wayup,master,"Ethan"
 vulkan-tools,symlink,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-tools,master,"unknown"
-glslang,16.4.0 1,https://github.com/echawk/kiss-personal.git,vulkan/glslang,master,"github-actions[bot]"
+glslang,16.5.0 1,https://github.com/echawk/kiss-personal.git,vulkan/glslang,master,"github-actions[bot]"
 vulkan-validation-layers,1.4.330 1,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-validation-layers,master,"Ethan"
 vulkan-loader,symlink,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-loader,master,"unknown"
 vulkan-headers,symlink,https://github.com/echawk/kiss-personal.git,vulkan/vulkan-headers,master,"unknown"
