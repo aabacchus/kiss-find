@@ -5949,6 +5949,7 @@ sdl2_image,2.8.12 1,https://github.com/kyx0r/repo-main.git,community/sdl2_image,
 libexif,0.6.26 1,https://github.com/kyx0r/repo-main.git,community/libexif,master,"Kyryl Melekhin"
 btrfs-progs,7.0 1,https://github.com/kyx0r/repo-main.git,community/btrfs-progs,master,"Kyryl Melekhin"
 libgcrypt,1.12.2 1,https://github.com/kyx0r/repo-main.git,community/libgcrypt,master,"Kyryl Melekhin"
+oksh,7.9 1,https://github.com/kyx0r/repo-main.git,community/oksh,master,"Kyryl Melekhin"
 vulkan-headers,1.4.353 1,https://github.com/kyx0r/repo-main.git,community/vulkan-headers,master,"Kyryl Melekhin"
 gdb,17.2 1,https://github.com/kyx0r/repo-main.git,community/gdb,master,"Kyryl Melekhin"
 fortune,0.0.1 2,https://github.com/kyx0r/repo-main.git,community/fortune,master,"Kyryl Melekhin"
