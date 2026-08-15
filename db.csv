@@ -112,7 +112,6 @@ vulkan-loader,1.4.350.1 1,https://codeberg.org/LUSU/repo.git,repo/vulkan-loader,
 openvpn,2.7.5 1,https://codeberg.org/LUSU/repo.git,repo/openvpn,main,"stilic"
 adwaita-icon-theme-legacy,46.2 1,https://codeberg.org/LUSU/repo.git,repo/adwaita-icon-theme-legacy,main,"stilic"
 pkcs11-helper,1.31 1,https://codeberg.org/LUSU/repo.git,repo/pkcs11-helper,main,"stilic"
-tlp,1.10.2 1,https://codeberg.org/LUSU/repo.git,repo/tlp,main,"stilic"
 cython,3.2.8 1,https://codeberg.org/LUSU/repo.git,repo/cython,main,"stilic"
 tarazed,git 1,https://codeberg.org/LUSU/repo.git,repo/tarazed,main,"stilic"
 game-devices-udev,1.0 1,https://codeberg.org/LUSU/repo.git,repo/game-devices-udev,main,"stilic"
