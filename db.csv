@@ -364,7 +364,7 @@ mold,2.42.0 2,https://codeberg.org/hanoi_ankara/KISS.git,mold,main,"Diego Zavale
 wlroots,0.20.2 2,https://codeberg.org/hanoi_ankara/KISS.git,wlroots,main,"Diego Zavaleta"
 noto-fonts,2026.08.01 1,https://codeberg.org/hanoi_ankara/KISS.git,noto-fonts,main,"Diego Zavaleta"
 intel-gmmlib,22.10.1 2,https://codeberg.org/hanoi_ankara/KISS.git,intel-gmmlib,main,"Diego Zavaleta"
-intel-media-driver,26.2.4 2,https://codeberg.org/hanoi_ankara/KISS.git,intel-media-driver,main,"Diego Zavaleta"
+intel-media-driver,26.3.2 3,https://codeberg.org/hanoi_ankara/KISS.git,intel-media-driver,main,"Diego Zavaleta"
 glslang,16.5.0 1,https://codeberg.org/hanoi_ankara/KISS.git,glslang,main,"Diego Zavaleta"
 vulkan-loader,1.4.359 1,https://codeberg.org/hanoi_ankara/KISS.git,vulkan-loader,main,"Diego Zavaleta"
 pixman,0.46.4 1,https://codeberg.org/hanoi_ankara/KISS.git,pixman,main,"Diego Zavaleta"
