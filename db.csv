@@ -78,6 +78,7 @@ libappindicator,12.10.1 1,https://codeberg.org/LUSU/repo.git,repo/libappindicato
 gobject-introspection,1.86.0 1,https://codeberg.org/LUSU/repo.git,repo/gobject-introspection,main,"stilic"
 wlroots,0.20.2 2,https://codeberg.org/LUSU/repo.git,repo/wlroots,main,"stilic"
 libsndfile,1.2.2 1,https://codeberg.org/LUSU/repo.git,repo/libsndfile,main,"stilic"
+pudu,0.1.7 1,https://codeberg.org/LUSU/repo.git,repo/pudu,main,"stilic"
 pam,1.7.2 1,https://codeberg.org/LUSU/repo.git,repo/pam,main,"stilic"
 noto-fonts,2026.08.01 1,https://codeberg.org/LUSU/repo.git,repo/noto-fonts,main,"stilic"
 itstool,2.0.7 1,https://codeberg.org/LUSU/repo.git,repo/itstool,main,"stilic"
