@@ -157,6 +157,7 @@ python-pluggy,1.6.0 1,https://codeberg.org/LUSU/repo.git,repo/python-pluggy,main
 docbook-xsl,1.79.2 1,https://codeberg.org/LUSU/repo.git,repo/docbook-xsl,main,"stilic"
 river,0.4.7 1,https://codeberg.org/LUSU/repo.git,repo/river,main,"stilic"
 python-gobject,3.56.3 1,https://codeberg.org/LUSU/repo.git,repo/python-gobject,main,"stilic"
+glib,2.89.2 1,https://codeberg.org/LUSU/repo.git,repo/glib,main,"stilic"
 xdg-desktop-portal-gtk,1.15.3 1,https://codeberg.org/LUSU/repo.git,repo/xdg-desktop-portal-gtk,main,"stilic"
 xfsprogs,7.1.1 1,https://codeberg.org/LUSU/repo.git,repo/xfsprogs,main,"stilic"
 gcr4,4.4.0.1 1,https://codeberg.org/LUSU/repo.git,repo/gcr4,main,"stilic"
