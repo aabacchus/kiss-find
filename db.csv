@@ -139,6 +139,7 @@ adwaita-icon-theme,50.0 1,https://codeberg.org/LUSU/repo.git,repo/adwaita-icon-t
 xmlto,0.0.29 1,https://codeberg.org/LUSU/repo.git,repo/xmlto,main,"stilic"
 vulkan-tools,1.4.360 1,https://codeberg.org/LUSU/repo.git,repo/vulkan-tools,main,"stilic"
 crun,1.29.1 1,https://codeberg.org/LUSU/repo.git,repo/crun,main,"stilic"
+unzip,6.0 2,https://codeberg.org/LUSU/repo.git,repo/unzip,main,"stilic"
 passt,2026_07_28.f8df3f1 1,https://codeberg.org/LUSU/repo.git,repo/passt,main,"stilic"
 gtk+3-layer-shell,0.10.1 1,https://codeberg.org/LUSU/repo.git,repo/gtk+3-layer-shell,main,"stilic"
 noto-emoji,2.051 1,https://codeberg.org/LUSU/repo.git,repo/noto-emoji,main,"stilic"
