@@ -6135,7 +6135,7 @@ freeglut,3.8.0 1,https://github.com/kyx0r/repo-main.git,community/freeglut,maste
 mingw-w64-crt,14.0.0 1,https://github.com/kyx0r/repo-main.git,community/mingw-w64-crt,master,"Kyryl Melekhin"
 tree,2.3.2 1,https://github.com/kyx0r/repo-main.git,community/tree,master,"Kyryl Melekhin"
 sdl2-compat,2.32.68 1,https://github.com/kyx0r/repo-main.git,community/sdl2-compat,master,"Kyryl Melekhin"
-nextvi,7.3 1,https://github.com/kyx0r/repo-main.git,community/nextvi,master,"Kyryl Melekhin"
+nextvi,7.4 1,https://github.com/kyx0r/repo-main.git,community/nextvi,master,"Kyryl Melekhin"
 libev,4.33 1,https://github.com/kyx0r/repo-main.git,community/libev,master,"Kyryl Melekhin"
 gzip,1.14 1,https://github.com/kyx0r/repo-main.git,community/gzip,master,"Kyryl Melekhin"
 atk,2.38.0 1,https://github.com/kyx0r/repo-main.git,community/atk,master,"Kyryl Melekhin"
