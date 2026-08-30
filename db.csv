@@ -1039,7 +1039,7 @@ man-pages,6.18 1,https://codeberg.org/kiss-community/repo.git,extra/man-pages,ma
 bkeymaps,1.13 1,https://codeberg.org/kiss-community/repo.git,extra/bkeymaps,master,"Dylan Araps"
 cyrus-sasl,2.1.28 2,https://codeberg.org/kiss-community/repo.git,extra/cyrus-sasl,master,"Owen Rafferty"
 python-setuptools,84.0.0 1,https://codeberg.org/kiss-community/repo.git,extra/python-setuptools,master,"Owen Rafferty"
-nss,3.127 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
+nss,3.128 1,https://codeberg.org/kiss-community/repo.git,extra/nss,master,"Owen Rafferty"
 intel-gmmlib,22.10.1 1,https://codeberg.org/kiss-community/repo.git,extra/intel-gmmlib,master,"Owen Rafferty"
 libudev-zero,1.0.5 1,https://codeberg.org/kiss-community/repo.git,extra/libudev-zero,master,"Owen Rafferty"
 intel-media-driver,26.3.2 1,https://codeberg.org/kiss-community/repo.git,extra/intel-media-driver,master,"Owen Rafferty"
