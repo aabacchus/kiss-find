@@ -171,7 +171,7 @@ cmake-extras,1.10 1,https://codeberg.org/LUSU/repo.git,repo/cmake-extras,main,"s
 grub,2.14 1,https://codeberg.org/LUSU/repo.git,repo/grub,main,"stilic"
 python-pluggy,1.6.0 1,https://codeberg.org/LUSU/repo.git,repo/python-pluggy,main,"stilic"
 docbook-xsl,1.79.2 1,https://codeberg.org/LUSU/repo.git,repo/docbook-xsl,main,"stilic"
-river,0.4.8 1,https://codeberg.org/LUSU/repo.git,repo/river,main,"stilic"
+river,git 1,https://codeberg.org/LUSU/repo.git,repo/river,main,"stilic"
 python-gobject,3.56.3 1,https://codeberg.org/LUSU/repo.git,repo/python-gobject,main,"stilic"
 glib,2.88.3 1,https://codeberg.org/LUSU/repo.git,repo/glib,main,"stilic"
 xdg-desktop-portal-gtk,1.15.3 1,https://codeberg.org/LUSU/repo.git,repo/xdg-desktop-portal-gtk,main,"stilic"
