@@ -7651,7 +7651,7 @@ glfw,3.5.1 1,https://github.com/oatbiscuit/pkg.git,extra/glfw,main,"Daniel Taylo
 vulkan-volk,1.4.350 1,https://github.com/oatbiscuit/pkg.git,extra/vulkan-volk,main,"Daniel Taylor"
 vulkan-loader,1.4.350 1,https://github.com/oatbiscuit/pkg.git,extra/vulkan-loader,main,"Daniel Taylor"
 dht,0.27 1,https://github.com/oatbiscuit/pkg.git,extra/dht,main,"Daniel Taylor"
-libdeflate,1.25 1,https://github.com/oatbiscuit/pkg.git,extra/libdeflate,main,"Daniel Taylor"
+libdeflate,1.26 1,https://github.com/oatbiscuit/pkg.git,extra/libdeflate,main,"Daniel Taylor"
 libnatpmp,20230423 1,https://github.com/oatbiscuit/pkg.git,extra/libnatpmp,main,"Daniel Taylor"
 miniupnpc,2.3.3 1,https://github.com/oatbiscuit/pkg.git,extra/miniupnpc,main,"Daniel Taylor"
 vulkan-headers,1.4.350 1,https://github.com/oatbiscuit/pkg.git,extra/vulkan-headers,main,"Daniel Taylor"
