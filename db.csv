@@ -7733,6 +7733,7 @@ vulkan-utility-libraries,1.4.350 1,https://github.com/oatbiscuit/pkg.git,extra/v
 vulkan-validationlayers,1.4.350 1,https://github.com/oatbiscuit/pkg.git,extra/vulkan-validationlayers,main,"Daniel Taylor"
 libb64,2.0.0.1 1,https://github.com/oatbiscuit/pkg.git,extra/libb64,main,"Daniel Taylor"
 glslang,16.5.0 1,https://github.com/oatbiscuit/pkg.git,extra/glslang,main,"Daniel Taylor"
+linux,6.18.14 1,https://github.com/oatbiscuit/pkg.git,pkg/linux,main,"Daniel Taylor"
 otb,0.1.0 1,https://github.com/oatbiscuit/pkg.git,pkg/otb,main,"Daniel Taylor"
 fzf,0.74.3 1,https://github.com/oatbiscuit/pkg.git,pkg/fzf,main,"Daniel Taylor"
 zig-master,git 1,https://github.com/ominitay/kiss-zig.git,zig/zig-master,master,"Ominitay"
