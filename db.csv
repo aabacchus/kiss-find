@@ -7737,7 +7737,7 @@ linux,6.18.14 2,https://github.com/oatbiscuit/pkg.git,pkg/linux,main,"Daniel Tay
 linux-firmware,20260910 1,https://github.com/oatbiscuit/pkg.git,pkg/linux-firmware,main,"Daniel Taylor"
 otb,0.1.0 1,https://github.com/oatbiscuit/pkg.git,pkg/otb,main,"Daniel Taylor"
 fzf,0.74.3 1,https://github.com/oatbiscuit/pkg.git,pkg/fzf,main,"Daniel Taylor"
-mct,0.1.0 1,https://github.com/oatbiscuit/pkg.git,pkg/mct,main,"Daniel Taylor"
+mct,0.2.0 1,https://github.com/oatbiscuit/pkg.git,pkg/mct,main,"Daniel Taylor"
 zig-master,git 1,https://github.com/ominitay/kiss-zig.git,zig/zig-master,master,"Ominitay"
 zig,0.8.0 1,https://github.com/ominitay/kiss-zig.git,zig/zig,master,"Ominitay"
 llvm,12.0.0 2,https://github.com/ominitay/kiss-zig.git,zig/llvm,master,"Ominitay"
