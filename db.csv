@@ -7735,6 +7735,7 @@ libb64,2.0.0.1 1,https://github.com/oatbiscuit/pkg.git,extra/libb64,main,"Daniel
 glslang,16.5.0 1,https://github.com/oatbiscuit/pkg.git,extra/glslang,main,"Daniel Taylor"
 linux,6.18.14 2,https://github.com/oatbiscuit/pkg.git,pkg/linux,main,"Daniel Taylor"
 linux-firmware,20260910 1,https://github.com/oatbiscuit/pkg.git,pkg/linux-firmware,main,"Daniel Taylor"
+localsend-cli,1.18.2 1,https://github.com/oatbiscuit/pkg.git,pkg/localsend-cli,main,"Daniel Taylor"
 otb,0.1.0 1,https://github.com/oatbiscuit/pkg.git,pkg/otb,main,"Daniel Taylor"
 fzf,0.74.3 1,https://github.com/oatbiscuit/pkg.git,pkg/fzf,main,"Daniel Taylor"
 mct,0.2.0 1,https://github.com/oatbiscuit/pkg.git,pkg/mct,main,"Daniel Taylor"
