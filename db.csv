@@ -1024,7 +1024,7 @@ mdevd,0.1.8.2 1,https://codeberg.org/kiss-community/grepo.git,extra/mdevd,master
 python-glad,2.0.8 2,https://codeberg.org/kiss-community/grepo.git,extra/python-glad,master,"Owen Rafferty"
 e2fsprogs,1.47.4 1,https://codeberg.org/kiss-community/grepo.git,extra/e2fsprogs,master,"vouivre"
 llvm,22.1.8 1,https://codeberg.org/kiss-community/grepo.git,extra/llvm,master,"vouivre"
-adwaita-icon-theme,50.0 1,https://codeberg.org/kiss-community/grepo.git,extra/adwaita-icon-theme,master,"vouivre"
+adwaita-icon-theme,51.0 1,https://codeberg.org/kiss-community/grepo.git,extra/adwaita-icon-theme,master,"vouivre"
 libjpeg-turbo,3.2.0 1,https://codeberg.org/kiss-community/grepo.git,extra/libjpeg-turbo,master,"vouivre"
 libva,2.24.1 1,https://codeberg.org/kiss-community/grepo.git,extra/libva,master,"vouivre"
 libretls,3.8.1 1,https://codeberg.org/kiss-community/grepo.git,extra/libretls,master,"Owen Rafferty"
