@@ -5950,6 +5950,7 @@ eudev,3.2.10 1,https://github.com/konimex/kiss-personal.git,eudev,master,"Muhamm
 pciutils,symlink,https://github.com/konimex/kiss-personal.git,pciutils,master,"unknown"
 dummy-b,symlink,https://github.com/konimex/kiss-personal.git,dummy-b,master,"unknown"
 tome4,1.7.6 1,https://github.com/kyx0r/repo-main.git,games/tome4,master,"Kyryl Melekhin"
+cataclysm-dda,0.I-1 1,https://github.com/kyx0r/repo-main.git,games/cataclysm-dda,master,"Kyryl Melekhin"
 fiqhack,git 1,https://github.com/kyx0r/repo-main.git,games/fiqhack,master,"Kyryl Melekhin"
 zstd,1.5.7 1,https://github.com/kyx0r/repo-main.git,extra/zstd,master,"Kyryl Melekhin"
 muon,git 1,https://github.com/kyx0r/repo-main.git,extra/muon,master,"Kyryl Melekhin"
