@@ -6107,7 +6107,7 @@ unifdef-git,git 1,https://github.com/kyx0r/repo-main.git,community/unifdef-git,m
 sdl2-compat,2.32.72 1,https://github.com/kyx0r/repo-main.git,community/sdl2-compat,master,"Kyryl Melekhin"
 gdb,17.2 1,https://github.com/kyx0r/repo-main.git,community/gdb,master,"Kyryl Melekhin"
 imlib2,1.12.6 1,https://github.com/kyx0r/repo-main.git,community/imlib2,master,"Kyryl Melekhin"
-nextvi,7.5 1,https://github.com/kyx0r/repo-main.git,community/nextvi,master,"Kyryl Melekhin"
+nextvi,7.7 1,https://github.com/kyx0r/repo-main.git,community/nextvi,master,"Kyryl Melekhin"
 radare2,6.2.2 1,https://github.com/kyx0r/repo-main.git,community/radare2,master,"Kyryl Melekhin"
 vulkan-headers,1.4.362 1,https://github.com/kyx0r/repo-main.git,community/vulkan-headers,master,"Kyryl Melekhin"
 sdl3,3.4.12 1,https://github.com/kyx0r/repo-main.git,community/sdl3,master,"Kyryl Melekhin"
