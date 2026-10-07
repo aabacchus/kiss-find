@@ -6180,6 +6180,7 @@ premake4,4.4-beta5 1,https://github.com/kyx0r/repo-main.git,community/premake4,m
 patchelf,0.19.1 1,https://github.com/kyx0r/repo-main.git,community/patchelf,master,"Kyryl Melekhin"
 mingw-w64-headers,14.0.0 1,https://github.com/kyx0r/repo-main.git,community/mingw-w64-headers,master,"Kyryl Melekhin"
 xclip,0.13 1,https://github.com/kyx0r/repo-main.git,community/xclip,master,"Kyryl Melekhin"
+memtester,4.5.1 1,https://github.com/kyx0r/repo-main.git,community/memtester,master,"Kyryl Melekhin"
 gst-plugins-good,1.29.2 1,https://github.com/kyx0r/repo-main.git,community/gst-plugins-good,master,"Kyryl Melekhin"
 mingw-w64-winpthreads,14.0.0 1,https://github.com/kyx0r/repo-main.git,community/mingw-w64-winpthreads,master,"Kyryl Melekhin"
 grabc,1.1 1,https://github.com/kyx0r/repo-main.git,community/grabc,master,"Kyryl Melekhin"
