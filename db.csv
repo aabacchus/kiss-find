@@ -397,6 +397,7 @@ xfce4-session,4.20.4 1,https://codeberg.org/LUSU/repo.git,extra/xfce4-session,ma
 cairo-dock,3.6.2 1,https://codeberg.org/LUSU/repo.git,extra/cairo-dock,main,"stilic"
 gcr3,3.41.2 1,https://codeberg.org/LUSU/repo.git,extra/gcr3,main,"stilic"
 libva,2.24.1 1,https://codeberg.org/LUSU/repo.git,extra/libva,main,"stilic"
+erofs-utils,1.9.1 1,https://codeberg.org/LUSU/repo.git,extra/erofs-utils,main,"stilic"
 nspr,4.40 1,https://codeberg.org/LUSU/repo.git,extra/nspr,main,"stilic"
 libmodplug,0.8.9.0 1,https://codeberg.org/LUSU/repo.git,extra/libmodplug,main,"stilic"
 libxfce4windowing,4.20.7 1,https://codeberg.org/LUSU/repo.git,extra/libxfce4windowing,main,"stilic"
