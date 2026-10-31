@@ -6399,7 +6399,7 @@ vulkan-utility-libraries,git 1,https://github.com/kyx0r/repo-main.git,community/
 rocm-hip,7.2.4 1,https://github.com/kyx0r/repo-main.git,community/rocm-hip,master,"Kyryl Melekhin"
 libtorrent,0.16.17 1,https://github.com/kyx0r/repo-main.git,community/libtorrent,master,"Kyryl Melekhin"
 unifont,17.0.05 1,https://github.com/kyx0r/repo-main.git,community/unifont,master,"Kyryl Melekhin"
-strata,0.2.7 1,https://github.com/kyx0r/repo-main.git,community/strata,master,"Kyryl Melekhin"
+strata,0.2.8 1,https://github.com/kyx0r/repo-main.git,community/strata,master,"Kyryl Melekhin"
 libexif,0.6.26 1,https://github.com/kyx0r/repo-main.git,community/libexif,master,"Kyryl Melekhin"
 fortune,0.0.1 2,https://github.com/kyx0r/repo-main.git,community/fortune,master,"Kyryl Melekhin"
 perl,5.42.2 1,https://github.com/kyx0r/repo-main.git,community/perl,master,"Kyryl Melekhin"
