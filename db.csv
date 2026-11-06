@@ -1232,7 +1232,7 @@ libevdev,1.14.0 1,https://codeberg.org/kiss-community/repo.git,wayland/libevdev,
 libdrm,2.4.134 1,https://codeberg.org/kiss-community/repo.git,wayland/libdrm,master,"Owen Rafferty"
 foot,1.28.0 1,https://codeberg.org/kiss-community/repo.git,wayland/foot,master,"Owen Rafferty"
 mtdev,1.1.7 1,https://codeberg.org/kiss-community/repo.git,wayland/mtdev,master,"Owen Rafferty"
-musl,1.2.6 2,https://codeberg.org/kiss-community/repo.git,core/musl,master,"Owen Rafferty"
+musl,1.2.6 3,https://codeberg.org/kiss-community/repo.git,core/musl,master,"Owen Rafferty"
 openssl,4.0.3 1,https://codeberg.org/kiss-community/repo.git,core/openssl,master,"Owen Rafferty"
 b3sum,1.3.1 1,https://codeberg.org/kiss-community/repo.git,core/b3sum,master,"git-bruh"
 libmpc,1.4.1 1,https://codeberg.org/kiss-community/repo.git,core/libmpc,master,"Owen Rafferty"
